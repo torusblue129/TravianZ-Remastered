@@ -1,41 +1,19 @@
 
 <p class=f9>
-
-    At the beginning you should try to get a good economic basis. In order to do so you have to extend the 18 resource fields (village overview). There are four different types of resource fields: Woodcutter, Clay pit, Iron mine and Cropland. If you click one of them, you will get more information and the option to extend it.
-
-<br><br>
-
-Later in the game the buildings in the village become important too. In order to construct a new building you have to click on one of the green ovals. A list with every building that is available will appear.
-
-<br><br>
-
-Some buildings can only be built if you fulfil the prerequisites which are other buildings.</p>
+  At the beginning you should try to get a good economic basis. In order to do so you have to extend the 18 resource fields (village overview). There are four different types of resource fields: Woodcutter, Clay pit, Iron mine and Cropland. If you click one of them, you will get more information and the option to extend it.<br><br>
+  Later in the game the buildings in the village become important too. In order to construct a new building you have to click on one of the green ovals. A list with every building that is available will appear.<br><br>
+  Some buildings can only be built if you fulfil the prerequisites which are other buildings.
+</p>
 
 <h2>Main Building</h2>
 
-
-
-
-
 <p>
-
-<img src="img/un/h/gid15.gif" width=166 height=150 border=0 alt="Main Building" title="Main Building" align="left" />
-
-The village's master builders live in the main building. The higher its level the faster your master builders complete the construction of new buildings.
-
-<br><br>
-
-<b>Tribe advantage:</b><br>
-
-Romans: Can build/extend a resource field and a village building at the same time.    <br>
-
-    <br>
-
-    <b>Costs</b> and <b>construction time</b> for level 1:    <br>
-
-    <img src=img/un/res/1.gif width=18 height=12 alt=Lumber " title="
-
-    Lumber    " style="padding-top: 4px" />
+  <img src="img/un/h/gid15.gif" width=166 height=150 border=0 alt="Main Building" title="Main Building" align="left" />
+  The village's master builders live in the main building. The higher its level the faster your master builders complete the construction of new buildings.<br><br>
+  <b>Tribe advantage:</b><br><br>
+  Romans: Can build/extend a resource field and a village building at the same time.<br><br>
+  <b>Costs</b> and <b>construction time</b> for level 1:<br>
+  <img src=img/un/res/1.gif width=18 height=12 alt=Lumber "title="Lumber" style="padding-top: 4px""/>
 
     70    | <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="Clay">
 
@@ -647,7 +625,7 @@ The Capital is the only place a stonemason's lodge can be erected. Also the capi
 
 <img src="img/un/h/gid25.gif" width=166 height=150 border=0 alt="Residence" title="Residence" align="left" />
 
-The residence is a small palace where the king or queen lives when he or she visits the village. The residence protects the village against enemies who want to conquer it as long as it is not destroyed. 
+The residence is a small palace where the king or queen lives when he or she visits the village. The residence protects the village against enemies who want to conquer it as long as it is not destroyed.
 
 <br><br>
 
@@ -776,10 +754,10 @@ Your troops can train to increase their stamina at the tournament square. The fu
     <br>
 
     Rally Point Level 15</p>
-	</div> 
-	<div class="clear"></div> 
-</div> 
- 
+	</div>
+	<div class="clear"></div>
+</div>
+
 <div id="footer">
 
 	<div class="container">
@@ -790,5 +768,5 @@ Your troops can train to increase their stamina at the tournament square. The fu
 
 	</div>
 
-</div> 
-</div> 
+</div>
+</div>
