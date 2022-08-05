@@ -5,35 +5,35 @@
 ##                                                                             ##
 ## --------------------------------------------------------------------------- ##
 ##                                                                             ##
-##  Project:       ZravianX                                                    ##
-##  Version:       2011.11.06                                                  ##
-##  Filename:      Templates/Travian/3.6/Tutorial/2.tpl                        ##
-##  Edited by:     ZZJHONS                                                     ##
+##  Project:       TravianZ-Remastered                                         ##
+##  Version:       v8.3.5                                                      ##
+##  Filename:      Travian/Templates/Tutorial/2.tpl                            ##
+##  Edited by:     Torusblue129                                                ##
 ##  License:       Creative Commons BY-NC-SA 3.0                               ##
-##  Copyright:     ZravianX (c) 2011 - All rights reserved                     ##
-##  URLs:          http://zravianx.zzjhons.com                                 ##
-##  Source code:   http://www.github.com/ZZJHONS/ZravianX                      ##
+##  Copyright:     TravianZ (c) 2011 - All rights reserved                     ##
+##  URLs:          http://travianca.x10.mx/                                    ##
+##  Source code:   https://github.com/torusblue129/TravianZ-Remastered         ##
 ##                                                                             ##
 #################################################################################
 ?>
-<h2>(2/5) Resources</h2>
+<h2>(2/5) 資源</h2>
             <table class="tutorial_table">
                 <tbody>
                     <tr>
                         <td class="visual">
                             <img src="img/en/tut/rohstofffeld.gif" alt="" />
-                            1. Choose a resource field
+                            １）選擇資源田
                         </td>
                         <td class="visual">
                             <img src="img/en/tut/rohstofffeld2.gif" alt="" />
-                            2. Extend the resource field
+                            ２）興建資源田
                         </td>
                     </tr>
                     <tr>
                         <td class="beschreibung" colspan="2">
-                            There are four different types of resources in Travian: lumber, clay, iron and crop.
+                            在 Travian 遊戲中有四種資源：木材、磚塊、鋼鐵和穀物
                             <br><br>
-                            Before you expand your village's buildings, you should develop some resource fields to increase your resource supply.
+                            在開始發展您的村莊之前，您需要興建資源田來增加資源的供給。
                         </td>
                     </tr>
                 </tbody>
@@ -42,28 +42,28 @@
                 <tbody>
                     <tr>
                         <td class="nav_prev">
-                            <a href="tutorial.php" title="back">&laquo; back</a>
+                            <a href="tutorial.php" title="back">&laquo; 上一頁</a>
                         </td>
                         <td class="nav_next">
-                            <a href="tutorial.php?s=3" title="forward">forward &raquo;</a>
+                            <a href="tutorial.php?s=3" title="forward">下一頁 &raquo;</a>
                         </td>
                     </tr>
                 </tbody>
             </table>
-        </div> 
-        <div class="clear"></div> 
-    </div> 
+        </div>
+        <div class="clear"></div>
+    </div>
     <div id="footer">
         <div class="container">
             <a href="#" class="logo"><img src="img/x.gif" alt="Travian Games" class="logo_traviangames" /></a>
             <ul class="menu">
                 <li><a href="anleitung.php?s=3">FAQ</a>|</li>
-                <li><a href="index.php?screenshots">Screenshots</a>|</li>
-                <li><a href="spielregeln.php">Game Rules</a>|</li>
-                <li><a href="agb.php">Terms</a>|</li>
-                <li><a href="impressum.php">Imprint</a></li>
+                <li><a href="index.php?screenshots">遊戲畫面</a>|</li>
+                <li><a href="spielregeln.php">玩家守則</a>|</li>
+                <li><a href="agb.php">服務條款</a>|</li>
+                <li><a href="impressum.php">關於我們</a></li>
                 <li class="copyright">&copy; 2010 - <?php echo date('Y') . ' ' . (defined('SERVER_NAME') ? SERVER_NAME : 'TravianZ');?> All rights reserved</li>
             </ul>
         </div>
-    </div> 
+    </div>
 </div>
