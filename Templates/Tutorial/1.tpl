@@ -7,7 +7,7 @@
 ##                                                                             ##
 ##  Project:       TravianZ-Remastered                                         ##
 ##  Version:       v8.3.5                                                      ##
-##  Filename:      Travian/Templates/Tutorial/1.tpl                            ##
+##  Filename:      Templates/Tutorial/1.tpl                                    ##
 ##  Edited by:     Torusblue129                                                ##
 ##  License:       Creative Commons BY-NC-SA 3.0                               ##
 ##  Copyright:     TravianZ (c) 2011 - All rights reserved                     ##
