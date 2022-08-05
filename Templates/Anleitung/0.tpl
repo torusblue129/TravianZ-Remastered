@@ -22,27 +22,27 @@
     <tr>
       <th colspan="2">&nbsp;</th>
       <th>
-        <img src="img/un/h/att_all.gif" width="16" height="16" border="0" alt="Attack value" title="Attack value" />
+        <img src="img/un/h/att_all.gif" width="16" height="16" border="0" alt="Attack value" title="攻擊力" />
       </th>
       <th>
-        <img src="img/un/h/def_i.gif" width="16" height="16" border="0" alt="Defence value against infantry" title="Defence value against infantry" />
+        <img src="img/un/h/def_i.gif" width="16" height="16" border="0" alt="Defence value against infantry" title="防步" />
       </th>
       <th>
-        <img src="img/un/h/def_c.gif" width="16" height="16" border="0" alt="Defence value against cavalry" title="Defence value against cavalry" />
+        <img src="img/un/h/def_c.gif" width="16" height="16" border="0" alt="Defence value against cavalry" title="防騎" />
       </th>
       <th>
-        <img src="img/un/res/1.gif" width="18" height="12" border="0" alt="lumber" />
+        <img src="img/un/res/1.gif" width="18" height="12" border="0" alt="木材" />
       </th>
       <th>
-        <img src="img/un/res/2.gif" width="18" height="12" border="0" alt="clay" />
+        <img src="img/un/res/2.gif" width="18" height="12" border="0" alt="磚塊" />
       </th>
       <th>
-        <img src="img/un/res/3.gif" width="18" height="12" border="0" alt="iron" />
+        <img src="img/un/res/3.gif" width="18" height="12" border="0" alt="鋼鐵" />
       </th>
       <th>
-        <img src="img/un/res/4.gif" width="18" height="12" border="0" alt="crop" />
+        <img src="img/un/res/4.gif" width="18" height="12" border="0" alt="穀物" />
       </th>
-      <th title="fields/hour">Speed	</th>
+      <th title="fields/hour">速度</th>
     </tr>
   </thead>
 
