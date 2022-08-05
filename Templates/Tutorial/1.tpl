@@ -42,10 +42,10 @@
                 <tbody>
                     <tr>
                         <td class="nav_prev">
-                            <a href="index.php" title="back">&laquo; back</a>
+                            <a href="index.php" title="back">&laquo; 上一頁</a>
                         </td>
                         <td class="nav_next">
-                            <a href="tutorial.php?s=2" title="forward">forward &raquo;</a>
+                            <a href="tutorial.php?s=2" title="forward">下一頁 &raquo;</a>
                         </td>
                     </tr>
                 </tbody>
