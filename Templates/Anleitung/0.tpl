@@ -1,410 +1,220 @@
 <p>
+    在Travian世界裡有三個種族：羅馬、高盧和條頓。每個種族有他的優勢和劣勢，而他們的軍隊種類亦各有不同。所以在開始打這場戰爭之前，有必要了解哪一個種族最適合您。俗語說：知己知彼，百戰百勝。
+</p>
 
-    You can choose between three tribes in Travian: Romans, Gauls and Teutons. Each tribe has advantages and disadvantages and their troops are also very different. It is important to choose the tribe that fits you perfectly.</p>
-
-
-
-<h2>The Romans</h2>
-
-<p>
-
-	<img align="right" src="img/un/h//roemer.jpg" width="128" height="156" border="0" alt="Roman">
-
-Because of its high level of social and technological development the Romans are masters at building and its coordination. Also, their troops are part of the elite in Travian. They are very balanced and useful in attacking and defending.<br><br>
-
-To guarantee this variety the Roman troops are trained for a very long time and their training is expensive. Their infantry is a living legend, but their defence against enemy cavalry isn't as good as that of the other tribes. The amount of resources a Roman merchant is able to carry is very low.<br><br>
-
-Because they are weak at the beginning of the game, they are a bad choice for beginners.</p>
-
-
+<h2>羅馬人</h2>
+  <p>
+    <img align="right" src="img/un/h//roemer.jpg" width="128" height="156" border="0" alt="Roman">
+    羅馬帝國可以說是最適合初學玩家的民族。擁有高度社會文明及發達科技的羅馬人是一個攻守俱佳的種族，但反之因為需要確保每一名士兵都有出色的攻防能力，羅馬部隊需要較多的資源及時間去訓練。換句話說，羅馬部隊的開發成本是三個種族中最高亦是最慢的。<br><br>
+    羅馬擁有優秀的步兵，但步兵對敵方的騎兵防守力比另外兩個種族來得弱。<br><br>
+    如果您是一個還沒有學會調兵遣將，合縱聯橫的初學者，羅馬人是您的最佳選擇。
+  </p>
 
 <table cellspacing="1" cellpadding="2" class="table_data">
-
-<thead>
-
-<tr>
-
-	<td colspan="10">
-
-	    <h3>The Roman troops</h3>
-
-	</td>
-
-</tr>
-
-<tr>
-
-	<th colspan="2">
-
-	    &nbsp;
-
-	</th>
-
-	<th>
-
-	    <img src="img/un/h/att_all.gif" width="16" height="16" border="0" alt="Attack value" title="Attack value" />
-
-	</th>
-
-	<th>
-
-	    <img src="img/un/h/def_i.gif" width="16" height="16" border="0" alt="Defence value against infantry" title="Defence value against infantry" />
-
-	</th>
-
-	<th>
-
-	    <img src="img/un/h/def_c.gif" width="16" height="16" border="0" alt="Defence value against cavalry" title="Defence value against cavalry" />
-
-	</th>
-
-	<th>
-
-	    <img src="img/un/res/1.gif" width="18" height="12" border="0" alt="lumber" />
-
-	</th>
-
-	<th>
-
-	    <img src="img/un/res/2.gif" width="18" height="12" border="0" alt="clay" />
-
-	</th>
-
-	<th>
-
-	    <img src="img/un/res/3.gif" width="18" height="12" border="0" alt="iron" />
-
-	</th>
-
-	<th>
-
-	    <img src="img/un/res/4.gif" width="18" height="12" border="0" alt="crop" />
-
-	</th>
-
-	<th title="fields/hour">
-
-	    Speed	</th>
-
-</tr>
-
-</thead>
-
-<tbody>
-
-<tr>
-
-	<td width="25" align="center">
-
-		<a href="#" onClick="return Popup(1,1,'');"><img src="img/un/u/1.gif" width="16" height="16" border="0" alt=""></a>
-
-	</td>
-
-	<td class="text" width="135">Legionnaire</td>
-
-	<td width="25">40</td>
-
-	<td>35</td>
-
-	<td>50</td>
-
-	<td>120</td>
-
-	<td>100</td>
-
-	<td>150</td>
-
-	<td>30</td>
-
-	<td>6</td>
-
-</tr>
-
-<tr>
-
-	<td width="25" align="center">
-
-		<a href="#" onClick="return Popup(1,2,'');"><img src="img/un/u/2.gif" width="16" height="16" border="0" alt=""></a>
-
-	</td>
-
-	<td class="text" width="135">Praetorian</td>
-
-	<td width="25">30</td>
-
-	<td>65</td>
-
-	<td>35</td>
-
-	<td>100</td>
-
-	<td>130</td>
-
-	<td>160</td>
-
-	<td>70</td>
-
-	<td>5</td>
-
-</tr>
-
-<tr>
-
-	<td width="25" align="center">
-
-		<a href="#" onClick="return Popup(1,3,'');"><img src="img/un/u/3.gif" width="16" height="16" border="0" alt=""></a>
-
-	</td>
-
-	<td class="text" width="135">Imperian</td>
-
-	<td width="25">70</td>
-
-	<td>40</td>
-
-	<td>25</td>
-
-	<td>150</td>
-
-	<td>160</td>
-
-	<td>210</td>
-
-	<td>80</td>
-
-	<td>7</td>
-
-</tr>
-
-<tr>
-
-	<td width="25" align="center">
-
-		<a href="#" onClick="return Popup(1,4,'');"><img src="img/un/u/4.gif" width="16" height="16" border="0" alt=""></a>
-
-	</td>
-
-	<td class="text" width="135">Equites Legati</td>
-
-	<td width="25">0</td>
-
-	<td>20</td>
-
-	<td>10</td>
-
-	<td>140</td>
-
-	<td>160</td>
-
-	<td>20</td>
-
-	<td>40</td>
-
-	<td>16</td>
-
-</tr>
-
-<tr>
-
-	<td width="25" align="center">
-
-		<a href="#" onClick="return Popup(1,5,'');"><img src="img/un/u/5.gif" width="16" height="16" border="0" alt=""></a>
-
-	</td>
-
-	<td class="text" width="135">Equites Imperatoris</td>
-
-	<td width="25">120</td>
-
-	<td>65</td>
-
-	<td>50</td>
-
-	<td>550</td>
-
-	<td>440</td>
-
-	<td>320</td>
-
-	<td>100</td>
-
-	<td>14</td>
-
-</tr>
-
-<tr>
-
-	<td width="25" align="center">
-
-		<a href="#" onClick="return Popup(1,6,'');"><img src="img/un/u/6.gif" width="16" height="16" border="0" alt=""></a>
-
-	</td>
-
-	<td class="text" width="135">Equites Caesaris</td>
-
-	<td width="25">180</td>
-
-	<td>80</td>
-
-	<td>105</td>
-
-	<td>550</td>
-
-	<td>640</td>
-
-	<td>800</td>
-
-	<td>180</td>
-
-	<td>10</td>
-
-</tr>
-
-<tr>
-
-	<td width="25" align="center">
-
-		<a href="#" onClick="return Popup(1,7,'');"><img src="img/un/u/7.gif" width="16" height="16" border="0" alt=""></a>
-
-	</td>
-
-	<td class="text" width="135">Battering Ram</td>
-
-	<td width="25">60</td>
-
-	<td>30</td>
-
-	<td>75</td>
-
-	<td>900</td>
-
-	<td>360</td>
-
-	<td>500</td>
-
-	<td>70</td>
-
-	<td>4</td>
-
-</tr>
-
-<tr>
-
-	<td width="25" align="center">
-
-		<a href="#" onClick="return Popup(1,8,'');"><img src="img/un/u/8.gif" width="16" height="16" border="0" alt=""></a>
-
-	</td>
-
-	<td class="text" width="135">Fire Catapult</td>
-
-	<td width="25">75</td>
-
-	<td>60</td>
-
-	<td>10</td>
-
-	<td>950</td>
-
-	<td>1350</td>
-
-	<td>600</td>
-
-	<td>90</td>
-
-	<td>3</td>
-
-</tr>
-
-<tr>
-
-	<td width="25" align="center">
-
-		<a href="#" onClick="return Popup(1,9,'');"><img src="img/un/u/9.gif" width="16" height="16" border="0" alt=""></a>
-
-	</td>
-
-	<td class="text" width="135">Senator</td>
-
-	<td width="25">50</td>
-
-	<td>40</td>
-
-	<td>30</td>
-
-	<td>30750</td>
-
-	<td>27200</td>
-
-	<td>45000</td>
-
-	<td>37500</td>
-
-	<td>4</td>
-
-</tr>
-
-<tr>
-
-	<td width="25" align="center">
-
-		<a href="#" onClick="return Popup(1,10,'');"><img src="img/un/u/10.gif" width="16" height="16" border="0" alt=""></a>
-
-	</td>
-
-	<td class="text" width="135">Settler</td>
-
-	<td width="25">0</td>
-
-	<td>80</td>
-
-	<td>80</td>
-
-	<td>5800</td>
-
-	<td>5300</td>
-
-	<td>7200</td>
-
-	<td>5500</td>
-
-	<td>5</td>
-
-</tr>
-
-</tbody>
-
+  <thead>
+
+    <tr>
+      <td colspan="10">
+        <h3>羅馬軍隊</h3>
+      </td>
+    </tr>
+
+    <tr>
+      <th colspan="2">
+        &nbsp;
+      </th>
+      <th>
+        <img src="img/un/h/att_all.gif" width="16" height="16" border="0" alt="Attack value" title="Attack value" />
+      </th>
+      <th>
+        <img src="img/un/h/def_i.gif" width="16" height="16" border="0" alt="Defence value against infantry" title="Defence value against infantry" />
+      </th>
+      <th>
+        <img src="img/un/h/def_c.gif" width="16" height="16" border="0" alt="Defence value against cavalry" title="Defence value against cavalry" />
+      </th>
+      <th>
+        <img src="img/un/res/1.gif" width="18" height="12" border="0" alt="lumber" />
+      </th>
+      <th>
+        <img src="img/un/res/2.gif" width="18" height="12" border="0" alt="clay" />
+      </th>
+      <th>
+        <img src="img/un/res/3.gif" width="18" height="12" border="0" alt="iron" />
+      </th>
+      <th>
+        <img src="img/un/res/4.gif" width="18" height="12" border="0" alt="crop" />
+      </th>
+      <th title="fields/hour">Speed	</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td width="25" align="center">
+        <a href="#" onClick="return Popup(1,1,'');"><img src="img/un/u/1.gif" width="16" height="16" border="0" alt=""></a>
+      </td>
+      <td class="text" width="135">Legionnaire</td>
+      <td width="25">40</td>
+      <td>35</td>
+      <td>50</td>
+      <td>120</td>
+      <td>100</td>
+      <td>150</td>
+      <td>30</td>
+      <td>6</td>
+    </tr>
+
+    <tr>
+      <td width="25" align="center">
+        <a href="#" onClick="return Popup(1,2,'');"><img src="img/un/u/2.gif" width="16" height="16" border="0" alt=""></a>
+      </td>
+      <td class="text" width="135">Praetorian</td>
+      <td width="25">30</td>
+      <td>65</td>
+      <td>35</td>
+      <td>100</td>
+      <td>130</td>
+      <td>160</td>
+      <td>70</td>
+      <td>5</td>
+    </tr>
+
+    <tr>
+      <td width="25" align="center">
+        <a href="#" onClick="return Popup(1,3,'');"><img src="img/un/u/3.gif" width="16" height="16" border="0" alt=""></a>
+      </td>
+      <td class="text" width="135">Imperian</td>
+      <td width="25">70</td>
+      <td>40</td>
+      <td>25</td>
+      <td>150</td>
+      <td>160</td>
+      <td>210</td>
+      <td>80</td>
+      <td>7</td>
+    </tr>
+
+    <tr>
+      <td width="25" align="center">
+        <a href="#" onClick="return Popup(1,4,'');"><img src="img/un/u/4.gif" width="16" height="16" border="0" alt=""></a>
+      </td>
+      <td class="text" width="135">Equites Legati</td>
+      <td width="25">0</td>
+      <td>20</td>
+      <td>10</td>
+      <td>140</td>
+      <td>160</td>
+      <td>20</td>
+      <td>40</td>
+      <td>16</td>
+    </tr>
+
+    <tr>
+      <td width="25" align="center">
+        <a href="#" onClick="return Popup(1,5,'');"><img src="img/un/u/5.gif" width="16" height="16" border="0" alt=""></a>
+      </td>
+      <td class="text" width="135">Equites Imperatoris</td>
+      <td width="25">120</td>
+      <td>65</td>
+      <td>50</td>
+      <td>550</td>
+      <td>440</td>
+      <td>320</td>
+      <td>100</td>
+      <td>14</td>
+    </tr>
+
+    <tr>
+      <td width="25" align="center">
+        <a href="#" onClick="return Popup(1,6,'');"><img src="img/un/u/6.gif" width="16" height="16" border="0" alt=""></a>
+      </td>
+      <td class="text" width="135">Equites Caesaris</td>
+      <td width="25">180</td>
+      <td>80</td>
+      <td>105</td>
+      <td>550</td>
+      <td>640</td>
+      <td>800</td>
+      <td>180</td>
+      <td>10</td>
+    </tr>
+
+    <tr>
+      <td width="25" align="center">
+        <a href="#" onClick="return Popup(1,7,'');"><img src="img/un/u/7.gif" width="16" height="16" border="0" alt=""></a>
+      </td>
+      <td class="text" width="135">Battering Ram</td>
+      <td width="25">60</td>
+      <td>30</td>
+      <td>75</td>
+      <td>900</td>
+      <td>360</td>
+      <td>500</td>
+      <td>70</td>
+      <td>4</td>
+    </tr>
+
+    <tr>
+      <td width="25" align="center">
+        <a href="#" onClick="return Popup(1,8,'');"><img src="img/un/u/8.gif" width="16" height="16" border="0" alt=""></a>
+      </td>
+      <td class="text" width="135">Fire Catapult</td>
+      <td width="25">75</td>
+      <td>60</td>
+      <td>10</td>
+      <td>950</td>
+      <td>1350</td>
+      <td>600</td>
+      <td>90</td>
+      <td>3</td>
+    </tr>
+
+    <tr>
+      <td width="25" align="center">
+        <a href="#" onClick="return Popup(1,9,'');"><img src="img/un/u/9.gif" width="16" height="16" border="0" alt=""></a>
+      </td>
+      <td class="text" width="135">Senator</td>
+      <td width="25">50</td>
+      <td>40</td>
+      <td>30</td>
+      <td>30750</td>
+      <td>27200</td>
+      <td>45000</td>
+      <td>37500</td>
+      <td>4</td>
+    </tr>
+
+    <tr>
+      <td width="25" align="center">
+        <a href="#" onClick="return Popup(1,10,'');"><img src="img/un/u/10.gif" width="16" height="16" border="0" alt=""></a>
+      </td>
+      <td class="text" width="135">Settler</td>
+      <td width="25">0</td>
+      <td>80</td>
+      <td>80</td>
+      <td>5800</td>
+      <td>5300</td>
+      <td>7200</td>
+      <td>5500</td>
+      <td>5</td>
+    </tr>
+  </tbody>
 </table>
 
-
-
 <h3>The specialties</h3>
-
-
-
 <ul class="characteristics">
-
-	<li>Can raise or extend a building and resource field simultaneously</li>
-
-<li>The City Wall gives a high defence bonus</li>
-
-<li>Merchants can carry 500 units of resources (speed: 16 fields/hour)</li>
-
-<li>Very powerful infantry, average cavalry</li>
-
-<li>Development is expensive and takes a long time.</li></ul>
-
-
-
-
+  <li>Can raise or extend a building and resource field simultaneously</li>
+  <li>The City Wall gives a high defence bonus</li>
+  <li>Merchants can carry 500 units of resources (speed: 16 fields/hour)</li>
+  <li>Very powerful infantry, average cavalry</li>
+  <li>Development is expensive and takes a long time.</li>
+</ul>
 
 <h2>The Gauls</h2>
 
 <p>
-
-	<img align="right" src="img/un/h//gallier.jpg" width="96" height="156" border="0" alt="The Gauls">
-
-The Gauls are the most peaceful of all three tribes in Travian. Their troops are trained for an excellent defence, but their ability to attack can still compete with the other two tribes. The Gauls are born riders and their horses are famous for their speed. This means that their riders can hit the enemy exactly where they can cause the most damage and swiftly take care of them.<br><br>
+  <img align="right" src="img/un/h//gallier.jpg" width="96" height="156" border="0" alt="The Gauls">
+  The Gauls are the most peaceful of all three tribes in Travian. Their troops are trained for an excellent defence, but their ability to attack can still compete with the other two tribes. The Gauls are born riders and their horses are famous for their speed. This means that their riders can hit the enemy exactly where they can cause the most damage and swiftly take care of them.<br><br>
 
 This tribe is very easy to defend, but an aggressive tactic is possible too. This gives you the opportunity to develop into any possible strategic direction (defensive or aggressive, lone wolf or reliable helper, merchant or plunderer, infantry or cavalry, settler or conqueror), but you need a bit of experience and talent.<br><br>
 
@@ -800,7 +610,7 @@ For beginners and those players who don't know exactly what they want to play, t
 
 	<img align="left" src="img/un/h//germane.jpg" width="104" height="151" border="0" alt="Teuton">
 
-The Teutons are the most aggressive tribe. Their troops are notorious and feared for their rage and frenzy when they attack. They move around as a plundering horde, not even afraid of death. 
+The Teutons are the most aggressive tribe. Their troops are notorious and feared for their rage and frenzy when they attack. They move around as a plundering horde, not even afraid of death.
 
 <br><br>
 
@@ -1188,10 +998,10 @@ For aggressive and experienced players the Teutons are an excellent choice!</p>
 
 
 
-	</div> 
-	<div class="clear"></div> 
-</div> 
- 
+	</div>
+	<div class="clear"></div>
+</div>
+
 <div id="footer">
 
 	<div class="container">
@@ -1202,5 +1012,5 @@ For aggressive and experienced players the Teutons are an excellent choice!</p>
 
 	</div>
 
-</div> 
-</div> 
+</div>
+</div>
