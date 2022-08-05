@@ -13,29 +13,15 @@
   <b>Tribe advantage:</b><br><br>
   Romans: Can build/extend a resource field and a village building at the same time.<br><br>
   <b>Costs</b> and <b>construction time</b> for level 1:<br>
-  <img src=img/un/res/1.gif width=18 height=12 alt=Lumber "title="Lumber" style="padding-top: 4px""/>
-
-    70    | <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="Clay">
-
-    40    | <img src="img/un/res/3.gif" width=18 height=12 alt="Iron" title="Iron">
-
-    60    | <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="Crop">
-
-    20    | <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="Crop consumption">
-
-    2    | <img src=img/un/h/clock.gif width=18 height=12>
-
-    0:33:20    <br>
-
-    <br>
-
-    <b>
-
-        Prerequisites:    </b>
-
-    <br>
-
-    none</p>
+  <img src=img/un/res/1.gif width=18 height=12 alt="Lumber" title="Lumber" style="padding-top: 4px"/>70|
+  <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="Clay">40|
+  <img src="img/un/res/3.gif" width=18 height=12 alt="Iron" title="Iron">60|
+  <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="Crop">20|
+  <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="Crop consumption">2|
+  <img src=img/un/h/clock.gif width=18 height=12>0:33:20<br><br>
+  <b>Prerequisites:</b>
+  <br>none
+</p>
 
 <h2>Warehouse</h2>
 
