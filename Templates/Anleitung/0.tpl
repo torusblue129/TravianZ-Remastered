@@ -415,13 +415,13 @@
   <li>開拓者開發成本較低</li>
 </ul>
 
-<h2>The Teutons</h2>
+<h2>條頓人</h2>
 
 <p>
   <img align="left" src="img/un/h//germane.jpg" width="104" height="151" border="0" alt="Teuton">
-  The Teutons are the most aggressive tribe. Their troops are notorious and feared for their rage and frenzy when they attack. They move around as a plundering horde, not even afraid of death.<br><br>
-  However, they lack the military discipline of the Gauls or Romans which causes them to be weak in speed and defence.<br><br>
-  For aggressive and experienced players the Teutons are an excellent choice!
+  善於攻擊的條頓人擁有英勇無畏的精神，使他們成為最令人畏懼的部隊。初級部隊開發成本較低而攻擊力不錯，使得其在游戲初期擁有一定優勢。<br><br>
+  但條頓人缺少了羅馬人及高盧人擁有的軍事紀律，導致他們行軍速度緩慢及防禦力弱。<br><br>
+  條頓人最適合那些喜歡攻擊又富有經驗的高手使用。
 </p>
 
 <table cellspacing="1" cellpadding="2" class="table_data">
