@@ -51,7 +51,7 @@
       <td width="25" align="center">
         <a href="#" onClick="return Popup(1,1,'');"><img src="img/un/u/1.gif" width="16" height="16" border="0" alt=""></a>
       </td>
-      <td class="text" width="135">Legionnaire</td>
+      <td class="text" width="135">古羅馬步兵</td>
       <td width="25">40</td>
       <td>35</td>
       <td>50</td>
@@ -66,7 +66,7 @@
       <td width="25" align="center">
         <a href="#" onClick="return Popup(1,2,'');"><img src="img/un/u/2.gif" width="16" height="16" border="0" alt=""></a>
       </td>
-      <td class="text" width="135">Praetorian</td>
+      <td class="text" width="135">禁衛兵</td>
       <td width="25">30</td>
       <td>65</td>
       <td>35</td>
@@ -81,7 +81,7 @@
       <td width="25" align="center">
         <a href="#" onClick="return Popup(1,3,'');"><img src="img/un/u/3.gif" width="16" height="16" border="0" alt=""></a>
       </td>
-      <td class="text" width="135">Imperian</td>
+      <td class="text" width="135">帝國兵</td>
       <td width="25">70</td>
       <td>40</td>
       <td>25</td>
@@ -96,7 +96,7 @@
       <td width="25" align="center">
         <a href="#" onClick="return Popup(1,4,'');"><img src="img/un/u/4.gif" width="16" height="16" border="0" alt=""></a>
       </td>
-      <td class="text" width="135">Equites Legati</td>
+      <td class="text" width="135">使者騎士</td>
       <td width="25">0</td>
       <td>20</td>
       <td>10</td>
@@ -111,7 +111,7 @@
       <td width="25" align="center">
         <a href="#" onClick="return Popup(1,5,'');"><img src="img/un/u/5.gif" width="16" height="16" border="0" alt=""></a>
       </td>
-      <td class="text" width="135">Equites Imperatoris</td>
+      <td class="text" width="135">帝國騎士</td>
       <td width="25">120</td>
       <td>65</td>
       <td>50</td>
@@ -126,7 +126,7 @@
       <td width="25" align="center">
         <a href="#" onClick="return Popup(1,6,'');"><img src="img/un/u/6.gif" width="16" height="16" border="0" alt=""></a>
       </td>
-      <td class="text" width="135">Equites Caesaris</td>
+      <td class="text" width="135">將軍騎士</td>
       <td width="25">180</td>
       <td>80</td>
       <td>105</td>
@@ -141,7 +141,7 @@
       <td width="25" align="center">
         <a href="#" onClick="return Popup(1,7,'');"><img src="img/un/u/7.gif" width="16" height="16" border="0" alt=""></a>
       </td>
-      <td class="text" width="135">Battering Ram</td>
+      <td class="text" width="135">衝撞車</td>
       <td width="25">60</td>
       <td>30</td>
       <td>75</td>
@@ -156,7 +156,7 @@
       <td width="25" align="center">
         <a href="#" onClick="return Popup(1,8,'');"><img src="img/un/u/8.gif" width="16" height="16" border="0" alt=""></a>
       </td>
-      <td class="text" width="135">Fire Catapult</td>
+      <td class="text" width="135">火焰投石機</td>
       <td width="25">75</td>
       <td>60</td>
       <td>10</td>
@@ -171,7 +171,7 @@
       <td width="25" align="center">
         <a href="#" onClick="return Popup(1,9,'');"><img src="img/un/u/9.gif" width="16" height="16" border="0" alt=""></a>
       </td>
-      <td class="text" width="135">Senator</td>
+      <td class="text" width="135">參議員</td>
       <td width="25">50</td>
       <td>40</td>
       <td>30</td>
@@ -186,7 +186,7 @@
       <td width="25" align="center">
         <a href="#" onClick="return Popup(1,10,'');"><img src="img/un/u/10.gif" width="16" height="16" border="0" alt=""></a>
       </td>
-      <td class="text" width="135">Settler</td>
+      <td class="text" width="135">開拓者</td>
       <td width="25">0</td>
       <td>80</td>
       <td>80</td>
@@ -199,13 +199,13 @@
   </tbody>
 </table>
 
-<h3>The specialties</h3>
+<h3>特性</h3>
 <ul class="characteristics">
-  <li>Can raise or extend a building and resource field simultaneously</li>
-  <li>The City Wall gives a high defence bonus</li>
-  <li>Merchants can carry 500 units of resources (speed: 16 fields/hour)</li>
-  <li>Very powerful infantry, average cavalry</li>
-  <li>Development is expensive and takes a long time.</li>
+  <li>羅馬人是唯一一個能夠同時開發建築物和資源的種族</li>
+  <li>羅馬人的城牆是三個種族中最堅固的</li>
+  <li>每位商人可運送500個資源(速度: 每小時16 格)</li>
+  <li>擁有非常強大的步兵，比較普通的騎兵</li>
+  <li>開發成本高及開發時間長</li>
 </ul>
 
 <h2>The Gauls</h2>
