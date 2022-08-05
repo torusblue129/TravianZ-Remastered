@@ -623,17 +623,18 @@
 
 <div>
 	<div class="clear"></div>
-  <div id="footer">
-      <div class="container">
-          <a href="#" class="logo"><img src="img/x.gif" alt="Travian Games" class="logo_traviangames" /></a>
-          <ul class="menu">
-              <li><a href="anleitung.php?s=3">FAQ</a>|</li>
-              <li><a href="index.php?screenshots">遊戲畫面</a>|</li>
-              <li><a href="spielregeln.php">玩家守則</a>|</li>
-              <li><a href="agb.php">服務條款</a>|</li>
-              <li><a href="impressum.php">關於我們</a></li>
-              <li class="copyright">&copy; 2010 - <?php echo date('Y') . ' ' . (defined('SERVER_NAME') ? SERVER_NAME : 'TravianZ');?> All rights reserved</li>
-          </ul>
-      </div>
-  </div>
+</div>
+
+<div id="footer">
+    <div class="container">
+        <a href="#" class="logo"><img src="img/x.gif" alt="Travian Games" class="logo_traviangames" /></a>
+        <ul class="menu">
+            <li><a href="anleitung.php?s=3">FAQ</a>|</li>
+            <li><a href="index.php?screenshots">遊戲畫面</a>|</li>
+            <li><a href="spielregeln.php">玩家守則</a>|</li>
+            <li><a href="agb.php">服務條款</a>|</li>
+            <li><a href="impressum.php">關於我們</a></li>
+            <li class="copyright">&copy; 2010 - <?php echo date('Y') . ' ' . (defined('SERVER_NAME') ? SERVER_NAME : 'TravianZ');?> All rights reserved</li>
+        </ul>
+    </div>
 </div>
