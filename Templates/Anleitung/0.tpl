@@ -621,6 +621,10 @@
   <li>Weak defence</li>
 </ul>
 
+</div>
+	<div class="clear"></div>
+</div>
+
 <div id="footer">
     <div class="container">
         <a href="#" class="logo"><img src="img/x.gif" alt="Travian Games" class="logo_traviangames" /></a>
