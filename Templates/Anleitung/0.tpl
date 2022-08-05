@@ -42,7 +42,7 @@
       <th>
         <img src="img/un/res/4.gif" width="18" height="12" border="0" alt="穀物" />
       </th>
-      <th title="fields/hour">速度</th>
+      <th title="格/小時">速度</th>
     </tr>
   </thead>
 
