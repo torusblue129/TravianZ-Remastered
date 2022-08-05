@@ -208,47 +208,47 @@
   <li>開發成本高及開發時間長</li>
 </ul>
 
-<h2>The Gauls</h2>
+<h2>高盧人</h2>
 
 <p>
   <img align="right" src="img/un/h//gallier.jpg" width="96" height="156" border="0" alt="The Gauls">
-  The Gauls are the most peaceful of all three tribes in Travian. Their troops are trained for an excellent defence, but their ability to attack can still compete with the other two tribes. The Gauls are born riders and their horses are famous for their speed. This means that their riders can hit the enemy exactly where they can cause the most damage and swiftly take care of them.<br><br>
-  This tribe is very easy to defend, but an aggressive tactic is possible too. This gives you the opportunity to develop into any possible strategic direction (defensive or aggressive, lone wolf or reliable helper, merchant or plunderer, infantry or cavalry, settler or conqueror), but you need a bit of experience and talent.<br><br>
-  For beginners and those players who don't know exactly what they want to play, the Gauls are the ideal choice.
+  高盧人是熱愛和平的防守型種族。他們有優秀的防守部隊，但這並不代表他們不善於攻擊，高盧人全部是優秀的騎士，行軍速度是三個種族中最快的，能夠給敵人以突如其來的強力襲擊。<br><br>
+  高盧是最靈活多變的種族，強大的防守加上高速的移動使高盧人玩家能成為團隊中最佳支援部隊。<br><br>
+  不論是強力快速的救援或是物資的輸送，高盧人都可以勝任。初學者跟高手皆能使用。
 </p>
 
 <table cellspacing="1" cellpadding="2" class="table_data">
   <thead>
     <tr>
       <td colspan="10">
-        <h3>The Gallic Troops</h3>
+        <h3>高盧軍隊</h3>
       </td>
     </tr>
 
     <tr>
       <th colspan="2">&nbsp;</th>
       <th>
-        <img src="img/un/h/att_all.gif" width="16" height="16" border="0" alt="Attack value" title="Attack value" />
+        <img src="img/un/h/att_all.gif" width="16" height="16" border="0" alt="Attack value" title="攻擊力" />
       </th>
       <th>
-        <img src="img/un/h/def_i.gif" width="16" height="16" border="0" alt="Defence value against infantry" title="Defence value against infantry" />
+        <img src="img/un/h/def_i.gif" width="16" height="16" border="0" alt="Defence value against infantry" title="防步" />
       </th>
       <th>
-        <img src="img/un/h/def_c.gif" width="16" height="16" border="0" alt="Defence value against cavalry" title="Defence value against cavalry" />
+        <img src="img/un/h/def_c.gif" width="16" height="16" border="0" alt="Defence value against cavalry" title="防騎" />
       </th>
       <th>
-        <img src="img/un/res/1.gif" width="18" height="12" border="0" alt="lumber" />
+        <img src="img/un/res/1.gif" width="18" height="12" border="0" alt="木材" />
       </th>
       <th>
-        <img src="img/un/res/2.gif" width="18" height="12" border="0" alt="clay" />
+        <img src="img/un/res/2.gif" width="18" height="12" border="0" alt="磚塊" />
       </th>
       <th>
-        <img src="img/un/res/3.gif" width="18" height="12" border="0" alt="iron" />
+        <img src="img/un/res/3.gif" width="18" height="12" border="0" alt="鋼鐵" />
       </th>
       <th>
-        <img src="img/un/res/4.gif" width="18" height="12" border="0" alt="crop" />
+        <img src="img/un/res/4.gif" width="18" height="12" border="0" alt="穀物" />
       </th>
-      <th title="fields/hour">Speed</th>
+      <th title="格/小時">速度</th>
     </tr>
   </thead>
 
