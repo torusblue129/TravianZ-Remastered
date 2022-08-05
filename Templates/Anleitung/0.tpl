@@ -257,7 +257,7 @@
       <td width="25" align="center">
         <a href="#" onClick="return Popup(1,21,'');"><img src="img/un/u/21.gif" width="16" height="16" border="0" alt=""></a>
       </td>
-      <td class="text" width="135">Phalanx</td>
+      <td class="text" width="135">方陣兵</td>
       <td width="25">15</td>
       <td>40</td>
       <td>50</td>
@@ -272,7 +272,7 @@
       <td width="25" align="center">
         <a href="#" onClick="return Popup(1,22,'');"><img src="img/un/u/22.gif" width="16" height="16" border="0" alt=""></a>
       </td>
-      <td class="text" width="135">Swordsman</td>
+      <td class="text" width="135">劍士</td>
       <td width="25">65</td>
       <td>35</td>
       <td>20</td>
@@ -287,7 +287,7 @@
       <td width="25" align="center">
         <a href="#" onClick="return Popup(1,23,'');"><img src="img/un/u/23.gif" width="16" height="16" border="0" alt=""></a>
       </td>
-      <td class="text" width="135">Pathfinder</td>
+      <td class="text" width="135">探路者</td>
       <td width="25">0</td>
       <td>20</td>
       <td>10</td>
@@ -302,7 +302,7 @@
       <td width="25" align="center">
         <a href="#" onClick="return Popup(1,24,'');"><img src="img/un/u/24.gif" width="16" height="16" border="0" alt=""></a>
       </td>
-      <td class="text" width="135">Theutates Thunder</td>
+      <td class="text" width="135">雷法師</td>
       <td width="25">90</td>
       <td>25</td>
       <td>40</td>
@@ -317,7 +317,7 @@
       <td width="25" align="center">
         <a href="#" onClick="return Popup(1,25,'');"><img src="img/un/u/25.gif" width="16" height="16" border="0" alt=""></a>
       </td>
-      <td class="text" width="135">Druidrider</td>
+      <td class="text" width="135">德魯伊騎兵</td>
       <td width="25">45</td>
       <td>115</td>
       <td>55</td>
@@ -332,7 +332,7 @@
       <td width="25" align="center">
         <a href="#" onClick="return Popup(1,26,'');"><img src="img/un/u/26.gif" width="16" height="16" border="0" alt=""></a>
       </td>
-      <td class="text" width="135">Haeduan</td>
+      <td class="text" width="135">海頓聖騎</td>
       <td width="25">140</td>
       <td>50</td>
       <td>165</td>
@@ -347,7 +347,7 @@
       <td width="25" align="center">
         <a href="#" onClick="return Popup(1,27,'');"><img src="img/un/u/27.gif" width="16" height="16" border="0" alt=""></a>
       </td>
-      <td class="text" width="135">Ram</td>
+      <td class="text" width="135">衝撞車</td>
       <td width="25">50</td>
       <td>30</td>
       <td>105</td>
@@ -362,7 +362,7 @@
       <td width="25" align="center">
         <a href="#" onClick="return Popup(1,28,'');"><img src="img/un/u/28.gif" width="16" height="16" border="0" alt=""></a>
       </td>
-      <td class="text" width="135">Trebuchet</td>
+      <td class="text" width="135">投石機</td>
       <td width="25">70</td>
       <td>45</td>
       <td>10</td>
@@ -377,7 +377,7 @@
       <td width="25" align="center">
         <a href="#" onClick="return Popup(1,29,'');"><img src="img/un/u/29.gif" width="16" height="16" border="0" alt=""></a>
       </td>
-      <td class="text" width="135">Chieftain</td>
+      <td class="text" width="135">族長</td>
       <td width="25">40</td>
       <td>50</td>
       <td>50</td>
@@ -392,7 +392,7 @@
       <td width="25" align="center">
         <a href="#" onClick="return Popup(1,30,'');"><img src="img/un/u/30.gif" width="16" height="16" border="0" alt=""></a>
       </td>
-      <td class="text" width="135">Settler</td>
+      <td class="text" width="135">開拓者</td>
       <td width="25">0</td>
       <td>80</td>
       <td>80</td>
@@ -405,14 +405,14 @@
   </tbody>
 </table>
 
-<h3>The specialties</h3>
+<h3>特性</h3>
 <ul class="characteristics">
-  <li>Speed bonus: Fastest troops in the game</li>
-  <li>The palisade gives an average defence bonus</li>
-  <li>Merchants can carry 750 units of resources (speed: 24 fields/hour)</li>
-  <li>Cranny is twice as big</li>
-  <li>Expensive siege weapons</li>
-  <li>Cheap settlers</li>
+  <li>擁有全游戲中速度最快的部隊</li>
+  <li>木牆防禦力一般</li>
+  <li>每位商人可運送750個資源(速度:每小時24格)</li>
+  <li>兩倍大的山洞</li>
+  <li>昂貴的攻城武器</li>
+  <li>開拓者開發成本較低</li>
 </ul>
 
 <h2>The Teutons</h2>
