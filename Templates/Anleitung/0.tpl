@@ -418,7 +418,7 @@
 <h2>條頓人</h2>
 
 <p>
-  <img align="left" src="img/un/h//germane.jpg" width="104" height="151" border="0" alt="Teuton">
+  <img align="right" src="img/un/h//germane.jpg" width="104" height="151" border="0" alt="Teuton">
   善於攻擊的條頓人擁有英勇無畏的精神，使他們成為最令人畏懼的部隊。初級部隊開發成本較低而攻擊力不錯，使得其在游戲初期擁有一定優勢。<br><br>
   但條頓人缺少了羅馬人及高盧人擁有的軍事紀律，導致他們行軍速度緩慢及防禦力弱。<br><br>
   條頓人最適合那些喜歡攻擊又富有經驗的高手使用。
