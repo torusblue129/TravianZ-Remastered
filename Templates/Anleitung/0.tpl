@@ -1,3 +1,21 @@
+<?php
+#################################################################################
+##                                                                             ##
+##              -= YOU MUST NOT REMOVE OR CHANGE THIS NOTICE =-                ##
+##                                                                             ##
+## --------------------------------------------------------------------------- ##
+##                                                                             ##
+##  Project:       TravianZ-Remastered                                         ##
+##  Version:       v8.3.5                                                      ##
+##  Filename:      Templates/Anleitung/0.tpl                                   ##
+##  Edited by:     Torusblue129                                                ##
+##  License:       Creative Commons BY-NC-SA 3.0                               ##
+##  Copyright:     TravianZ (c) 2011 - All rights reserved                     ##
+##  URLs:          http://travianca.x10.mx/                                    ##
+##  Source code:   https://github.com/torusblue129/TravianZ-Remastered         ##
+##                                                                             ##
+#################################################################################
+?>
 <p>
     在Travian世界裡有三個種族：羅馬、高盧和條頓。每個種族有他的優勢和劣勢，而他們的軍隊種類亦各有不同。所以在開始打這場戰爭之前，有必要了解哪一個種族最適合您。俗語說：知己知彼，百戰百勝。
 </p>
