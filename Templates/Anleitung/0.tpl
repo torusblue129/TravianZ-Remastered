@@ -428,34 +428,34 @@
   <thead>
     <tr>
       <td colspan="10">
-        <h3>The Teutonic Troops</h3>
+        <h3>條頓軍隊</h3>
       </td>
     </tr>
 
     <tr>
       <th colspan="2">&nbsp;</th>
       <th>
-        <img src="img/un/h/att_all.gif" width="16" height="16" border="0" alt="Attack value" title="Attack value" />
+        <img src="img/un/h/att_all.gif" width="16" height="16" border="0" alt="Attack value" title="攻擊力" />
       </th>
       <th>
-        <img src="img/un/h/def_i.gif" width="16" height="16" border="0" alt="Defence value against infantry" title="Defence value against infantry" />
+        <img src="img/un/h/def_i.gif" width="16" height="16" border="0" alt="Defence value against infantry" title="防步" />
       </th>
       <th>
-        <img src="img/un/h/def_c.gif" width="16" height="16" border="0" alt="Defence value against cavalry" title="Defence value against cavalry" />
+        <img src="img/un/h/def_c.gif" width="16" height="16" border="0" alt="Defence value against cavalry" title="防騎" />
       </th>
       <th>
-        <img src="img/un/res/1.gif" width="18" height="12" border="0" alt="lumber" />
+        <img src="img/un/res/1.gif" width="18" height="12" border="0" alt="木材" />
       </th>
       <th>
-        <img src="img/un/res/2.gif" width="18" height="12" border="0" alt="clay" />
+        <img src="img/un/res/2.gif" width="18" height="12" border="0" alt="磚塊" />
       </th>
       <th>
-        <img src="img/un/res/3.gif" width="18" height="12" border="0" alt="iron" />
+        <img src="img/un/res/3.gif" width="18" height="12" border="0" alt="鋼鐵" />
       </th>
       <th>
-        <img src="img/un/res/4.gif" width="18" height="12" border="0" alt="crop" />
+        <img src="img/un/res/4.gif" width="18" height="12" border="0" alt="穀物" />
       </th>
-      <th title="fields/hour">Speed</th>
+      <th title="格/小時">速度</th>
     </tr>
   </thead>
 
@@ -464,7 +464,7 @@
       <td width="25" align="center">
         <a href="#" onClick="return Popup(1,11,'');"><img src="img/un/u/11.gif" width="16" height="16" border="0" alt=""></a>
       </td>
-      <td class="text" width="135">Clubswinger</td>
+      <td class="text" width="135">棍棒兵</td>
       <td width="25">40</td>
       <td>20</td>
       <td>5</td>
@@ -479,7 +479,7 @@
       <td width="25" align="center">
         <a href="#" onClick="return Popup(1,12,'');"><img src="img/un/u/12.gif" width="16" height="16" border="0" alt=""></a>
       </td>
-      <td class="text" width="135">Spearman</td>
+      <td class="text" width="135">矛兵</td>
       <td width="25">10</td>
       <td>35</td>
       <td>60</td>
@@ -494,7 +494,7 @@
       <td width="25" align="center">
         <a href="#" onClick="return Popup(1,13,'');"><img src="img/un/u/13.gif" width="16" height="16" border="0" alt=""></a>
       </td>
-      <td class="text" width="135">Axeman</td>
+      <td class="text" width="135">斧頭兵</td>
       <td width="25">60</td>
       <td>30</td>
       <td>30</td>
@@ -509,7 +509,7 @@
       <td width="25" align="center">
         <a href="#" onClick="return Popup(1,14,'');"><img src="img/un/u/14.gif" width="16" height="16" border="0" alt=""></a>
       </td>
-      <td class="text" width="135">Scout</td>
+      <td class="text" width="135">偵察兵</td>
       <td width="25">0</td>
       <td>10</td>
       <td>5</td>
@@ -524,7 +524,7 @@
       <td width="25" align="center">
         <a href="#" onClick="return Popup(1,15,'');"><img src="img/un/u/15.gif" width="16" height="16" border="0" alt=""></a>
       </td>
-      <td class="text" width="135">Paladin</td>
+      <td class="text" width="135">遊俠</td>
       <td width="25">55</td>
       <td>100</td>
       <td>40</td>
@@ -539,7 +539,7 @@
       <td width="25" align="center">
         <a href="#" onClick="return Popup(1,16,'');"><img src="img/un/u/16.gif" width="16" height="16" border="0" alt=""></a>
       </td>
-      <td class="text" width="135">Teutonic Knight</td>
+      <td class="text" width="135">條頓騎士</td>
       <td width="25">150</td>
       <td>50</td>
       <td>75</td>
@@ -554,7 +554,7 @@
       <td width="25" align="center">
         <a href="#" onClick="return Popup(1,17,'');"><img src="img/un/u/17.gif" width="16" height="16" border="0" alt=""></a>
       </td>
-      <td class="text" width="135">Ram</td>
+      <td class="text" width="135">衝撞車</td>
       <td width="25">65</td>
       <td>30</td>
       <td>80</td>
@@ -569,7 +569,7 @@
       <td width="25" align="center">
         <a href="#" onClick="return Popup(1,18,'');"><img src="img/un/u/18.gif" width="16" height="16" border="0" alt=""></a>
       </td>
-      <td class="text" width="135">Catapult</td>
+      <td class="text" width="135">投石機</td>
       <td width="25">50</td>
       <td>60</td>
       <td>10</td>
@@ -584,7 +584,7 @@
       <td width="25" align="center">
         <a href="#" onClick="return Popup(1,19,'');"><img src="img/un/u/19.gif" width="16" height="16" border="0" alt=""></a>
       </td>
-      <td class="text" width="135">Chief</td>
+      <td class="text" width="135">司令官</td>
       <td width="25">40</td>
       <td>60</td>
       <td>40</td>
@@ -599,7 +599,7 @@
       <td width="25" align="center">
         <a href="#" onClick="return Popup(1,20,'');"><img src="img/un/u/20.gif" width="16" height="16" border="0" alt=""></a>
       </td>
-      <td class="text" width="135">Settler</td>
+      <td class="text" width="135">開拓者</td>
       <td width="25">10</td>
       <td>80</td>
       <td>80</td>
@@ -612,13 +612,13 @@
   </tbody>
 </table>
 
-<h3>The specialties</h3>
+<h3>特性</h3>
 <ul class="characteristics">
-  <li>Plunder bonus: enemy crannies only hides 66% of the normal amount in Travian version 2.5 and 3, and 80% of the normal amount in Travian version 3.5.</li>
-  <li>The earth wall is almost indestructible but only gives a minimal defence bonus</li>
-  <li>Merchants can carry 1000 units of resources (speed: 12 fields/hour)</li>
-  <li>Cheap, fast troops which are excellent plunderers</li>
-  <li>Weak defence</li>
+  <li>搶奪時敵人的山洞只能夠保護三分之二的資源</li>
+  <li>土牆很難被完全摧毀，但是防禦力一般</li>
+  <li>每位商人可運送1000個單位數量得資源(速度: 每小時12格)</li>
+  <li>部隊開發成本和速度是三族中最便宜最快的</li>
+  <li>防禦力弱</li>
 </ul>
 
 </div>
