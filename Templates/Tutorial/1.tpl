@@ -5,35 +5,35 @@
 ##                                                                             ##
 ## --------------------------------------------------------------------------- ##
 ##                                                                             ##
-##  Project:       ZravianX                                                    ##
-##  Version:       2011.11.06                                                  ##
-##  Filename:      Templates/Travian/3.6/Tutorial/1.tpl                        ##
-##  Edited by:     ZZJHONS                                                     ##
+##  Project:       TravianZ-Remastered                                         ##
+##  Version:       v8.3.5                                                      ##
+##  Filename:      Travian/Templates/Tutorial/1.tpl                            ##
+##  Edited by:     Torusblue129                                                ##
 ##  License:       Creative Commons BY-NC-SA 3.0                               ##
-##  Copyright:     ZravianX (c) 2011 - All rights reserved                     ##
-##  URLs:          http://zravianx.zzjhons.com                                 ##
-##  Source code:   http://www.github.com/ZZJHONS/ZravianX                      ##
+##  Copyright:     TravianZ (c) 2011 - All rights reserved                     ##
+##  URLs:          http://travianca.x10.mx/                                    ##
+##  Source code:   https://github.com/torusblue129/TravianZ-Remastered         ##
 ##                                                                             ##
 #################################################################################
 ?>
-<h2>(1/5) Your village</h2>
+<h2>(1/5) 你的村莊</h2>
             <table class="tutorial_table">
                 <tbody>
                     <tr>
                         <td class="visual">
                             <img src="img/en/tut/dorf_klein.jpg" alt="" />
-                            This is how you start...
+                            您是這樣開始游戲的…
                         </td>
                         <td class="visual">
                             <img src="img/en/tut/dorf_gross.jpg" alt="" />
-                            ...and later your village could look like that.
+                            …發展之後的村莊
                         </td>
                     </tr>
                     <tr>
                         <td class="beschreibung" colspan="2">
-                            In the beginning your small village will have just one building.
+                            遊戲剛開始，您會擁有一個小村莊和一棟建築。
                             <br /><br />
-                            We will show you how to expand your village so that it becomes a mighty and prosperous city on the next page.
+                            我們將在接下來的幾頁裡告訴您怎麼發展您的村莊，使它變成一個強大而繁榮的國家。
                         </td>
                     </tr>
                 </tbody>
@@ -50,20 +50,20 @@
                     </tr>
                 </tbody>
             </table>
-        </div> 
-        <div class="clear"></div> 
-    </div> 
+        </div>
+        <div class="clear"></div>
+    </div>
     <div id="footer">
         <div class="container">
             <a href="#" class="logo"><img src="img/x.gif" alt="Travian Games" class="logo_traviangames" /></a>
             <ul class="menu">
                 <li><a href="anleitung.php?s=3">FAQ</a>|</li>
-                <li><a href="index.php?screenshots">Screenshots</a>|</li>
-                <li><a href="spielregeln.php">Game Rules</a>|</li>
-                <li><a href="agb.php">Terms</a>|</li>
-                <li><a href="impressum.php">Imprint</a></li>
+                <li><a href="index.php?screenshots">遊戲畫面</a>|</li>
+                <li><a href="spielregeln.php">玩家守則</a>|</li>
+                <li><a href="agb.php">服務條款</a>|</li>
+                <li><a href="impressum.php">關於我們</a></li>
                 <li class="copyright">&copy; 2010 - <?php echo date('Y') . ' ' . (defined('SERVER_NAME') ? SERVER_NAME : 'TravianZ');?> All rights reserved</li>
             </ul>
         </div>
-    </div> 
-</div> 
+    </div>
+</div>
