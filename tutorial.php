@@ -32,13 +32,11 @@ AccessLogger::logRequest();
 		<meta http-equiv="imagetoolbar" content="no"/>
 		<script src="mt-core.js" type="text/javascript"></script>
 		<script src="new.js" type="text/javascript"></script>
-		<style type="text/css" media="screen">
-
-		</style>
+		<style type="text/css" media="screen"></style>
 	</head>
 
 	<body class="webkit contentPage">
-		<div class="wrapper"></div>
+		<div class="wrapper">
 		<div id="country_select"></div>
 		<div id="header">
 			<h1>Welcome to <?php echo SERVER_NAME; ?></h1>
