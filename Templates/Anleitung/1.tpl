@@ -156,171 +156,63 @@
 
 <h2>Stable</h2>
 
-
-
-
-
 <p>
-
-<img src="img/un/h/gid20.gif" width=166 height=150 border=0 alt="Stable" title="Stable" align="left" />
-
-Cavalry is trained in the stable. The higher its level the faster the troops are trained.    <br>
-
-    <br>
-
-    <b>Costs</b> and <b>construction time</b> for level 1:    <br>
-
-    <img src=img/un/res/1.gif width=18 height=12 alt=Lumber " title="
-
-    Lumber    " style="padding-top: 4px" />
-
-    260    | <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="Clay">
-
-    140    | <img src="img/un/res/3.gif" width=18 height=12 alt="Iron" title="Iron">
-
-    220    | <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="Crop">
-
-    100    | <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="Crop consumption">
-
-    5    | <img src=img/un/h/clock.gif width=18 height=12>
-
-    0:36:40    <br>
-
-    <br>
-
-    <b>
-
-        Prerequisites:    </b>
-
-    <br>
-
-    Blacksmith Level 3, Academy Level 5</p>
+  <img src="img/un/h/gid20.gif" width=166 height=150 border=0 alt="Stable" title="Stable" align="left" />
+  Cavalry is trained in the stable. The higher its level the faster the troops are trained.<br><br>
+  <b>Costs</b> and <b>construction time</b> for level 1:<br>
+  <img src=img/un/res/1.gif width=18 height=12 alt="Lumber" title="Lumber" style="padding-top: 4px" /> 260 |
+  <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="Clay"> 140 |
+  <img src="img/un/res/3.gif" width=18 height=12 alt="Iron" title="Iron"> 220 |
+  <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="Crop"> 100 |
+  <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="Crop consumption"> 5 |
+  <img src=img/un/h/clock.gif width=18 height=12> 0:36:40<br><br>
+  <b>Prerequisites:</b><br>Blacksmith Level 3, Academy Level 5
+</p>
 
 <h2>Workshop</h2>
 
-
-
-
-
 <p>
-
-<img src="img/un/h/gid21.gif" width=166 height=150 border=0 alt="Workshop" title="Workshop" align="left" />
-
-Siege engines like catapults and rams can be built in the workshop. The higher its level the faster the units are produced.    <br>
-
-    <br>
-
-    <b>Costs</b> and <b>construction time</b> for level 1:    <br>
-
-    <img src=img/un/res/1.gif width=18 height=12 alt=Lumber " title="
-
-    Lumber    " style="padding-top: 4px" />
-
-    460    | <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="Clay">
-
-    510    | <img src="img/un/res/3.gif" width=18 height=12 alt="Iron" title="Iron">
-
-    600    | <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="Crop">
-
-    320    | <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="Crop consumption">
-
-    3    | <img src=img/un/h/clock.gif width=18 height=12>
-
-    0:50:00    <br>
-
-    <br>
-
-    <b>
-
-        Prerequisites:    </b>
-
-    <br>
-
-    Academy Level 10, Main Building Level 5</p>
+  <img src="img/un/h/gid21.gif" width=166 height=150 border=0 alt="Workshop" title="Workshop" align="left" />
+  Siege engines like catapults and rams can be built in the workshop. The higher its level the faster the units are produced.<br><br>
+  <b>Costs</b> and <b>construction time</b> for level 1:<br>
+  <img src=img/un/res/1.gif width=18 height=12 alt="Lumber" title="Lumber" style="padding-top: 4px" /> 460 |
+  <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="Clay"> 510 |
+  <img src="img/un/res/3.gif" width=18 height=12 alt="Iron" title="Iron"> 600 |
+  <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="Crop"> 320 |
+  <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="Crop consumption"> 3 |
+  <img src=img/un/h/clock.gif width=18 height=12> 0:50:00<br><br>
+  <b>Prerequisites:</b><br>Academy Level 10, Main Building Level 5
+</p>
 
 <h2>Academy</h2>
 
-
-
-
-
 <p>
-
-<img src="img/un/h/gid22.gif" width=166 height=150 border=0 alt="Academy" title="Academy" align="right" />
-
-New unit types can be developed in the academy. By increasing its level you can order the research of better units.    <br>
-
-    <br>
-
-    <b>Costs</b> and <b>construction time</b> for level 1:    <br>
-
-    <img src=img/un/res/1.gif width=18 height=12 alt=Lumber " title="
-
-    Lumber    " style="padding-top: 4px" />
-
-    220    | <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="Clay">
-
-    160    | <img src="img/un/res/3.gif" width=18 height=12 alt="Iron" title="Iron">
-
-    90    | <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="Crop">
-
-    40    | <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="Crop consumption">
-
-    4    | <img src=img/un/h/clock.gif width=18 height=12>
-
-    0:33:20    <br>
-
-    <br>
-
-    <b>
-
-        Prerequisites:    </b>
-
-    <br>
-
-    Barracks Level 3, Main Building Level 3</p>
+  <img src="img/un/h/gid22.gif" width=166 height=150 border=0 alt="Academy" title="Academy" align="right" />
+  New unit types can be developed in the academy. By increasing its level you can order the research of better units.<br><br>
+  <b>Costs</b> and <b>construction time</b> for level 1:<br>
+  <img src=img/un/res/1.gif width=18 height=12 alt="Lumber" title="Lumber" style="padding-top: 4px" /> 220 |
+  <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="Clay"> 160 |
+  <img src="img/un/res/3.gif" width=18 height=12 alt="Iron" title="Iron"> 90 |
+  <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="Crop"> 40 |
+  <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="Crop consumption"> 4 |
+  <img src=img/un/h/clock.gif width=18 height=12> 0:33:20<br><br>
+  <b>Prerequisites:</b><br>Barracks Level 3, Main Building Level 3
+</p>
 
 <h2>Blacksmith</h2>
 
-
-
-
-
 <p>
-
-<img src="img/un/h/gid12.gif" width=166 height=150 border=0 alt="Blacksmith" title="Blacksmith" align="left" />
-
-Your warriors' weapons are enhanced in the blacksmith?s melting furnaces. By increasing its level you can order the fabrication of even better weapons.    <br>
-
-    <br>
-
-    <b>Costs</b> and <b>construction time</b> for level 1:    <br>
-
-    <img src=img/un/res/1.gif width=18 height=12 alt=Lumber " title="
-
-    Lumber    " style="padding-top: 4px" />
-
-    170    | <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="Clay">
-
-    200    | <img src="img/un/res/3.gif" width=18 height=12 alt="Iron" title="Iron">
-
-    380    | <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="Crop">
-
-    130    | <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="Crop consumption">
-
-    4    | <img src=img/un/h/clock.gif width=18 height=12>
-
-    0:33:20    <br>
-
-    <br>
-
-    <b>
-
-        Prerequisites:    </b>
-
-    <br>
-
-    Main Building Level 3, Academy Level 3</p>
+  <img src="img/un/h/gid12.gif" width=166 height=150 border=0 alt="Blacksmith" title="Blacksmith" align="left" />
+  Your warriors' weapons are enhanced in the blacksmith?s melting furnaces. By increasing its level you can order the fabrication of even better weapons.<br><br>
+  <b>Costs</b> and <b>construction time</b> for level 1:<br>
+  <img src=img/un/res/1.gif width=18 height=12 alt="Lumber" title="Lumber" style="padding-top: 4px" /> 170 |
+  <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="Clay"> 200 |
+  <img src="img/un/res/3.gif" width=18 height=12 alt="Iron" title="Iron"> 380 |
+  <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="Crop"> 130 |
+  <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="Crop consumption"> 4 |
+  <img src=img/un/h/clock.gif width=18 height=12> 0:33:20<br><br>
+  <b>Prerequisites:</b><br>Main Building Level 3, Academy Level 3
+</p>
 
 <h2>Armoury</h2>
 
