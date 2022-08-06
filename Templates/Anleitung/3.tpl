@@ -42,18 +42,18 @@
 <p class="question">如何增加人口數量？</p>
 <p class="answer">每個建築都會增加您村莊居民的數量。如果想知道相對於各種建築居民的增加量，注意圖標<img src="img/un/res/5.gif" width="18" height="12" border="0" alt="use of crop" title="糧食消耗"></div>的旁邊，有具體數目顯示。</p>
 
-<p class="question">Help, my crop production sinks more and more!</p>
-<p class="answer">At <i>Production</i> (e.g. 10) your crop production minus your use of crop because of <i>population</i> (e.g. 5) and <i>Troops</i> is shown. Your total crop production is shown in the upper right corner. e.g. <img src="img/un/res/5.gif" width="18" height="12" border="0" alt="use of crop" title="use of crop"> 5/15<br>
-	In the example 8 would be your use of crop, 15 your total crop production, <br>15 - 8 = 7 units of crop per hour. </p>
+<p class="question">求救！我的糧食越來越少！</p>
+<p class="answer">很簡單，因為人要吃飯。村莊人口越多，士兵數量越多，糧食消耗就會自己上升。每一個士兵或建築的開發成本都有寫明每小時糧食消耗多少。</p>
 
-<p class="question">Why do my troops plunder so few resources?</p>
-<p class="answer">There are two explanations. Firstly, each troop type can only carry a certain number of resources. Secondly, your victim might have a <i>cranny</i> where his or her villagers automatically hide a certain number of resources that your plundering hordes cannot find.</p>
+<p class="question">偵察兵什麼作用？</p>
+<p class="answer">偵察兵當然是用來偵察用的～<br>
+									他們能夠探聽別人村莊的資源總數，駐守士兵的數量及防守城牆的等級。如果他們沒有被敵方的偵察兵發現，他們回到村莊後便會給您一份詳細的報告。</p>
 
-<p class="question">How can I found or conquer new villages?</p>
-<p class="answer">You need three settlers to found a new village. To conquer a village you need an administrator (senator, chief or chieftain) which can be trained in your palace/residence at level 10. Additionally you need a certain number of <a href="anleitung.php?s=4">culture points</a>.</p>
+<p class="question">怎樣才可以興建一個新的村莊或者佔領一個村莊？</p>
+<p class="answer">興建一個新的村莊您需要3個開拓者，開拓者可以在皇宮或行宮產生。如果您想佔領一座村莊，您需要行政官員(參議員、執政官或族長)，在行宮或者皇宮的等級到達10的時候可以產生行政官員。另外，您都需要足夠的<a href="anleitung.php?s=4">文明度</a>(可在皇宮或行宮看到)。</p>
 
-<p class="question">Can I lose a village?</p>
-<p class="answer">Every village can be catapulted to 0 inhabitants and as long as it is not the last of your account it will disappear after a short time. The only village that cannot be conquered is the capital. Note that destroying the capital is still possible.</p>
+<p class="question">怎樣才會失去自己的村莊？</p>
+<p class="answer">當您有兩條村莊或以上後，您的敵人便可以佔領或完全破壞您的村莊。但是您的主村(皇宮所在地)是被保護而不會被佔領的。</p>
 
 </div>
 	<div class="clear"></div>
