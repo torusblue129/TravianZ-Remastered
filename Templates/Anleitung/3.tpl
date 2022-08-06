@@ -27,15 +27,20 @@
 									- 大使館等級3：您可以建立自己的聯盟<br>
 									- 而大使館每升一級，您建立的聯盟可多邀請3個盟友</p>
 
-<p class="question">How can I change the name of my village?</p>
-<p class="answer">First select the village you wish to remain by clicking it under <i>Villages</i>. Next click <i>Profile</i> at the left then <i>Change Profile</i>. Change the name in the <i>Village name</i> box and click OK.</p>
+<p class="question">如何更改村莊名字？</p>
+<p class="answer">選擇上面藍色圈圈 "統計" 會顯示一些排名及統計數字。再選擇您自己的名字，再按 "資料"，您會找到一個叫 "村莊名稱" 的一格，只要在那裡更改便可以了。</p>
 
-<p class="question">How do I train troops?</p>
-<p class="answer">You need a rally point which is at least level 1 and a main building which is at least level 3. When you have those you can raise Barracks and there you can train infantry.</p>
+<p class="question">怎樣才可以有自己的士兵？</p>
+<p class="answer">您需要等級1的集結點和等級3的村中心大樓。然後您可以興建一個兵營，在兵營裡您可以訓練出您的士兵。</p>
 
-<p class="question">How do I defend my village?</p>
-<p class="answer">As long as there are troops (your own or troops sent to reinforce you) in your village they defend your village automatically.</p>
-<p class="answer">Each building increases the population of your village by a certain number of new inhabitants. How many new inhabitants are produced by raising/extending a building is shown next to the symbol <img src="img/un/res/5.gif" width="18" height="12" border="0" alt="Use of crop" title="use of crop">.</p>
+<p class="question">如何防守自己的村莊？</p>
+<p class="answer">當您村莊內有士兵，不論是自己的或是朋友派來增援的，他們都會自動防守。當有敵軍打到過來，士兵們無理由坐視不理吧！</p>
+
+<p class="question">怎樣取消行動？</p>
+<p class="answer">當您開始建設，升級資源田又或者出兵之後，要改變主意的話，您可以按那個行動附近的紅色X。一按行動便會取消。注意：若您的建築物高過等級1，您取消行動會失去資源！！ 而部隊的攻擊只可在出擊後90秒內取消。</p>
+
+<p class="question">如何增加人口數量？</p>
+<p class="answer">每個建築都會增加您村莊居民的數量。如果想知道相對於各種建築居民的增加量，注意圖標<img src="img/un/res/5.gif" width="18" height="12" border="0" alt="use of crop" title="糧食消耗"></div>的旁邊，有具體數目顯示。</p>
 
 <p class="question">Help, my crop production sinks more and more!</p>
 <p class="answer">At <i>Production</i> (e.g. 10) your crop production minus your use of crop because of <i>population</i> (e.g. 5) and <i>Troops</i> is shown. Your total crop production is shown in the upper right corner. e.g. <img src="img/un/res/5.gif" width="18" height="12" border="0" alt="use of crop" title="use of crop"> 5/15<br>
