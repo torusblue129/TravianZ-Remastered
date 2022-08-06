@@ -292,7 +292,7 @@
   <b>開發要求：</b><br>集結點 等級 15
 </p>
 
-<p>點擊下面的連結可以看詳細的<a href="/building.webp">建設樹狀圖</a>。</p>
+<p>點擊下面的連結可以看詳細的<a href="/Building.webp">建設樹狀圖</a>。</p>
 
 </div>
 	<div class="clear"></div>
