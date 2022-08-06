@@ -17,26 +17,26 @@
 #################################################################################
 ?>
 <p class=f9>
-  At the beginning you should try to get a good economic basis. In order to do so you have to extend the 18 resource fields (village overview). There are four different types of resource fields: Woodcutter, Clay pit, Iron mine and Cropland. If you click one of them, you will get more information and the option to extend it.<br><br>
-  Later in the game the buildings in the village become important too. In order to construct a new building you have to click on one of the green ovals. A list with every building that is available will appear.<br><br>
-  Some buildings can only be built if you fulfil the prerequisites which are other buildings.
+  在遊戲的初期，最重要是建立一個穩定的經濟社區。進入游戲，您會看到一個蜂巢型狀的村莊資源圖,18幅可開發的資源包括有：木材、磚塊、鋼鐵及穀物。<br><br>
+  到有了經濟基礎，就要著手建設有用的建築物。要興建新的建築物，您只需在村莊中心按下那些綠色的圓圈，便可看到全部您可以興建的建築物。<br><br>
+  有些建築物是要符合了前置條件才可以興建。
 </p>
 
-<h2>Main Building</h2>
+<h2>村莊大樓</h2>
 
 <p>
-  <img src="img/un/h/gid15.gif" width=166 height=150 border=0 alt="Main Building" title="Main Building" align="left" />
-  The village's master builders live in the main building. The higher its level the faster your master builders complete the construction of new buildings.<br><br>
-  <b>Tribe advantage:</b><br><br>
-  Romans: Can build/extend a resource field and a village building at the same time.<br><br>
-  <b>Costs</b> and <b>construction time</b> for level 1:<br>
+  <img src="img/un/h/gid15.gif" width=166 height=150 border=0 alt="Main Building" title="村莊大樓" align="left" />
+  這是您村莊內總建築師的住所。中心大樓的級數愈高，其他建築物及資源的開發速度愈快，最高可縮短50%所需時間。<br><br>
+  <b>種族優勢：/b><br><br>
+  羅馬:可以同一時間開發資源和興建建築物<br><br>
+  等級1的開發成本及時間：<br>
   <img src=img/un/res/1.gif width=18 height=12 alt="Lumber" title="Lumber" style="padding-top: 4px"/>70 |
   <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="Clay">40 |
   <img src="img/un/res/3.gif" width=18 height=12 alt="Iron" title="Iron">60 |
   <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="Crop">20 |
   <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="Crop consumption">2 |
   <img src=img/un/h/clock.gif width=18 height=12> 0:33:20<br><br>
-  <b>Prerequisites:</b><br>none
+  <b>開發要求：</b><br>無
 </p>
 
 <h2>Warehouse</h2>
