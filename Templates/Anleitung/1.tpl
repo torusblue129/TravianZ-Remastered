@@ -184,31 +184,16 @@
   <b>開發要求：</b><br>研究院 等級 10, 村莊大樓 等級 5
 </p>
 
-<h2>Academy</h2>
+<h2>研究院</h2>
 
 <p>
-  <img src="img/un/h/gid22.gif" width=166 height=150 border=0 alt="Academy" title="Academy" align="right" />
-  New unit types can be developed in the academy. By increasing its level you can order the research of better units.<br><br>
+  <img src="img/un/h/gid22.gif" width=166 height=150 border=0 alt="Academy" title="研究院" align="right" />
+  研究院是用來研發新的兵種。<br><br>
   等級1的開發成本及時間：<br>
   <img src=img/un/res/1.gif width=18 height=12 alt="Lumber" title="木材" style="padding-top: 4px" /> 220 |
   <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="磚塊"> 160 |
   <img src="img/un/res/3.gif" width=18 height=12 alt="Iron" title="鋼鐵"> 90 |
   <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="穀物"> 40 |
-  <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="穀物使用"> 4 |
-  <img src=img/un/h/clock.gif width=18 height=12> 0:33:20<br><br>
-  <b>開發要求：</b><br>Barracks Level 3, Main Building Level 3
-</p>
-
-<h2>研究院</h2>
-
-<p>
-  <img src="img/un/h/gid12.gif" width=166 height=150 border=0 alt="Blacksmith" title="研究院" align="left" />
-  研究院是用來研發新的兵種。<br><br>
-  等級1的開發成本及時間：<br>
-  <img src=img/un/res/1.gif width=18 height=12 alt="Lumber" title="木材" style="padding-top: 4px" /> 170 |
-  <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="磚塊"> 200 |
-  <img src="img/un/res/3.gif" width=18 height=12 alt="Iron" title="鋼鐵"> 380 |
-  <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="穀物"> 130 |
   <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="穀物使用"> 4 |
   <img src=img/un/h/clock.gif width=18 height=12> 0:33:20<br><br>
   <b>開發要求：</b><br>兵營 等級 3, 村莊大樓 等級 3
@@ -217,8 +202,23 @@
 <h2>鐵匠鋪</h2>
 
 <p>
-  <img src="img/un/h/gid13.gif" width=166 height=150 border=0 alt="Armoury" title="Armoury" align="right" />
+  <img src="img/un/h/gid12.gif" width=166 height=150 border=0 alt="Blacksmith" title="鐵匠鋪" align="left" />
   鐵匠鋪是用來製造及改良您部隊的武器，藉此增加部隊的攻擊能力。當然，鐵匠鋪的等級愈高，能夠製造出的武器的攻擊能力也會愈強。<br><br>
+  等級1的開發成本及時間：<br>
+  <img src=img/un/res/1.gif width=18 height=12 alt="Lumber" title="木材" style="padding-top: 4px" /> 170 |
+  <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="磚塊"> 200 |
+  <img src="img/un/res/3.gif" width=18 height=12 alt="Iron" title="鋼鐵"> 380 |
+  <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="穀物"> 130 |
+  <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="穀物使用"> 4 |
+  <img src=img/un/h/clock.gif width=18 height=12> 0:33:20<br><br>
+  <b>開發要求：</b><br>村莊大樓 等級 3, 研究院 等級 3
+</p>
+
+<h2>盔甲廠</h2>
+
+<p>
+  <img src="img/un/h/gid13.gif" width=166 height=150 border=0 alt="Armoury" title="盔甲廠" align="right" />
+  盔甲廠用來製造及改良您部隊的防具，藉以增加部隊的防禦能力。當然，盔甲廠的等級愈高，能夠製造出的防具的防禦能力也會愈強。<br><br>
   等級1的開發成本及時間：<br>
   <img src=img/un/res/1.gif width=18 height=12 alt="Lumber" title="木材" style="padding-top: 4px" /> 130 |
   <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="磚塊"> 210 |
@@ -226,7 +226,7 @@
   <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="穀物"> 130 |
   <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="穀物使用"> 4 |
   <img src=img/un/h/clock.gif width=18 height=12> 0:33:20<br><br>
-  <b>開發要求：</b><br>Main Building Level 3, Academy Level 1
+  <b>開發要求：</b><br>村莊大樓 等級 3, 研究院 等級 1
 </p>
 
 <h2>Palace</h2>
