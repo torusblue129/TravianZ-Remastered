@@ -22,6 +22,7 @@ include_once("GameEngine/Database.php");
 include_once("GameEngine/Lang/".LANG.".php");
 AccessLogger::logRequest();
 ?>
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -32,72 +33,39 @@ AccessLogger::logRequest();
 	<meta http-equiv="imagetoolbar" content="no"/>
 	<script src="mt-core.js" type="text/javascript"></script>
 	<script src="new.js" type="text/javascript"></script>
-	<style type="text/css" media="screen">
-
-	</style>
+	<style type="text/css" media="screen"></style>
 </head>
+
 <body class="webkit contentPage">
 <div class="wrapper">
-<div id="country_select">
-
-</div>
+<div id="country_select"></div>
 <div id="header">
 	<h1>Welcome to <?php echo SERVER_NAME; ?></h1>
 </div>
 
 <div id="navigation">
-
 <a href="index.php" class="home"><img src="img/x.gif" alt="Travian"/></a>
-
 	<table class="menu">
-
 	<tr>
-
-		<td><a href="tutorial.php"><span>Tutorial</span></a></td>
-
-		<td><a href="anleitung.php"><span>Manual</span></a></td>
-
-		<td><a href="http://forum.travian.com/" target="_blank"><span>Forum</span></a></td>
-
-
-
-
-
-		<td><a href="index.php?signup"><span>Register</span></a></td>
-
-		<td><a href="index.php?login"><span>Login</span></a></td>
-
-</tr>
-
+		<td><a href="tutorial.php"><span>遊戲教學</span></a></td>
+		<td><a href="anleitung.php"><span>玩家指南</span></a></td>
+		<td><a href="http://forum.travian.com/" target="_blank"><span>遊戲論壇</span></a></td>
+		<td><a href="index.php?signup"><span>登記帳號</span></a></td>
+		<td><a href="index.php?login"><span>登入遊戲</span></a></td>
+	</tr>
 	</table>
-
 </div>
 
-
-
-
-
-
 <div id="content">
+<div class="grit">
 
-	<div class="grit">
-
-
-<h1>Manual</h1>
-
-
-
-<p class="submenu">
-
-<a href="anleitung.php">The tribes</a> |
-
-<a href="anleitung.php?s=1">The buildings</a> |
-
-<a href="anleitung.php?s=3">FAQ</a>
-
-</p>
-
-
+	<h1>玩家指南</h1>
+		<p class="submenu">
+			<a href="anleitung.php">種族</a> |
+			<a href="anleitung.php?s=1">建築物</a> |
+			<a href="anleitung.php?s=3">常見問題</a> |
+			<a href="anleitung.php?s=4">文明點</a>
+		</p>
 
 <?php
 if(!isset($_GET['s'])) {
@@ -112,27 +80,12 @@ if ($_GET['s'] == "4") {
 include("Templates/Anleitung/4.tpl"); }
 ?>
 
-
-
-</ul>
-
 <div class="footer"></div>
 
 </div>
-
-</div>
-
 <div id="iframe_layer" class="overlay">
-
-
-
-<div class="mask closer"></div>
-
-
-
-
-
-
+<div class="mask closer">
+</div>
 
 <div class="overlay_content">
 
