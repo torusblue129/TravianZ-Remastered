@@ -16,13 +16,16 @@
 ##                                                                             ##
 #################################################################################
 ?>
-<p><img src="img/un/h/faq_vp.jpg" width="116" height="128" border="0" alt="Rally point" title="Rally point" align="right"></p>
-<p class="question">How can I build a rally point?</p>
-<p class="answer">The rally point can only be built at one location. This location is found to the right of your villages centre on the meadow.</p>
+<p><img src="img/un/h/faq_vp.jpg" width="116" height="128" border="0" alt="Rally point" title="集結點" align="right"></p>
+<p class="question">怎麼樣可以建立一個集結點？</p>
+<p class="answer">集結點和城牆只有在特定的位置才可以興建。您可以在村莊中心右邊的草地興建集結點。</p>
 
-<p><img src="img/un/h/faq_botschaft.jpg" width="122" height="150" border="0" alt="Embassy" title="Embassy" align="left"></p>
-<p class="question">How can I found an alliance?</p>
-<p class="answer">To found an alliance you need an embassy at level 3. To be able to join an alliance you just need an embassy at level 1 and, of course, an invitation to join the alliance.</p>
+<p><img src="img/un/h/faq_botschaft.jpg" width="122" height="150" border="0" alt="Embassy" title="大使館" align="left"></p>
+<p class="question">如何加入或建立一個聯盟？</p>
+<p class="answer">任何聯盟的事務都需經由大使館處理。<br>
+									- 大使館等級1：您可以被別人邀請加入聯盟<br>
+									- 大使館等級3：您可以建立自己的聯盟<br>
+									- 而大使館每升一級，您建立的聯盟可多邀請3個盟友</p>
 
 <p class="question">How can I change the name of my village?</p>
 <p class="answer">First select the village you wish to remain by clicking it under <i>Villages</i>. Next click <i>Profile</i> at the left then <i>Change Profile</i>. Change the name in the <i>Village name</i> box and click OK.</p>
