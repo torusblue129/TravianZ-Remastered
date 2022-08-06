@@ -27,7 +27,7 @@
 <p>
   <img src="img/un/h/gid15.gif" width=166 height=150 border=0 alt="Main Building" title="村莊大樓" align="left" />
   這是您村莊內總建築師的住所。中心大樓的級數愈高，其他建築物及資源的開發速度愈快，最高可縮短50%所需時間。<br><br>
-  <b>種族優勢：/b><br><br>
+  <b>種族優勢：</b><br><br>
   羅馬:可以同一時間開發資源和興建建築物<br><br>
   等級1的開發成本及時間：<br>
   <img src=img/un/res/1.gif width=18 height=12 alt="Lumber" title="Lumber" style="padding-top: 4px"/>70 |
