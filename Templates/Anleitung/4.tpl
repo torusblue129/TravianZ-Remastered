@@ -17,14 +17,14 @@
 #################################################################################
 ?>
 <p class="question">如何能夠建立新村莊？</p>
-<p class="answer">In order to found a new village you need 3 settlers, an empty spot on the map and enough culture points. You do not have to research settlers as you can directly build them with a palace level 10, 15 or 20 or a residence level 10 or 20. To build the palace you need a main building level 5 and an embassy. To build the residence you only need a level 5 main building. After training the 3 settlers you can choose an empty spot on the map and click "Found new village" (Hint: you need 750 units of each resource!) then your settlers will leave their home village and found the new village for you. </p>
+<p class="answer">您需要三個開拓者、足夠文明點及一塊空地去建立一個新村莊。您不需要透過研究所研究都可以立在等及10、15及20的皇宮或等級10及20的行宮內生產開拓者。為了興建皇宮，您需要先建造等級5的村莊大樓及一個大使館。為了興建行宮，您只所有建造等級5的村莊大樓。成功生產三個開拓者後，您可以在地圖上選擇一塊空地，按「尋找新村莊」（提示：您還需要每種資源各750單位！），然後開拓者便會離開村莊並為您建立新村莊。</p>
 
-<p class="question">How can I conquer a village?</p>
-<p class="answer">For this, too, one needs at least a residence/palace level 10 as well as an enemy village one can conquer. Additionally enough culture points are needed - like for founding a new village. One cannot conquer the last of a player's villages and neither their capital.<br><br>
-As soon as the steward of a town (senator, chief, chieftain) as been researched in the academy one can train him in the residence/palace like a settler. However, one may not have already trained settlers in order to be able to train a steward. To conquer a village the steward needs to attack the desired village a couple of times after the enemy residence/palace has been demolished. Once the village's loyalty reached zero the village will become one's own. Once this happened one should build a palace or a residence to raise the loyalty again.</p>
+<p class="question">如何搶奪別人的村莊？</p>
+<p class="answer">首先，您需要把皇宮或行宮升級到等級10，及選擇一個可被搶奪的目標村莊。另外，像建立新村莊一樣，您需要有足夠的文明點。要注意，您並不可以搶奪玩家的唯一一個村莊或玩家的主村。<br><br>
+當您在研究所研究了村莊官員（參議員、族長、司令官）後，您便可以在皇宮或行宮內生產他們，但您只能從開拓者及官員中選擇生產其中一種。要搶奪別人的村莊，官員需要在目標村莊的皇宮或行宮被毀滅後，對目標村莊作多次的攻擊。當該村莊村民的忠誠度降至零，村莊便會被成功搶奪了。搶奪後，您需要興建皇宮或行宮去重新提升村莊忠誠度。</p>
 
-<p class="question">How do I get culture points?</p>
-<p class="answer">One gets culture points (CPs) by constructing and extending buildings. Already produced culture points can be seen in the residence and palace. Additionally information about the required culture points for additional villages is displayed there.</p><br/>
+<p class="question">如何能獲得文明點？</p>
+<p class="answer">您可以透過興建建築物或把建築物升級來生產更多文明點（CPs）。您可以在皇宮或行宮內看到您現有多少文明點，及將需要多少文明點來建立或搶奪一個新村莊。</p><br>
 
 <table cellspacing="1" cellpadding="2" class="culture_points table_data">
   <thead>
