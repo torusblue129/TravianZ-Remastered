@@ -48,7 +48,7 @@ AccessLogger::logRequest();
 					<tr>
 						<td><a href="tutorial.php"><span>遊戲教學</span></a></td>
 						<td><a href="anleitung.php"><span>玩家指南</span></a></td>
-						<td><a href="http://forum.travian.com/" target="_blank"><span>遊戲論壇</span></a></td>
+						<td><a href="https://discord.gg/aADXs3bR" target="_blank"><span>遊戲論壇</span></a></td>
 						<td><a href="index.php?signup"><span>登記帳號</span></a></td>
 						<td><a href="index.php?login"><span>登入遊戲</span></a></td>
 					</tr>
