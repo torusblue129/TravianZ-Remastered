@@ -49,14 +49,14 @@ AccessLogger::logRequest();
 		<a href="index.php" class="home"><img src="img/x.gif" alt="Travian"/></a>
 			<table class="menu">
 				<tr>
-					<td><a href="tutorial.php"><span>Tutorial</span></a></td>
-					<td><a href="anleitung.php"><span>Manual</span></a></td>
-					<td><a href="http://forum.travian.com/" target="_blank"><span>Forum</span></a></td>
-					<td><a href="index.php?signup"><span>Register</span></a></td>
-					<td><a href="index.php?login"><span>Login</span></a></td>
+					<td><a href="tutorial.php"><span>遊戲教學</span></a></td>
+					<td><a href="anleitung.php"><span>玩家指南</span></a></td>
+					<td><a href="http://forum.travian.com/" target="_blank"><span>遊戲論壇</span></a></td>
+					<td><a href="index.php?signup"><span>登記帳號</span></a></td>
+					<td><a href="index.php?login"><span>登入遊戲</span></a></td>
 				</tr>
 			</table>
-		</div>
+	</div>
 
 	<div id="content">
 		<div class="grit">
@@ -78,50 +78,17 @@ AccessLogger::logRequest();
 										include("Templates/Tutorial/5.tpl"); }
 										?>
 
+	</ul>
+		<div class="footer"></div>
+		<div id="iframe_layer" class="overlay"></div>
+		<div class="mask closer"></div>
+		<div class="overlay_content">
+		<a href="index.php" class="closer"><img class="dynamic_img" alt="Close" src="img/un/x.gif" /></a>
+		<h2>Anleitung</h2>
 
-
-</ul>
-
-<div class="footer"></div>
-
-</div>
-
-</div>
-
-<div id="iframe_layer" class="overlay">
-
-
-
-<div class="mask closer"></div>
-
-
-
-
-
-
-
-<div class="overlay_content">
-
-<a href="index.php" class="closer"><img class="dynamic_img" alt="Close" src="img/un/x.gif" /></a>
-
-<h2>Anleitung</h2>
-
-
-
-<div id="frame_box" >
-
-</div>
-
-<div class="footer"></div>
-
-</div>
-
-
-
-</div>
-
-
-
-
-</body>
+	<div id="frame_box" >
+		</div>
+			<div class="footer"></div>
+		</div>
+	</body>
 </html>
