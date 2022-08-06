@@ -216,193 +216,69 @@
 
 <h2>Armoury</h2>
 
-
-
-
-
 <p>
-
-<img src="img/un/h/gid13.gif" width=166 height=150 border=0 alt="Armoury" title="Armoury" align="right" />
-
-Your warriors' armour is enhanced in the armoury's melting furnaces. By increasing its level you can order the fabrication of even better armour.    <br>
-
-    <br>
-
-    <b>Costs</b> and <b>construction time</b> for level 1:    <br>
-
-    <img src=img/un/res/1.gif width=18 height=12 alt=Lumber " title="
-
-    Lumber    " style="padding-top: 4px" />
-
-    130    | <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="Clay">
-
-    210    | <img src="img/un/res/3.gif" width=18 height=12 alt="Iron" title="Iron">
-
-    410    | <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="Crop">
-
-    130    | <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="Crop consumption">
-
-    4    | <img src=img/un/h/clock.gif width=18 height=12>
-
-    0:33:20    <br>
-
-    <br>
-
-    <b>
-
-        Prerequisites:    </b>
-
-    <br>
-
-    Main Building Level 3, Academy Level 1</p>
+  <img src="img/un/h/gid13.gif" width=166 height=150 border=0 alt="Armoury" title="Armoury" align="right" />
+  Your warriors' armour is enhanced in the armoury's melting furnaces. By increasing its level you can order the fabrication of even better armour.<br><br>
+  <b>Costs</b> and <b>construction time</b> for level 1:<br>
+  <img src=img/un/res/1.gif width=18 height=12 alt="Lumber" title="Lumber" style="padding-top: 4px" /> 130 |
+  <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="Clay"> 210 |
+  <img src="img/un/res/3.gif" width=18 height=12 alt="Iron" title="Iron"> 410 |
+  <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="Crop"> 130 |
+  <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="Crop consumption"> 4 |
+  <img src=img/un/h/clock.gif width=18 height=12> 0:33:20<br><br>
+  <b>Prerequisites:</b><br>Main Building Level 3, Academy Level 1
+</p>
 
 <h2>Palace</h2>
 
-
-
-
-
 <p>
-
-<img src="img/un/h/gid26.gif" width=166 height=150 border=0 alt="Palace" title="Palace" align="left" />
-
-The King or Queen of the empire lives in the palace. The palace can only be built in one village at a time and can be used to make a village the capital. Capitals cannot be conquered.
-
-<br><br>
-
-At level 10, 15 and 20 three settlers or one administrator (Senator, Chief or Chieftain) can be trained.
-
-<br><br>
-
-The Capital is the only place a stonemason's lodge can be erected. Also the capital is the only village where resource fields can be extended beyond level 10.    <br>
-
-    <br>
-
-    <b>Costs</b> and <b>construction time</b> for level 1:    <br>
-
-    <img src=img/un/res/1.gif width=18 height=12 alt=Lumber " title="
-
-    Lumber    " style="padding-top: 4px" />
-
-    550    | <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="Clay">
-
-    800    | <img src="img/un/res/3.gif" width=18 height=12 alt="Iron" title="Iron">
-
-    750    | <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="Crop">
-
-    250    | <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="Crop consumption">
-
-    1    | <img src=img/un/h/clock.gif width=18 height=12>
-
-    1:23:20    <br>
-
-    <br>
-
-    <b>
-
-        Prerequisites:    </b>
-
-    <br>
-
-    Embassy Level 1, Main Building Level 5, <strike>Residence</strike></p>
+  <img src="img/un/h/gid26.gif" width=166 height=150 border=0 alt="Palace" title="Palace" align="left" />
+  The King or Queen of the empire lives in the palace. The palace can only be built in one village at a time and can be used to make a village the capital. Capitals cannot be conquered.<br><br>
+  At level 10, 15 and 20 three settlers or one administrator (Senator, Chief or Chieftain) can be trained.<br><br>
+  The Capital is the only place a stonemason's lodge can be erected. Also the capital is the only village where resource fields can be extended beyond level 10.<br><br>
+  <b>Costs</b> and <b>construction time</b> for level 1:<br>
+  <img src=img/un/res/1.gif width=18 height=12 alt="Lumber" title="Lumber" style="padding-top: 4px" /> 550 |
+  <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="Clay"> 800 |
+  <img src="img/un/res/3.gif" width=18 height=12 alt="Iron" title="Iron"> 750 |
+  <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="Crop"> 250 |
+  <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="Crop consumption"> 1 |
+  <img src=img/un/h/clock.gif width=18 height=12> 1:23:20<br><br>
+  <b>Prerequisites:</b><br>Embassy Level 1, Main Building Level 5, <strike>Residence</strike>
+</p>
 
 <h2>Residence</h2>
 
-
-
-
-
 <p>
-
-<img src="img/un/h/gid25.gif" width=166 height=150 border=0 alt="Residence" title="Residence" align="left" />
-
-The residence is a small palace where the king or queen lives when he or she visits the village. The residence protects the village against enemies who want to conquer it as long as it is not destroyed.
-
-<br><br>
-
-At level 10 and 20 three settlers or one administrator (Senator, Chief or Chieftain) can be trained.    <br>
-
-    <br>
-
-    <b>Costs</b> and <b>construction time</b> for level 1:    <br>
-
-    <img src=img/un/res/1.gif width=18 height=12 alt=Lumber " title="
-
-    Lumber    " style="padding-top: 4px" />
-
-    580    | <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="Clay">
-
-    460    | <img src="img/un/res/3.gif" width=18 height=12 alt="Iron" title="Iron">
-
-    350    | <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="Crop">
-
-    180    | <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="Crop consumption">
-
-    1    | <img src=img/un/h/clock.gif width=18 height=12>
-
-    0:33:20    <br>
-
-    <br>
-
-    <b>
-
-        Prerequisites:    </b>
-
-    <br>
-
-    Main Building Level 5, <strike>Palace</strike></p>
+  <img src="img/un/h/gid25.gif" width=166 height=150 border=0 alt="Residence" title="Residence" align="left" />
+  The residence is a small palace where the king or queen lives when he or she visits the village. The residence protects the village against enemies who want to conquer it as long as it is not destroyed.<br><br>
+  At level 10 and 20 three settlers or one administrator (Senator, Chief or Chieftain) can be trained.<br><br>
+  <b>Costs</b> and <b>construction time</b> for level 1:<br>
+  <img src=img/un/res/1.gif width=18 height=12 alt="Lumber" title="Lumber" style="padding-top: 4px" /> 580 |
+  <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="Clay"> 460 |
+  <img src="img/un/res/3.gif" width=18 height=12 alt="Iron" title="Iron"> 350 |
+  <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="Crop"> 180 |
+  <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="Crop consumption"> 1 |
+  <img src=img/un/h/clock.gif width=18 height=12> 0:33:20<br><br>
+  <b>Prerequisites:</b><br>Main Building Level 5, <strike>Palace</strike>
+</p>
 
 <h2>Trade Office</h2>
 
-
-
-
-
 <p>
-
-<img src="img/un/h/gid28.gif" width=166 height=150 border=0 alt="Trade Office" title="Trade Office" align="left" />
-
-In the trade office the merchants' carts get improved and equipped with powerful horses. The higher its level the more your merchants are able to carry.
-
-<br><br>
-
-With each level the capacity increases by 10%. At level 20 your merchants can carry thrice as much as normal.
-
-<br><br>
-
-<b>Tribe advantage:</b><br>
-
-Romans: In Travian version 3.5 the Roman trade office increases the capacity by 20% per level.    <br>
-
-    <br>
-
-    <b>Costs</b> and <b>construction time</b> for level 1:    <br>
-
-    <img src=img/un/res/1.gif width=18 height=12 alt=Lumber " title="
-
-    Lumber    " style="padding-top: 4px" />
-
-    1400    | <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="Clay">
-
-    1330    | <img src="img/un/res/3.gif" width=18 height=12 alt="Iron" title="Iron">
-
-    1200    | <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="Crop">
-
-    400    | <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="Crop consumption">
-
-    3    | <img src=img/un/h/clock.gif width=18 height=12>
-
-    0:50:00    <br>
-
-    <br>
-
-    <b>
-
-        Prerequisites:    </b>
-
-    <br>
-
-    Marketplace Level 20, Stable Level 10</p>
+  <img src="img/un/h/gid28.gif" width=166 height=150 border=0 alt="Trade Office" title="Trade Office" align="left" />
+  In the trade office the merchants' carts get improved and equipped with powerful horses. The higher its level the more your merchants are able to carry.<br><br>
+  With each level the capacity increases by 10%. At level 20 your merchants can carry thrice as much as normal.<br><br>
+  <b>Tribe advantage:</b><br>
+  Romans: In Travian version 3.5 the Roman trade office increases the capacity by 20% per level.<br><br>
+  <b>Costs</b> and <b>construction time</b> for level 1:<br>
+  <img src=img/un/res/1.gif width=18 height=12 alt="Lumber" title="Lumber" style="padding-top: 4px" /> 1400 |
+  <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="Clay"> 1330 |
+  <img src="img/un/res/3.gif" width=18 height=12 alt="Iron" title="Iron"> 1200 |
+  <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="Crop"> 400 |
+  <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="Crop consumption"> 3 |
+  <img src=img/un/h/clock.gif width=18 height=12> 0:50:00<br><br>
+  <b>Prerequisites:</b><br>Marketplace Level 20, Stable Level 10
+</p>
 
 <h2>Tournament Square</h2>
 
