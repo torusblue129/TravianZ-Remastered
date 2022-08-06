@@ -139,11 +139,11 @@
   <b>開發要求：</b><br>村莊大樓 等級 3, 倉庫 等級 1, 穀倉 等級 1
 </p>
 
-<h2>Barracks</h2>
+<h2>兵營</h2>
 
 <p>
-  <img src="img/un/h/gid19.gif" width=166 height=150 border=0 alt="Barracks" title="Barracks" align="left" />
-  Infantry can be trained in the barracks. The higher its level the faster the troops are trained.<br><br>
+  <img src="img/un/h/gid19.gif" width=166 height=150 border=0 alt="Barracks" title="兵營" align="left" />
+  兵營是一個訓練步兵的場所，每一名強悍的步兵都經由兵營訓練出來的。兵營等級愈高，訓練步兵的速度便愈快。<br><br>
   等級1的開發成本及時間：<br>
   <img src=img/un/res/1.gif width=18 height=12 alt="Lumber" title="木材" style="padding-top: 4px" /> 210 |
   <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="磚塊"> 140 |
@@ -151,14 +151,14 @@
   <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="穀物"> 120 |
   <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="穀物使用"> 4 |
   <img src=img/un/h/clock.gif width=18 height=12> 0:33:20<br><br>
-  <b>開發要求：</b><br>Rally Point Level 1, Main Building Level 3
+  <b>開發要求：</b><br>集結點 等級 1, 村莊大樓 等級 3
 </p>
 
-<h2>Stable</h2>
+<h2>馬棚</h2>
 
 <p>
-  <img src="img/un/h/gid20.gif" width=166 height=150 border=0 alt="Stable" title="Stable" align="left" />
-  Cavalry is trained in the stable. The higher its level the faster the troops are trained.<br><br>
+  <img src="img/un/h/gid20.gif" width=166 height=150 border=0 alt="Stable" title="馬棚" align="left" />
+  馬棚是一個訓練騎兵的場所，每一名強悍的騎兵都經由馬棚訓練出來的。馬棚的等級愈高，訓練騎兵的速度便愈快。<br><br>
   等級1的開發成本及時間：<br>
   <img src=img/un/res/1.gif width=18 height=12 alt="Lumber" title="木材" style="padding-top: 4px" /> 260 |
   <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="磚塊"> 140 |
@@ -166,14 +166,14 @@
   <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="穀物"> 100 |
   <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="穀物使用"> 5 |
   <img src=img/un/h/clock.gif width=18 height=12> 0:36:40<br><br>
-  <b>開發要求：</b><br>Blacksmith Level 3, Academy Level 5
+  <b>開發要求：</b><br>鐵匠 等級 3, 研究院 等級 5
 </p>
 
-<h2>Workshop</h2>
+<h2>工場</h2>
 
 <p>
-  <img src="img/un/h/gid21.gif" width=166 height=150 border=0 alt="Workshop" title="Workshop" align="left" />
-  Siege engines like catapults and rams can be built in the workshop. The higher its level the faster the units are produced.<br><br>
+  <img src="img/un/h/gid21.gif" width=166 height=150 border=0 alt="Workshop" title="工場" align="left" />
+  工場是生產衝撞車和投石車的地方，工場的等級愈高，生產速度越快。<br><br>
   等級1的開發成本及時間：<br>
   <img src=img/un/res/1.gif width=18 height=12 alt="Lumber" title="木材" style="padding-top: 4px" /> 460 |
   <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="磚塊"> 510 |
@@ -181,7 +181,7 @@
   <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="穀物"> 320 |
   <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="穀物使用"> 3 |
   <img src=img/un/h/clock.gif width=18 height=12> 0:50:00<br><br>
-  <b>開發要求：</b><br>Academy Level 10, Main Building Level 5
+  <b>開發要求：</b><br>研究院 等級 10, 村莊大樓 等級 5
 </p>
 
 <h2>Academy</h2>
@@ -199,11 +199,11 @@
   <b>開發要求：</b><br>Barracks Level 3, Main Building Level 3
 </p>
 
-<h2>Blacksmith</h2>
+<h2>研究院</h2>
 
 <p>
-  <img src="img/un/h/gid12.gif" width=166 height=150 border=0 alt="Blacksmith" title="Blacksmith" align="left" />
-  Your warriors' weapons are enhanced in the blacksmith?s melting furnaces. By increasing its level you can order the fabrication of even better weapons.<br><br>
+  <img src="img/un/h/gid12.gif" width=166 height=150 border=0 alt="Blacksmith" title="研究院" align="left" />
+  研究院是用來研發新的兵種。<br><br>
   等級1的開發成本及時間：<br>
   <img src=img/un/res/1.gif width=18 height=12 alt="Lumber" title="木材" style="padding-top: 4px" /> 170 |
   <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="磚塊"> 200 |
@@ -211,14 +211,14 @@
   <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="穀物"> 130 |
   <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="穀物使用"> 4 |
   <img src=img/un/h/clock.gif width=18 height=12> 0:33:20<br><br>
-  <b>開發要求：</b><br>Main Building Level 3, Academy Level 3
+  <b>開發要求：</b><br>兵營 等級 3, 村莊大樓 等級 3
 </p>
 
-<h2>Armoury</h2>
+<h2>鐵匠鋪</h2>
 
 <p>
   <img src="img/un/h/gid13.gif" width=166 height=150 border=0 alt="Armoury" title="Armoury" align="right" />
-  Your warriors' armour is enhanced in the armoury's melting furnaces. By increasing its level you can order the fabrication of even better armour.<br><br>
+  鐵匠鋪是用來製造及改良您部隊的武器，藉此增加部隊的攻擊能力。當然，鐵匠鋪的等級愈高，能夠製造出的武器的攻擊能力也會愈強。<br><br>
   等級1的開發成本及時間：<br>
   <img src=img/un/res/1.gif width=18 height=12 alt="Lumber" title="木材" style="padding-top: 4px" /> 130 |
   <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="磚塊"> 210 |
