@@ -69,14 +69,14 @@
   <b>開發要求：</b><br>村莊大樓 等級 1
 </p>
 
-<h2>Cranny</h2>
+<h2>山洞</h2>
 
 <p>
-  <img src="img/un/h/gid23.gif" width=166 height=150 border=0 alt="Cranny" title="Cranny" align="left" />
-  The cranny is used to hide some of your resources when the village is attacked. These resources cannot be stolen. At level 1 100 resources are hidden.<br><br>
-  <b>Tribe advantage:</b><br>
-  Gauls: The cranny is twice as big.<br>
-  Teutons: Enemy crannies only hides 66% of the normal amount in Travian version 2.5 and 3, and 80% of the normal amount in Travian version 3.5.<br><br>
+  <img src="img/un/h/gid23.gif" width=166 height=150 border=0 alt="Cranny" title="山洞" align="left" />
+  當有敵人來攻擊時，山洞可以幫您隱藏部分資源以免被掠走。在等級1時，每樣資源各有100單位會被收藏。上限為10級，若還有需要，可以再加建一個新的山洞。<br><br>
+  <b>種族優勢:</b><br>
+  高盧：兩倍大的山洞<br>
+  條頓：敵人的山洞只有2/3的保護作用<br><br>
   等級1的開發成本及時間：<br>
   <img src=img/un/res/1.gif width=18 height=12 alt="Lumber" title="木材" style="padding-top: 4px" />40 |
   <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="磚塊">50 |
@@ -84,14 +84,14 @@
   <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="穀物">10 |
   <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="穀物使用">0 |
   <img src=img/un/h/clock.gif width=18 height=12> 0:12:30<br><br>
-  <b>開發要求：</b><br>none
+  <b>開發要求：</b><br>無
 </p>
 
-<h2>Embassy</h2>
+<h2>大使館</h2>
 
 <p>
-  <img src="img/un/h/gid18.gif" width=166 height=150 border=0 alt="Embassy" title="Embassy" align="right" />
-  In order to join an alliance you need an embassy. With an embassy level 3 you can even found one yourself. With each higher level the maximum size of the alliance increases by 3.<br><br>
+  <img src="img/un/h/gid18.gif" width=166 height=150 border=0 alt="Embassy" title="大使館" align="right" />
+  如果想加入聯盟，您就需要一間大使館。大使館是外交官的所在地。當您自己的大使館有等級3時，您可以自己建立一個聯盟，然後每提升1級可邀請額外3名玩家加入您的聯盟。<br><br>
   等級1的開發成本及時間：<br>
   <img src=img/un/res/1.gif width=18 height=12 alt="Lumber" title="木材" style="padding-top: 4px" />180 |
   <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="磚塊">130 |
@@ -99,14 +99,14 @@
   <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="穀物">80 |
   <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="穀物使用">3 |
   <img src=img/un/h/clock.gif width=18 height=12> 0:33:20<br><br>
-  <b>開發要求：</b><br>Main Building Level 1
+  <b>開發要求：</b><br>村莊大樓 等級 1
 </p>
 
-<h2>Rally Point</h2>
+<h2>集結點</h2>
 
 <p>
-  <img src="img/un/h/gid16.gif" width=166 height=150 border=0 alt="Rally Point" title="Rally Point" align="right" />
-  At the rally point you can instruct your troops and can see the sender of oncoming troops. The rally point can only be build at the building site right of the village centre. The higher its level the more targets for the catapults become available.<br><br>
+  <img src="img/un/h/gid16.gif" width=166 height=150 border=0 alt="Rally Point" title="集結點" align="right" />
+  集結點是村莊士兵集合的地方。在集結點內您可以分配您軍隊的行動，同時可以看到誰人正在攻擊您的村莊。集結點的升級可以令您用投石機攻擊別人村莊時，能夠指定攻擊的建築物。<br><br>
   等級1的開發成本及時間：<br>
   <img src=img/un/res/1.gif width=18 height=12 alt="Lumber" title="木材" style="padding-top: 4px" />110 |
   <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="磚塊">160 |
@@ -114,21 +114,21 @@
   <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="穀物">70 |
   <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="穀物使用">1 |
   <img src=img/un/h/clock.gif width=18 height=12> 0:33:20<br><br>
-  <b>開發要求：</b><br>none
+  <b>開發要求：</b><br>無
 </p>
 
-<h2>Marketplace</h2>
+<h2>市場</h2>
 
 <p>
-  <img src="img/un/h/gid17.gif" width=166 height=150 border=0 alt="Marketplace" title="Marketplace" align="left" />
-  At the marketplace you can trade resources with other players. The higher its level, the more resources can be transported at the same time.<br><br>
-  <b>Tribe advantage:</b><br>
-  Romans: Each merchant can carry 500 resources.<br>
-  Velocity: 16 fields/hour.<br>
-  Teutons: Each merchant can carry 1000 resources.<br>
-  Velocity: 12 fields/hour.<br>
-  Gauls: Each merchant can carry 750 resources.<br>
-  Velocity: 24 fields/hour.<br><br>
+  <img src="img/un/h/gid17.gif" width=166 height=150 border=0 alt="Marketplace" title="市場" align="left" />
+  在市場您可以和其他玩家交易資源。而市場每升一級，您便可以多一個商人幫您運送資源。<br><br>
+  <b>種族優勢:</b><br>
+  羅馬人：每個商人可以運送500單位的資源。<br>
+  速度：每小時16格<br>
+  條頓人：每個商人可以運送1000單位的資源。<br>
+  速度：每小時12格<br>
+  高盧人：每個商人可以運送750單位的資源。<br>
+  速度：每小時24格. <br><br>
   等級1的開發成本及時間：<br>
   <img src=img/un/res/1.gif width=18 height=12 alt="Lumber" title="木材" style="padding-top: 4px" /> 80 |
   <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="磚塊"> 70 |
@@ -136,7 +136,7 @@
   <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="穀物"> 70 |
   <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="穀物使用"> 4 |
   <img src=img/un/h/clock.gif width=18 height=12> 0:30:00<br><br>
-  <b>開發要求：</b><br>Main Building Level 3, Warehouse Level 1, Granary Level 1
+  <b>開發要求：</b><br>村莊大樓 等級 3, 倉庫 等級 1, 穀倉 等級 1
 </p>
 
 <h2>Barracks</h2>
@@ -268,7 +268,7 @@
   <img src="img/un/h/gid28.gif" width=166 height=150 border=0 alt="Trade Office" title="Trade Office" align="left" />
   In the trade office the merchants' carts get improved and equipped with powerful horses. The higher its level the more your merchants are able to carry.<br><br>
   With each level the capacity increases by 10%. At level 20 your merchants can carry thrice as much as normal.<br><br>
-  <b>Tribe advantage:</b><br>
+  <b>種族優勢:</b><br>
   Romans: In Travian version 3.5 the Roman trade office increases the capacity by 20% per level.<br><br>
   等級1的開發成本及時間：<br>
   <img src=img/un/res/1.gif width=18 height=12 alt="Lumber" title="木材" style="padding-top: 4px" /> 1400 |
