@@ -40,7 +40,7 @@
 <p class="answer">當您開始建設，升級資源田又或者出兵之後，要改變主意的話，您可以按那個行動附近的紅色X。一按行動便會取消。注意：若您的建築物高過等級1，您取消行動會失去資源！！ 而部隊的攻擊只可在出擊後90秒內取消。</p>
 
 <p class="question">如何增加人口數量？</p>
-<p class="answer">每個建築都會增加您村莊居民的數量。如果想知道相對於各種建築居民的增加量，注意圖標<img src="img/un/res/5.gif" width="18" height="12" border="0" alt="use of crop" title="糧食消耗"></div>的旁邊，有具體數目顯示。</p>
+<p class="answer">每個建築都會增加您村莊居民的數量。如果想知道相對於各種建築居民的增加量，注意圖標<img src="img/un/res/5.gif" width="18" height="12" border="0" alt="use of crop" title="糧食消耗">的旁邊，有具體數目顯示。</p>
 
 <p class="question">求救！我的糧食越來越少！</p>
 <p class="answer">很簡單，因為人要吃飯。村莊人口越多，士兵數量越多，糧食消耗就會自己上升。每一個士兵或建築的開發成本都有寫明每小時糧食消耗多少。</p>
