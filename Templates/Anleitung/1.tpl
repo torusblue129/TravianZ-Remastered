@@ -229,13 +229,12 @@
   <b>開發要求：</b><br>村莊大樓 等級 3, 研究院 等級 1
 </p>
 
-<h2>Palace</h2>
+<h2>皇宮</h2>
 
 <p>
-  <img src="img/un/h/gid26.gif" width=166 height=150 border=0 alt="Palace" title="Palace" align="left" />
-  The King or Queen of the empire lives in the palace. The palace can only be built in one village at a time and can be used to make a village the capital. Capitals cannot be conquered.<br><br>
-  At level 10, 15 and 20 three settlers or one administrator (Senator, Chief or Chieftain) can be trained.<br><br>
-  The Capital is the only place a stonemason's lodge can be erected. Also the capital is the only village where resource fields can be extended beyond level 10.<br><br>
+  <img src="img/un/h/gid26.gif" width=166 height=150 border=0 alt="Palace" title="皇宮" align="left" />
+  皇宮只可以在其中一個村莊建造，而那個村莊亦即是您國家的首都/主村。您的首都/主村是不能被佔領的。 <br><br>
+  在等級10、15及20時，您可以訓練出3個開拓者或1個行政官員(參議員、司令官或族長)。<br><br>
   等級1的開發成本及時間：<br>
   <img src=img/un/res/1.gif width=18 height=12 alt="Lumber" title="木材" style="padding-top: 4px" /> 550 |
   <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="磚塊"> 800 |
@@ -243,15 +242,15 @@
   <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="穀物"> 250 |
   <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="穀物使用"> 1 |
   <img src=img/un/h/clock.gif width=18 height=12> 1:23:20<br><br>
-  <b>開發要求：</b><br>Embassy Level 1, Main Building Level 5, <strike>Residence</strike>
+  <b>開發要求：</b><br>大使館 等級 1, 村莊大樓 等級 5, <strike>行宮</strike></p>
 </p>
 
-<h2>Residence</h2>
+<h2>行宮</h2>
 
 <p>
-  <img src="img/un/h/gid25.gif" width=166 height=150 border=0 alt="Residence" title="Residence" align="left" />
-  The residence is a small palace where the king or queen lives when he or she visits the village. The residence protects the village against enemies who want to conquer it as long as it is not destroyed.<br><br>
-  At level 10 and 20 three settlers or one administrator (Senator, Chief or Chieftain) can be trained.<br><br>
+  <img src="img/un/h/gid25.gif" width=166 height=150 border=0 alt="Residence" title="行宮" align="left" />
+  行宮是一個比較小規模的皇宮，給國王或皇后蒞臨村莊時住的。為村提供防禦力，效果比皇宮小。<br><br>
+  當村莊內有行宮或皇宮，直至皇宮或行宮被投石車完全毀滅之前，該村莊都不能被敵軍完全攻佔。 在等級10及20，您可以訓練出3個開拓者或1個行政官員(參議員、司令官或族長)。<br><br>
   等級1的開發成本及時間：<br>
   <img src=img/un/res/1.gif width=18 height=12 alt="Lumber" title="木材" style="padding-top: 4px" /> 580 |
   <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="磚塊"> 460 |
@@ -259,17 +258,15 @@
   <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="穀物"> 180 |
   <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="穀物使用"> 1 |
   <img src=img/un/h/clock.gif width=18 height=12> 0:33:20<br><br>
-  <b>開發要求：</b><br>Main Building Level 5, <strike>Palace</strike>
+  <b>開發要求：</b><br>村莊大樓 等級 5, <strike>皇宮</strike></p>
 </p>
 
-<h2>Trade Office</h2>
+<h2>交易所</h2>
 
 <p>
-  <img src="img/un/h/gid28.gif" width=166 height=150 border=0 alt="Trade Office" title="Trade Office" align="left" />
-  In the trade office the merchants' carts get improved and equipped with powerful horses. The higher its level the more your merchants are able to carry.<br><br>
-  With each level the capacity increases by 10%. At level 20 your merchants can carry thrice as much as normal.<br><br>
-  <b>種族優勢:</b><br>
-  Romans: In Travian version 3.5 the Roman trade office increases the capacity by 20% per level.<br><br>
+  <img src="img/un/h/gid28.gif" width=166 height=150 border=0 alt="Trade Office" title="交易所" align="left" />
+  在交易所內，您可以為您的商人提供更好的馬匹，令他們改善交易的效率。交易所的等級愈高，商人的運載量便愈大。<br><br>
+  交易所每升一級，運載量提高10%。到20級的時候，每個商人可以運載3倍的資源。<br><br>
   等級1的開發成本及時間：<br>
   <img src=img/un/res/1.gif width=18 height=12 alt="Lumber" title="木材" style="padding-top: 4px" /> 1400 |
   <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="磚塊"> 1330 |
@@ -277,14 +274,14 @@
   <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="穀物"> 400 |
   <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="穀物使用"> 3 |
   <img src=img/un/h/clock.gif width=18 height=12> 0:50:00<br><br>
-  <b>開發要求：</b><br>Marketplace Level 20, Stable Level 10
+  <b>開發要求：</b><br>市場 等級 20, 馬棚 等級 10
 </p>
 
-<h2>Tournament Square</h2>
+<h2>競技場</h2>
 
 <p>
-  <img src="img/un/h/gid14.gif" width=166 height=150 border=0 alt="Tournament Square" title="Tournament Square" align="left" />
-  Your troops can train to increase their stamina at the tournament square. The further the building is upgraded the faster your troops are beyond a minimum distance of 30 squares.<br><br>
+  <img src="img/un/h/gid14.gif" width=166 height=150 border=0 alt="Tournament Square" title="競技場" align="left" />
+  在競技場可以訓練士兵，增加他們的行軍速度。競技場的等級越高，士兵速度越快。<br><br>
   等級1的開發成本及時間：<br>
   <img src=img/un/res/1.gif width=18 height=12 alt="Lumber" title="木材" style="padding-top: 4px" /> 1750 |
   <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="磚塊"> 2250 |
@@ -292,8 +289,10 @@
   <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="穀物"> 240 |
   <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="穀物使用"> 1 |
   <img src=img/un/h/clock.gif width=18 height=12> 0:58:20<br><br>
-  <b>開發要求：</b><br>Rally Point Level 15
+  <b>開發要求：</b><br>集結點 等級 15
 </p>
+
+<p>點擊下面的連結可以看詳細的<a href="/building.webp">建設樹狀圖</a>。</p>
 
 </div>
 	<div class="clear"></div>
