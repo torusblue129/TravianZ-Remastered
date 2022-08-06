@@ -5,15 +5,14 @@
 ##                                                                             ##
 ## --------------------------------------------------------------------------- ##
 ##                                                                             ##
-##  Project:       TravianZ                                                    ##
-##  Version:       05.03.2014                                                  ##
-##  Filename:      Admin/admin.php     				                           ##
-##  Developed by:  Dzoki                                                       ##
-##  Edited by:     Shadow and ronix                                            ##
+##  Project:       TravianZ-Remastered                                         ##
+##  Version:       v8.3.5                                                      ##
+##  Filename:      Admin/admin.php                                             ##
+##  Edited by:     Torusblue129                                                ##
 ##  License:       Creative Commons BY-NC-SA 3.0                               ##
-##  Copyright:     TravianZ (c) 2014 - All rights reserved                     ##
-##  URLs:          http://travian.shadowss/ro                                  ##
-##  Source code:   https://github.com/Shadowss/TravianZ	                       ##
+##  Copyright:     TravianZ (c) 2011 - All rights reserved                     ##
+##  URLs:          http://travianca.x10.mx/                                    ##
+##  Source code:   https://github.com/torusblue129/TravianZ-Remastered         ##
 ##                                                                             ##
 #################################################################################
 
@@ -52,7 +51,7 @@ if (!empty($_GET['p'])) {
         case 'report':
             $subpage = 'Players Report';
             break;
-            
+
         case 'message':
             $subpage = 'Players Message';
             break;
@@ -60,7 +59,7 @@ if (!empty($_GET['p'])) {
         case 'map':
             $subpage = 'Map';
             break;
-            
+
         case 'natars':
             $subpage = 'Natars Management';
             break;
