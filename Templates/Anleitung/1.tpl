@@ -35,7 +35,7 @@
   <img src="img/un/res/3.gif" width=18 height=12 alt="Iron" title="Iron">60 |
   <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="Crop">20 |
   <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="Crop consumption">2 |
-  <img src=img/un/h/clock.gif width=18 height=12>0:33:20<br><br>
+  <img src=img/un/h/clock.gif width=18 height=12> 0:33:20<br><br>
   <b>Prerequisites:</b><br>none
 </p>
 
@@ -50,7 +50,7 @@
   <img src="img/un/res/3.gif" width=18 height=12 alt="Iron" title="Iron">90 |
   <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="Crop">40 |
   <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="Crop consumption">1 |
-  <img src=img/un/h/clock.gif width=18 height=12>0:33:20<br><br>
+  <img src=img/un/h/clock.gif width=18 height=12> 0:33:20<br><br>
   <b>Prerequisites:</b><br>Main Building Level 1
 </p>
 
@@ -65,7 +65,7 @@
   <img src="img/un/res/3.gif" width=18 height=12 alt="Iron" title="Iron">70 |
   <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="Crop">20 |
   <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="Crop consumption">1 |
-  <img src=img/un/h/clock.gif width=18 height=12>0:26:40<br><br>
+  <img src=img/un/h/clock.gif width=18 height=12> 0:26:40<br><br>
   <b>Prerequisites:</b><br>Main Building Level 1
 </p>
 
@@ -83,7 +83,7 @@
   <img src="img/un/res/3.gif" width=18 height=12 alt="Iron" title="Iron">30 |
   <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="Crop">10 |
   <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="Crop consumption">0 |
-  <img src=img/un/h/clock.gif width=18 height=12>0:12:30<br><br>
+  <img src=img/un/h/clock.gif width=18 height=12> 0:12:30<br><br>
   <b>Prerequisites:</b><br>none
 </p>
 
@@ -98,7 +98,7 @@
   <img src="img/un/res/3.gif" width=18 height=12 alt="Iron" title="Iron">150 |
   <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="Crop">80 |
   <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="Crop consumption">3 |
-  <img src=img/un/h/clock.gif width=18 height=12>0:33:20<br><br>
+  <img src=img/un/h/clock.gif width=18 height=12> 0:33:20<br><br>
   <b>Prerequisites:</b><br>Main Building Level 1
 </p>
 
@@ -112,110 +112,47 @@
   <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="Clay">160 |
   <img src="img/un/res/3.gif" width=18 height=12 alt="Iron" title="Iron">90 |
   <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="Crop">70 |
-  <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="Crop consumption">1 | 
-  <img src=img/un/h/clock.gif width=18 height=12>0:33:20<br><br>
+  <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="Crop consumption">1 |
+  <img src=img/un/h/clock.gif width=18 height=12> 0:33:20<br><br>
   <b>Prerequisites:</b><br>none
 </p>
 
 <h2>Marketplace</h2>
 
-
-
-
-
 <p>
-
-<img src="img/un/h/gid17.gif" width=166 height=150 border=0 alt="Marketplace" title="Marketplace" align="left" />
-
-At the marketplace you can trade resources with other players. The higher its level, the more resources can be transported at the same time.
-
-<br><br>
-
-<b>Tribe advantage:</b><br>
-
-Romans: Each merchant can carry 500 resources.<br>
-
-Velocity: 16 fields/hour.<br>
-
-Teutons: Each merchant can carry 1000 resources.<br>
-
-Velocity: 12 fields/hour.<br>
-
-Gauls: Each merchant can carry 750 resources.<br>
-
-Velocity: 24 fields/hour.    <br>
-
-    <br>
-
-    <b>Costs</b> and <b>construction time</b> for level 1:    <br>
-
-    <img src=img/un/res/1.gif width=18 height=12 alt=Lumber " title="
-
-    Lumber    " style="padding-top: 4px" />
-
-    80    | <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="Clay">
-
-    70    | <img src="img/un/res/3.gif" width=18 height=12 alt="Iron" title="Iron">
-
-    120    | <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="Crop">
-
-    70    | <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="Crop consumption">
-
-    4    | <img src=img/un/h/clock.gif width=18 height=12>
-
-    0:30:00    <br>
-
-    <br>
-
-    <b>
-
-        Prerequisites:    </b>
-
-    <br>
-
-    Main Building Level 3, Warehouse Level 1, Granary Level 1</p>
+  <img src="img/un/h/gid17.gif" width=166 height=150 border=0 alt="Marketplace" title="Marketplace" align="left" />
+  At the marketplace you can trade resources with other players. The higher its level, the more resources can be transported at the same time.<br><br>
+  <b>Tribe advantage:</b><br>
+  Romans: Each merchant can carry 500 resources.<br>
+  Velocity: 16 fields/hour.<br>
+  Teutons: Each merchant can carry 1000 resources.<br>
+  Velocity: 12 fields/hour.<br>
+  Gauls: Each merchant can carry 750 resources.<br>
+  Velocity: 24 fields/hour.<br><br>
+  <b>Costs</b> and <b>construction time</b> for level 1:<br>
+  <img src=img/un/res/1.gif width=18 height=12 alt="Lumber" title="Lumber" style="padding-top: 4px" /> 80 |
+  <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="Clay"> 70 |
+  <img src="img/un/res/3.gif" width=18 height=12 alt="Iron" title="Iron"> 120 |
+  <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="Crop"> 70 |
+  <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="Crop consumption"> 4 |
+  <img src=img/un/h/clock.gif width=18 height=12> 0:30:00<br><br>
+  <b>Prerequisites:</b><br>Main Building Level 3, Warehouse Level 1, Granary Level 1
+</p>
 
 <h2>Barracks</h2>
 
-
-
-
-
 <p>
-
-<img src="img/un/h/gid19.gif" width=166 height=150 border=0 alt="Barracks" title="Barracks" align="left" />
-
-Infantry can be trained in the barracks. The higher its level the faster the troops are trained.    <br>
-
-    <br>
-
-    <b>Costs</b> and <b>construction time</b> for level 1:    <br>
-
-    <img src=img/un/res/1.gif width=18 height=12 alt=Lumber " title="
-
-    Lumber    " style="padding-top: 4px" />
-
-    210    | <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="Clay">
-
-    140    | <img src="img/un/res/3.gif" width=18 height=12 alt="Iron" title="Iron">
-
-    260    | <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="Crop">
-
-    120    | <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="Crop consumption">
-
-    4    | <img src=img/un/h/clock.gif width=18 height=12>
-
-    0:33:20    <br>
-
-    <br>
-
-    <b>
-
-        Prerequisites:    </b>
-
-    <br>
-
-    Rally Point Level 1, Main Building Level 3</p>
+  <img src="img/un/h/gid19.gif" width=166 height=150 border=0 alt="Barracks" title="Barracks" align="left" />
+  Infantry can be trained in the barracks. The higher its level the faster the troops are trained.<br><br>
+  <b>Costs</b> and <b>construction time</b> for level 1:<br>
+  <img src=img/un/res/1.gif width=18 height=12 alt="Lumber" title="Lumber" style="padding-top: 4px" /> 210 |
+  <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="Clay"> 140 |
+  <img src="img/un/res/3.gif" width=18 height=12 alt="Iron" title="Iron"> 260 |
+  <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="Crop"> 120 |
+  <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="Crop consumption"> 4 |
+  <img src=img/un/h/clock.gif width=18 height=12> 0:33:20<br><br>
+  <b>Prerequisites:</b><br>Rally Point Level 1, Main Building Level 3
+</p>
 
 <h2>Stable</h2>
 
