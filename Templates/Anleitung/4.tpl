@@ -70,7 +70,6 @@ As soon as the steward of a town (senator, chief, chieftain) as been researched 
     <td>4</td><td>4</td>
     <td>5</td>
     <td>6</td>
-    <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
   </tr>
   <tr>
     <th class="text">Clay Pit</th>
@@ -79,7 +78,7 @@ As soon as the steward of a town (senator, chief, chieftain) as been researched 
     <td>3</td>
     <td>4</td><td>4</td>
     <td>5</td>
-    <td>6</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+    <td>6</td>
   </tr>
   <tr><th class="text">Iron Mine</th>
     <td>1</td><td>1</td>
@@ -87,7 +86,6 @@ As soon as the steward of a town (senator, chief, chieftain) as been researched 
     <td>3</td><td>4</td><td>4</td>
     <td>5</td>
     <td>6</td>
-    <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
   </tr>
   <tr>
     <th class="text">Cropland</th>
@@ -97,7 +95,6 @@ As soon as the steward of a town (senator, chief, chieftain) as been researched 
     <td>4</td><td>4</td>
     <td>5</td>
     <td>6</td>
-    <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
   </tr>
   <tr>
     <th class="text">Sawmill</th>
