@@ -78,16 +78,17 @@ AccessLogger::logRequest();
 										include("Templates/Tutorial/5.tpl"); }
 										?>
 
-	</ul>
-		<div class="footer"></div>
-		<div id="iframe_layer" class="overlay"></div>
-		<div class="mask closer"></div>
-		<div class="overlay_content">
-		<a href="index.php" class="closer"><img class="dynamic_img" alt="Close" src="img/un/x.gif" /></a>
 
-	<div id="frame_box" >
-		</div>
 			<div class="footer"></div>
+			<div id="iframe_layer" class="overlay"></div>
+			<div class="mask closer"></div>
+			<div class="overlay_content">
+			<a href="index.php" class="closer"><img class="dynamic_img" alt="Close" src="img/un/x.gif" /></a>
+
+		<div id="frame_box" >
+			</div>
+				<div class="footer"></div>
+			</div>
 		</div>
 	</body>
 </html>
