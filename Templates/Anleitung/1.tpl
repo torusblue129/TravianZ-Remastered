@@ -39,11 +39,11 @@
   <b>開發要求：</b><br>無
 </p>
 
-<h2>穀倉</h2>
+<h2>倉庫</h2>
 
 <p>
-  <img src="img/un/h/gid10.gif" width=166 height=150 border=0 alt="Warehouse" title="穀倉" align="right" />
-  糧倉用來存放您所生產的穀物。糧倉的級數愈高，它可以存放的穀物便會愈多。當糧倉到達最高等級20的時候，若還有需要，可以再加建一間新的糧倉。<br><br>
+  <img src="img/un/h/gid10.gif" width=166 height=150 border=0 alt="Warehouse" title="倉庫" align="right" />
+  倉庫用來存放您村莊的資源，包括木材、磚塊及鋼鐵。倉庫級數越高，它所能存放的資源也就越多。當倉庫到達最高等級20的時候，如果還有需要，可以再加建一間新的倉庫。<br><br>
   等級1的開發成本及時間：<br>
   <img src=img/un/res/1.gif width=18 height=12 alt="Lumber" title="木材" style="padding-top: 4px" />130 |
   <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="磚塊">160 |
@@ -54,11 +54,11 @@
   <b>開發要求：</b><br>村莊大樓 等級 1
 </p>
 
-<h2>山洞</h2>
+<h2>糧倉</h2>
 
 <p>
-  <img src="img/un/h/gid11.gif" width=166 height=150 border=0 alt="Granary" title="山洞" align="right" />
-  當有敵人來攻擊時，山洞可以幫您隱藏部分資源以免被掠走。在等級1時，每樣資源各有100單位會被收藏。上限為10級，若還有需要，可以再加建一個新的山洞。<br><br>
+  <img src="img/un/h/gid11.gif" width=166 height=150 border=0 alt="Granary" title="糧倉" align="right" />
+  糧倉用來存放您所生產的穀物。糧倉的級數愈高，它可以存放的穀物便會愈多。當糧倉到達最高等級20的時候，若還有需要，可以再加建一間新的糧倉。<br><br>
   等級1的開發成本及時間：<br>
   <img src=img/un/res/1.gif width=18 height=12 alt="Lumber" title="木材" style="padding-top: 4px" />80 |
   <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="磚塊">100 |
@@ -66,7 +66,7 @@
   <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="穀物">20 |
   <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="穀物使用">1 |
   <img src=img/un/h/clock.gif width=18 height=12> 0:26:40<br><br>
-  <b>開發要求：</b><br>Main Building Level 1
+  <b>開發要求：</b><br>村莊大樓 等級 1
 </p>
 
 <h2>Cranny</h2>
