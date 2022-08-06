@@ -282,58 +282,32 @@
 
 <h2>Tournament Square</h2>
 
-
-
-
-
 <p>
+  <img src="img/un/h/gid14.gif" width=166 height=150 border=0 alt="Tournament Square" title="Tournament Square" align="left" />
+  Your troops can train to increase their stamina at the tournament square. The further the building is upgraded the faster your troops are beyond a minimum distance of 30 squares.<br><br>
+  <b>Costs</b> and <b>construction time</b> for level 1:<br>
+  <img src=img/un/res/1.gif width=18 height=12 alt="Lumber" title="Lumber" style="padding-top: 4px" /> 1750 |
+  <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="Clay"> 2250 |
+  <img src="img/un/res/3.gif" width=18 height=12 alt="Iron" title="Iron"> 1530 |
+  <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="Crop"> 240 |
+  <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="Crop consumption"> 1 |
+  <img src=img/un/h/clock.gif width=18 height=12> 0:58:20<br><br>
+  <b>Prerequisites:</b><br>Rally Point Level 15
+</p>
 
-<img src="img/un/h/gid14.gif" width=166 height=150 border=0 alt="Tournament Square" title="Tournament Square" align="left" />
-
-Your troops can train to increase their stamina at the tournament square. The further the building is upgraded the faster your troops are beyond a minimum distance of 30 squares.    <br>
-
-    <br>
-
-    <b>Costs</b> and <b>construction time</b> for level 1:    <br>
-
-    <img src=img/un/res/1.gif width=18 height=12 alt=Lumber " title="
-
-    Lumber    " style="padding-top: 4px" />
-
-    1750    | <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="Clay">
-
-    2250    | <img src="img/un/res/3.gif" width=18 height=12 alt="Iron" title="Iron">
-
-    1530    | <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="Crop">
-
-    240    | <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="Crop consumption">
-
-    1    | <img src=img/un/h/clock.gif width=18 height=12>
-
-    0:58:20    <br>
-
-    <br>
-
-    <b>
-
-        Prerequisites:    </b>
-
-    <br>
-
-    Rally Point Level 15</p>
-	</div>
+</div>
 	<div class="clear"></div>
-</div>
-
-<div id="footer">
-
-	<div class="container">
-
-		<a href="#" class="logo"><img src="img/x.gif" alt="Travian Games" class="logo_traviangames" /></a>
-
-			<li class="copyright">&copy; 2010 - <?php echo date('Y') . ' ' . (defined('SERVER_NAME') ? SERVER_NAME : 'TravianZ');?> All rights reserved</li>
-
-	</div>
-
-</div>
+  <div id="footer">
+      <div class="container">
+          <a href="#" class="logo"><img src="img/x.gif" alt="Travian Games" class="logo_traviangames" /></a>
+          <ul class="menu">
+              <li><a href="anleitung.php?s=3">FAQ</a>|</li>
+              <li><a href="index.php?screenshots">遊戲畫面</a>|</li>
+              <li><a href="spielregeln.php">玩家守則</a>|</li>
+              <li><a href="agb.php">服務條款</a>|</li>
+              <li><a href="impressum.php">關於我們</a></li>
+              <li class="copyright">&copy; 2010 - <?php echo date('Y') . ' ' . (defined('SERVER_NAME') ? SERVER_NAME : 'TravianZ');?> All rights reserved</li>
+          </ul>
+      </div>
+  </div>
 </div>
