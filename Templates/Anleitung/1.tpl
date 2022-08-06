@@ -30,11 +30,11 @@
   <b>Tribe advantage:</b><br><br>
   Romans: Can build/extend a resource field and a village building at the same time.<br><br>
   <b>Costs</b> and <b>construction time</b> for level 1:<br>
-  <img src=img/un/res/1.gif width=18 height=12 alt="Lumber" title="Lumber" style="padding-top: 4px"/>70|
-  <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="Clay">40|
-  <img src="img/un/res/3.gif" width=18 height=12 alt="Iron" title="Iron">60|
-  <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="Crop">20|
-  <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="Crop consumption">2|
+  <img src=img/un/res/1.gif width=18 height=12 alt="Lumber" title="Lumber" style="padding-top: 4px"/>70 |
+  <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="Clay">40 |
+  <img src="img/un/res/3.gif" width=18 height=12 alt="Iron" title="Iron">60 |
+  <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="Crop">20 |
+  <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="Crop consumption">2 |
   <img src=img/un/h/clock.gif width=18 height=12>0:33:20<br><br>
   <b>Prerequisites:</b><br>none
 </p>
@@ -45,11 +45,11 @@
   <img src="img/un/h/gid10.gif" width=166 height=150 border=0 alt="Warehouse" title="Warehouse" align="right" />
   The resources lumber, clay and iron are stored in your warehouse. By increasing its level you increase your warehouse's capacity.<br><br>
   <b>Costs</b> and <b>construction time</b> for level 1:<br>
-  <img src=img/un/res/1.gif width=18 height=12 alt="Lumber" title="Lumber" style="padding-top: 4px" />130|
-  <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="Clay">160|
-  <img src="img/un/res/3.gif" width=18 height=12 alt="Iron" title="Iron">90|
-  <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="Crop">40|
-  <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="Crop consumption">1|
+  <img src=img/un/res/1.gif width=18 height=12 alt="Lumber" title="Lumber" style="padding-top: 4px" />130 |
+  <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="Clay">160 |
+  <img src="img/un/res/3.gif" width=18 height=12 alt="Iron" title="Iron">90 |
+  <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="Crop">40 |
+  <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="Crop consumption">1 |
   <img src=img/un/h/clock.gif width=18 height=12>0:33:20<br><br>
   <b>Prerequisites:</b><br>Main Building Level 1
 </p>
@@ -60,11 +60,11 @@
   <img src="img/un/h/gid11.gif" width=166 height=150 border=0 alt="Granary" title="Granary" align="right" />
   The crop produced by your farms is stored in the granary. By increasing its level you increase the granary?s capacity.<br><br>
   <b>Costs</b> and <b>construction time</b> for level 1:<br>
-  <img src=img/un/res/1.gif width=18 height=12 alt="Lumber" title="Lumber" style="padding-top: 4px" />80|
-  <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="Clay">100|
-  <img src="img/un/res/3.gif" width=18 height=12 alt="Iron" title="Iron">70|
-  <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="Crop">20|
-  <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="Crop consumption">1|
+  <img src=img/un/res/1.gif width=18 height=12 alt="Lumber" title="Lumber" style="padding-top: 4px" />80 |
+  <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="Clay">100 |
+  <img src="img/un/res/3.gif" width=18 height=12 alt="Iron" title="Iron">70 |
+  <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="Crop">20 |
+  <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="Crop consumption">1 |
   <img src=img/un/h/clock.gif width=18 height=12>0:26:40<br><br>
   <b>Prerequisites:</b><br>Main Building Level 1
 </p>
@@ -78,11 +78,11 @@
   Gauls: The cranny is twice as big.<br>
   Teutons: Enemy crannies only hides 66% of the normal amount in Travian version 2.5 and 3, and 80% of the normal amount in Travian version 3.5.<br><br>
   <b>Costs</b> and <b>construction time</b> for level 1:<br>
-  <img src=img/un/res/1.gif width=18 height=12 alt="Lumber" title="Lumber" style="padding-top: 4px" />40|
-  <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="Clay">50|
-  <img src="img/un/res/3.gif" width=18 height=12 alt="Iron" title="Iron">30|
-  <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="Crop">10|
-  <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="Crop consumption">0|
+  <img src=img/un/res/1.gif width=18 height=12 alt="Lumber" title="Lumber" style="padding-top: 4px" />40 |
+  <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="Clay">50 |
+  <img src="img/un/res/3.gif" width=18 height=12 alt="Iron" title="Iron">30 |
+  <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="Crop">10 |
+  <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="Crop consumption">0 |
   <img src=img/un/h/clock.gif width=18 height=12>0:12:30<br><br>
   <b>Prerequisites:</b><br>none
 </p>
@@ -93,11 +93,11 @@
   <img src="img/un/h/gid18.gif" width=166 height=150 border=0 alt="Embassy" title="Embassy" align="right" />
   In order to join an alliance you need an embassy. With an embassy level 3 you can even found one yourself. With each higher level the maximum size of the alliance increases by 3.<br><br>
   <b>Costs</b> and <b>construction time</b> for level 1:<br>
-  <img src=img/un/res/1.gif width=18 height=12 alt="Lumber" title="Lumber" style="padding-top: 4px" />180|
-  <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="Clay">130|
-  <img src="img/un/res/3.gif" width=18 height=12 alt="Iron" title="Iron">150|
-  <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="Crop">80|
-  <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="Crop consumption">3|
+  <img src=img/un/res/1.gif width=18 height=12 alt="Lumber" title="Lumber" style="padding-top: 4px" />180 |
+  <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="Clay">130 |
+  <img src="img/un/res/3.gif" width=18 height=12 alt="Iron" title="Iron">150 |
+  <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="Crop">80 |
+  <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="Crop consumption">3 |
   <img src=img/un/h/clock.gif width=18 height=12>0:33:20<br><br>
   <b>Prerequisites:</b><br>Main Building Level 1
 </p>
@@ -108,11 +108,11 @@
   <img src="img/un/h/gid16.gif" width=166 height=150 border=0 alt="Rally Point" title="Rally Point" align="right" />
   At the rally point you can instruct your troops and can see the sender of oncoming troops. The rally point can only be build at the building site right of the village centre. The higher its level the more targets for the catapults become available.<br><br>
   <b>Costs</b> and <b>construction time</b> for level 1:<br>
-  <img src=img/un/res/1.gif width=18 height=12 alt="Lumber" title="Lumber" style="padding-top: 4px" />110|
-  <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="Clay">160|
-  <img src="img/un/res/3.gif" width=18 height=12 alt="Iron" title="Iron">90|
-  <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="Crop">70|
-  <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="Crop consumption">1|
+  <img src=img/un/res/1.gif width=18 height=12 alt="Lumber" title="Lumber" style="padding-top: 4px" />110 |
+  <img src=img/un/res/2.gif width=18 height=12 alt="Clay" title="Clay">160 |
+  <img src="img/un/res/3.gif" width=18 height=12 alt="Iron" title="Iron">90 |
+  <img src=img/un/res/4.gif width=18 height=12 alt="Crop" title="Crop">70 |
+  <img src=img/un/res/5.gif width=18 height=12 alt="Crop consumption" title="Crop consumption">1 | 
   <img src=img/un/h/clock.gif width=18 height=12>0:33:20<br><br>
   <b>Prerequisites:</b><br>none
 </p>
