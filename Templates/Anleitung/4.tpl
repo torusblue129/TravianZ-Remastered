@@ -1,19 +1,19 @@
 <?php
 #################################################################################
-##     ##
-##      -= YOU MUST NOT REMOVE OR CHANGE THIS NOTICE =-##
-##     ##
+##                                                                             ##
+##              -= YOU MUST NOT REMOVE OR CHANGE THIS NOTICE =-                ##
+##                                                                             ##
 ## --------------------------------------------------------------------------- ##
-##     ##
-##  Project:       TravianZ-Remastered ##
-##  Version:       v8.3.5      ##
-##  Filename:      Templates/Anleitung/4.tpl   ##
-##  Edited by:     Torusblue129##
-##  License:       Creative Commons BY-NC-SA 3.0       ##
-##  Copyright:     TravianZ (c) 2011 - All rights reserved     ##
-##  URLs:  http://travianca.x10.mx/    ##
-##  Source code:   https://github.com/torusblue129/TravianZ-Remastered ##
-##     ##
+##                                                                             ##
+##  Project:       TravianZ-Remastered                                         ##
+##  Version:       v8.3.5                                                      ##
+##  Filename:      Templates/Anleitung/4.tpl                                   ##
+##  Edited by:     Torusblue129                                                ##
+##  License:       Creative Commons BY-NC-SA 3.0                               ##
+##  Copyright:     TravianZ (c) 2011 - All rights reserved                     ##
+##  URLs:          http://travianca.x10.mx/                                    ##
+##  Source code:   https://github.com/torusblue129/TravianZ-Remastered         ##
+##                                                                             ##
 #################################################################################
 ?>
 <p class="question">如何能夠建立新村莊？</p>
