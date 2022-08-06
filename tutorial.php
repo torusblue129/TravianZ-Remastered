@@ -40,43 +40,42 @@ AccessLogger::logRequest();
 	<body class="webkit contentPage">
 		<div class="wrapper"></div>
 		<div id="country_select"></div>
+		<div id="header">
+			<h1>Welcome to <?php echo SERVER_NAME; ?></h1>
+		</div>
 
-	<div id="header">
-		<h1>Welcome to <?php echo SERVER_NAME; ?></h1>
-	</div>
+		<div id="navigation">
+			<a href="index.php" class="home"><img src="img/x.gif" alt="Travian"/></a>
+				<table class="menu">
+					<tr>
+						<td><a href="tutorial.php"><span>遊戲教學</span></a></td>
+						<td><a href="anleitung.php"><span>玩家指南</span></a></td>
+						<td><a href="http://forum.travian.com/" target="_blank"><span>遊戲論壇</span></a></td>
+						<td><a href="index.php?signup"><span>登記帳號</span></a></td>
+						<td><a href="index.php?login"><span>登入遊戲</span></a></td>
+					</tr>
+				</table>
+		</div>
 
-	<div id="navigation">
-		<a href="index.php" class="home"><img src="img/x.gif" alt="Travian"/></a>
-			<table class="menu">
-				<tr>
-					<td><a href="tutorial.php"><span>遊戲教學</span></a></td>
-					<td><a href="anleitung.php"><span>玩家指南</span></a></td>
-					<td><a href="http://forum.travian.com/" target="_blank"><span>遊戲論壇</span></a></td>
-					<td><a href="index.php?signup"><span>登記帳號</span></a></td>
-					<td><a href="index.php?login"><span>登入遊戲</span></a></td>
-				</tr>
-			</table>
-	</div>
-
-	<div id="content">
-		<div class="grit">
-			<h1>Tutorial</h1>
-			<?php
-			if(!isset($_GET['s'])) {
-				$_GET['s'] = ""; }
-				if ($_GET['s'] == "") {
-					include("Templates/Tutorial/1.tpl"); }
-					if ($_GET['s'] == "1") {
+		<div id="content">
+			<div class="grit">
+				<h1>Tutorial</h1>
+				<?php
+				if(!isset($_GET['s'])) {
+					$_GET['s'] = ""; }
+					if ($_GET['s'] == "") {
 						include("Templates/Tutorial/1.tpl"); }
-						if ($_GET['s'] == "2") {
-							include("Templates/Tutorial/2.tpl"); }
-							if ($_GET['s'] == "3") {
-								include("Templates/Tutorial/3.tpl"); }
-								if ($_GET['s'] == "4") {
-									include("Templates/Tutorial/4.tpl"); }
-									if ($_GET['s'] == "5") {
-										include("Templates/Tutorial/5.tpl"); }
-										?>
+						if ($_GET['s'] == "1") {
+							include("Templates/Tutorial/1.tpl"); }
+							if ($_GET['s'] == "2") {
+								include("Templates/Tutorial/2.tpl"); }
+								if ($_GET['s'] == "3") {
+									include("Templates/Tutorial/3.tpl"); }
+									if ($_GET['s'] == "4") {
+										include("Templates/Tutorial/4.tpl"); }
+										if ($_GET['s'] == "5") {
+											include("Templates/Tutorial/5.tpl"); }
+											?>
 
 		<div class="footer"></div>
 
@@ -84,7 +83,7 @@ AccessLogger::logRequest();
 		<div class="mask closer"></div>
 
 		<div class="overlay_content">
-		<a href="index.php" class="closer"><img class="dynamic_img" alt="Close" src="img/un/x.gif" /></a>
+			<a href="index.php" class="closer"><img class="dynamic_img" alt="Close" src="img/un/x.gif" /></a>
 
 		<div id="frame_box" >
 			</div>
