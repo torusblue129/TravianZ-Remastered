@@ -30,12 +30,12 @@
   <thead>
     <tr>
       <td colspan="21">
-        <h3>Culture points</h3>
+        <h3>文明點</h3>
       </td>
     </tr>
     <tr>
-      <th rowspan="2">Buildings</th>
-      <th colspan="20">Level</th>
+      <th rowspan="2">建築物</th>
+      <th colspan="20">等級</th>
     </tr>
     <tr>
       <th>1</th>
@@ -62,7 +62,7 @@
   </thead>
 
   <tbody>
-    <tr><th class="text">Woodcutter</th>
+    <tr><th class="text">伐木場</th>
       <td>1</td><td>1</td>
       <td>2</td><td>2</td><td>2</td>
       <td>3</td>
@@ -70,7 +70,7 @@
       <td>5</td>
       <td>6</td>
     </tr>
-    <tr><th class="text">Clay Pit</th>
+    <tr><th class="text">泥坑</th>
       <td>1</td><td>1</td>
       <td>2</td><td>2</td><td>2</td>
       <td>3</td>
@@ -78,14 +78,14 @@
       <td>5</td>
       <td>6</td>
     </tr>
-    <tr><th class="text">Iron Mine</th>
+    <tr><th class="text">鐵礦場</th>
       <td>1</td><td>1</td>
       <td>2</td><td>2</td><td>2</td>
       <td>3</td><td>4</td><td>4</td>
       <td>5</td>
       <td>6</td>
     </tr>
-    <tr><th class="text">Cropland</th>
+    <tr><th class="text">農場</th>
       <td>1</td><td>1</td>
       <td>2</td><td>2</td><td>2</td>
       <td>3</td>
@@ -93,45 +93,27 @@
       <td>5</td>
       <td>6</td>
     </tr>
-    <tr><th class="text">Sawmill</th>
+    <tr><th class="text">鋸木廠</th>
       <td>1</td><td>1</td>
       <td>2</td><td>2</td><td>2</td>
     </tr>
-    <tr><th class="text">Brickyard</th>
+    <tr><th class="text">磚廠</th>
       <td>1</td><td>1</td>
       <td>2</td><td>2</td><td>2</td>
     </tr>
-    <tr><th class="text">Iron Foundry</th>
+    <tr><th class="text">鋼鐵鑄造廠</th>
       <td>1</td><td>1</td>
       <td>2</td><td>2</td><td>2</td>
     </tr>
-    <tr><th class="text">Grain Mill</th>
+    <tr><th class="text">麵粉廠</th>
       <td>1</td><td>1</td>
       <td>2</td><td>2</td><td>2</td>
     </tr>
-    <tr><th class="text">Bakery</th>
+    <tr><th class="text">麵包店</th>
       <td>1</td><td>1</td>
       <td>2</td><td>2</td><td>2</td>
     </tr>
-    <tr><th class="text">Warehouse</th>
-      <td>1</td><td>1</td>
-      <td>2</td><td>2</td><td>2</td>
-      <td>3</td>
-      <td>4</td><td>4</td>
-      <td>5</td>
-      <td>6</td>
-      <td>7</td>
-      <td>9</td>
-      <td>11</td>
-      <td>13</td>
-      <td>15</td>
-      <td>18</td>
-      <td>22</td>
-      <td>27</td>
-      <td>32</td>
-      <td>38</td>
-    </tr>
-    <tr><th class="text">Granary</th>
+    <tr><th class="text">倉庫</th>
       <td>1</td><td>1</td>
       <td>2</td><td>2</td><td>2</td>
       <td>3</td>
@@ -149,7 +131,25 @@
       <td>32</td>
       <td>38</td>
     </tr>
-    <tr><th class="text">Blacksmith</th>
+    <tr><th class="text">穀倉</th>
+      <td>1</td><td>1</td>
+      <td>2</td><td>2</td><td>2</td>
+      <td>3</td>
+      <td>4</td><td>4</td>
+      <td>5</td>
+      <td>6</td>
+      <td>7</td>
+      <td>9</td>
+      <td>11</td>
+      <td>13</td>
+      <td>15</td>
+      <td>18</td>
+      <td>22</td>
+      <td>27</td>
+      <td>32</td>
+      <td>38</td>
+    </tr>
+    <tr><th class="text">鐵匠</th>
       <td>2</td>
       <td>3</td><td>3</td>
       <td>4</td><td>5</td>
@@ -169,7 +169,7 @@
       <td>64</td>
       <td>77</td>
     </tr>
-    <tr><th class="text">Armoury</th>
+    <tr><th class="text">盔甲廠</th>
       <td>2</td>
       <td>3</td><td>3</td>
       <td>4</td>
@@ -190,7 +190,7 @@
       <td>64</td>
       <td>77</td>
     </tr>
-    <tr><th class="text">Tournament Square</th>
+    <tr><th class="text">競技場</th>
       <td>1</td><td>1</td>
       <td>2</td><td>2</td><td>2</td>
       <td>3</td>
@@ -207,7 +207,7 @@
       <td>32</td>
       <td>38</td>
     </tr>
-    <tr><th class="text">Main Building</th>
+    <tr><th class="text">村莊大樓</th>
       <td>2</td>
       <td>3</td><td>3</td>
       <td>4</td>
@@ -228,7 +228,7 @@
       <td>64</td>
       <td>77</td>
     </tr>
-    <tr><th class="text">Rally Point</th>
+    <tr><th class="text">集結點</th>
       <td>1</td><td>1</td>
       <td>2</td><td>2</td><td>2</td>
       <td>3</td>
@@ -246,7 +246,7 @@
       <td>32</td>
       <td>38</td>
     </tr>
-    <tr><th class="text">Marketplace</th>
+    <tr><th class="text">市場</th>
       <td>4</td><td>4</td>
       <td>5</td>
       <td>6</td>
@@ -267,7 +267,7 @@
       <td>96</td>
       <td>115</td>
     </tr>
-    <tr><th class="text">Embassy</th>
+    <tr><th class="text">大使館</th>
       <td>5</td>
       <td>6</td>
       <td>7</td>
@@ -289,7 +289,7 @@
       <td>128</td>
       <td>153</td>
     </tr>
-    <tr><th class="text">Barracks</th>
+    <tr><th class="text">兵營</th>
       <td>1</td><td>1</td>
       <td>2</td><td>2</td><td>2</td>
       <td>3</td>
@@ -307,7 +307,7 @@
       <td>32</td>
       <td>38</td>
     </tr>
-    <tr><th class="text">Stable</th>
+    <tr><th class="text">馬棚</th>
       <td>2</td>
       <td>3</td><td>3</td>
       <td>4</td>
@@ -328,7 +328,7 @@
       <td>64</td>
       <td>77</td>
     </tr>
-    <tr><th class="text">Workshop</th>
+    <tr><th class="text">工場</th>
       <td>4</td><td>4</td>
       <td>5</td>
       <td>6</td>
@@ -349,7 +349,7 @@
       <td>96</td>
       <td>115</td>
     </tr>
-    <tr><th class="text">Academy</th>
+    <tr><th class="text">研究院</th>
       <td>5</td>
       <td>6</td>
       <td>7</td>
@@ -371,7 +371,7 @@
       <td>128</td>
       <td>153</td>
     </tr>
-    <tr><th class="text">Cranny</th>
+    <tr><th class="text">山洞</th>
       <td>1</td><td>1</td>
       <td>2</td><td>2</td><td>2</td>
       <td>3</td><td>4</td>
@@ -379,7 +379,7 @@
       <td>5</td>
       <td>6</td>
     </tr>
-    <tr><th class="text">Town Hall</th>
+    <tr><th class="text">城鎮廳</th>
       <td>6</td>
       <td>7</td>
       <td>9</td>
@@ -401,7 +401,7 @@
       <td>160</td>
       <td>192</td>
     </tr>
-    <tr><th class="text">Residence</th>
+    <tr><th class="text">行宮</th>
       <td>2</td>
       <td>3</td><td>3</td>
       <td>4</td>
@@ -422,7 +422,7 @@
       <td>64</td>
       <td>77</td>
     </tr>
-    <tr><th class="text">Palace</th>
+    <tr><th class="text">皇宮</th>
       <td>6</td>
       <td>7</td>
       <td>9</td>
@@ -444,7 +444,7 @@
       <td>160</td>
       <td>192</td>
     </tr>
-    <tr><th class="text">Treasury</th>
+    <tr><th class="text">寶物庫</th>
       <td>10</td>
       <td>12</td>
       <td>14</td>
@@ -456,7 +456,7 @@
       <td>41</td>
       <td>50</td>
     </tr>
-    <tr><th class="text">Trade Office</th>
+    <tr><th class="text">交易所</th>
       <td>4</td><td>4</td>
       <td>5</td>
       <td>6</td>
@@ -477,7 +477,7 @@
       <td>96</td>
       <td>115</td>
     </tr>
-    <tr><th class="text">Great Barracks</th>
+    <tr><th class="text">大兵營</th>
       <td>1</td><td>1</td>
       <td>2</td><td>2</td><td>2</td>
       <td>3</td>
@@ -495,7 +495,7 @@
       <td>32</td>
       <td>38</td>
     </tr>
-    <tr><th class="text">Great Stable</th>
+    <tr><th class="text">大馬棚</th>
       <td>2</td>
       <td>3</td>
       <td>3</td>
@@ -517,7 +517,7 @@
       <td>64</td>
       <td>77</td>
     </tr>
-    <tr><th class="text">Stonemason's Lodge</th>
+    <tr><th class="text">石匠鋪</th>
       <td>1</td><td>1</td>
       <td>2</td><td>2</td><td>2</td>
       <td>3</td>
@@ -535,7 +535,7 @@
       <td>32</td>
       <td>38</td>
     </tr>
-    <tr><th class="text">Hero's Mansion</th>
+    <tr><th class="text">英雄宅</th>
       <td>1</td><td>1</td>
       <td>2</td><td>2</td><td>2</td>
       <td>3</td>
@@ -560,7 +560,7 @@
   <thead>
     <tr>
       <td colspan="10">
-        <h3>Culture points needed for additional villages</h3>
+        <h3>新村莊所需要的文明點</h3>
       </td>
     </tr>
   </thead>
@@ -592,7 +592,7 @@
   </tbody>
 </table>
 
-<p>The more villages one has, the more culture points are necessary to found or conquer additional villages. One cannot lose culture points, however, one needs more for additional villages.</p>
+<p>當您有越多的村莊，您便需要越多的文明點才能成功建立或搶奪一個新村莊。</p>
 </div>
 	<div class="clear"></div>
   <div id="footer">
