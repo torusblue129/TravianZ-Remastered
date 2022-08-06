@@ -7,7 +7,7 @@
 ##                                                                             ##
 ##  Project:       TravianZ-Remastered                                         ##
 ##  Version:       v8.3.5                                                      ##
-##  Filename:      tutorial.php                                               ##
+##  Filename:      tutorial.php                                                ##
 ##  Edited by:     Torusblue129                                                ##
 ##  License:       Creative Commons BY-NC-SA 3.0                               ##
 ##  Copyright:     TravianZ (c) 2011 - All rights reserved                     ##
@@ -57,7 +57,7 @@ AccessLogger::logRequest();
 
 		<div id="content">
 			<div class="grit">
-				<h1>Tutorial</h1>
+				<h1>遊戲教學</h1>
 				<?php
 				if(!isset($_GET['s'])) {
 					$_GET['s'] = ""; }
