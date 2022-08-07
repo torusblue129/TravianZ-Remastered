@@ -176,7 +176,7 @@ AccessLogger::logRequest();
 				</div>
 				<div class="secondarybox">
 					<div id="screenshots">
-						<h2><?php echo SCREENSHOTS; ?></h2>
+						<h2><?php echo $lang['index'][0][16]; ?></h2>
 						<a href="#last" class="navi prev dynamic_btn"><img class="dynamic_btn" src="img/x.gif" alt="previous" /></a>
 						<div id="screenshots_preview">
 							<ul id="screenshot_list" class="c1">
