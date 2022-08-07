@@ -7,15 +7,14 @@ use App\Utils\AccessLogger;
 ##                                                                             ##
 ## --------------------------------------------------------------------------- ##
 ##                                                                             ##
-##  Project:       ZravianX                                                    ##
-##  Version:       2011.11.30                                                  ##
-##  Filename:      index.php                            					   ##
-##  Developed by:  Dzoki & Advocaite & Donnchadh                               ##
-##  Reworked by:   ZZJHONS                                                     ##
+##  Project:       TravianZ-Remastered                                         ##
+##  Version:       v8.3.5                                                      ##
+##  Filename:      index.php                                                   ##
+##  Edited by:     Torusblue129                                                ##
 ##  License:       Creative Commons BY-NC-SA 3.0                               ##
-##  Copyright:     ZravianX (c) 2011 - All rights reserved                     ##
-##  URLs:          http://zravianx.zzjhons.com                                 ##
-##  Source code:   http://www.github.com/ZZJHONS/ZravianX                      ##
+##  Copyright:     TravianZ (c) 2011 - All rights reserved                     ##
+##  URLs:          http://travianca.x10.mx/                                    ##
+##  Source code:   https://github.com/torusblue129/TravianZ-Remastered         ##
 ##                                                                             ##
 #################################################################################
 
@@ -88,7 +87,7 @@ AccessLogger::logRequest();
 			<a href="index.php" class="home"><img src="img/x.gif" alt="Travian" /></a>
 			<table class="menu">
 				<tr>
-					<td><a href="tutorial.php"><span><?php echo TUTORIAL; ?></span></a></td>
+					<td><a href="tutorial.php"><span><?php echo 遊戲教學; ?></span></a></td>
 					<td><a href="anleitung.php"><span><?php echo $lang['index'][0][2]; ?></span></a></td>
 					<td><a href="http://forum.travian.com/" target="_blank"><span><?php echo FORUM; ?></span></a></td>
 					<td><a href="?signup" class="signup_link mark"><span><?php echo $lang['register']; ?></span></a></td>
