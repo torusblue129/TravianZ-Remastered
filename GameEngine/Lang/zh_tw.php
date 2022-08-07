@@ -1487,7 +1487,7 @@ define("CONF_ADMIN_RAIDATT_TOOLTIP","Enable (True) or disable (False) the abilit
 	   $lang['index'][0][7] = "總玩家人數:";
 	   $lang['index'][0][8] = "活躍玩家:";
 	   $lang['index'][0][9] = "線上人數:";
-	   $lang['index'][0][10] = "有關我們的遊戲:";
+	   $lang['index'][0][10] = "有關我們的遊戲";
 	   $lang['index'][0][11] = "你先會成為一個小村落的領導人，你的目標是成為稱霸世界的霸者！";
 	   $lang['index'][0][12] = "發展你的村落，擊破來犯的玩家，以及運用你的外交手段去連合你身邊的玩家。";
 	   $lang['index'][0][13] = "跟成千上萬的真實玩家競賽！";
