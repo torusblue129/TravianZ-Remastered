@@ -89,7 +89,7 @@ AccessLogger::logRequest();
 				<tr>
 					<td><a href="tutorial.php"><span><?php echo $lang['index'][0][2]; ?></span></a></td>
 					<td><a href="anleitung.php"><span><?php echo $lang['anleitung']; ?></span></a></td>
-					<td><a href="$lang['forumlink']" target="_blank"><span><?php echo $lang['forum']; ?></span></a></td>
+					<td><a href="<?php echo $lang['forumlink']; ?>" target="_blank"><span><?php echo $lang['forum']; ?></span></a></td>
 					<td><a href="?signup" class="signup_link mark"><span><?php echo $lang['register']; ?></span></a></td>
 					<td><a href="?login" class="login_link"><span><?php echo $lang['login']; ?></span></a></td>
 				</tr>
