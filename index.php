@@ -127,14 +127,14 @@ AccessLogger::logRequest();
 								</tr>
 
 								<tr>
-                  <td><?php
+                  <td><?php echo $lang['index'][0][8]; ?><?php
 										   $return = mysqli_query($link,"SELECT Count(*) as Total FROM " . TB_PREFIX . "users WHERE timestamp > ".(time() - (60*10))." AND tribe IN(1, 2, 3)");
 										   echo ($online = !empty($return) ? mysqli_fetch_assoc($return)['Total'] : 0);
 									?></td>
 								</tr>
 
 								<tr>
-                  <td><?php
+                  <td><?php echo $lang['index'][0][9]; ?><?php
 										   $return = mysqli_query($link,"SELECT Count(*) as Total FROM " . TB_PREFIX . "users WHERE timestamp > ".(time() - (60*10))." AND tribe IN(1, 2, 3)");
 										   echo ($online = !empty($return) ? mysqli_fetch_assoc($return)['Total'] : 0);
 									?></td>
