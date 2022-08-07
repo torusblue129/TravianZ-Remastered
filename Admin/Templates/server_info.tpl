@@ -15,7 +15,6 @@
 ##  Source code:   https://github.com/torusblue129/TravianZ-Remastered         ##
 ##                                                                             ##
 #################################################################################
-
 $tribe1 = mysqli_query($GLOBALS["link"], "SELECT SQL_CACHE * FROM ".TB_PREFIX."users WHERE tribe = 1");
 $tribe2 = mysqli_query($GLOBALS["link"], "SELECT SQL_CACHE * FROM ".TB_PREFIX."users WHERE tribe = 2");
 $tribe3 = mysqli_query($GLOBALS["link"], "SELECT SQL_CACHE * FROM ".TB_PREFIX."users WHERE tribe = 3");
@@ -23,14 +22,14 @@ $tribes = Array(mysqli_num_rows($tribe1),mysqli_num_rows($tribe2),mysqli_num_row
 $users = mysqli_num_rows(mysqli_query($GLOBALS["link"], "SELECT SQL_CACHE * FROM ".TB_PREFIX."users WHERE tribe > 0 AND tribe < 4"));
 ?>
 
-<br /><br />
+<br><br>
 	<table id="profile">
 		<thead>
 			<tr>
 				<th colspan="2">Player Information</th>
 			</tr>
-		 </thead>
-		 <tbody>
+		</thead>
+		<tbody>
 			<tr>
 				<td>Registered players</td>
 				<td><?php echo $users; ?></td>
@@ -66,9 +65,7 @@ $users = mysqli_num_rows(mysqli_query($GLOBALS["link"], "SELECT SQL_CACHE * FROM
 			</tr>
 		</tbody>
 	</table>
-
-	<br />
-
+<br>
 	<table id="profile">
 		<thead>
 			<tr><th colspan="3">Player Information</th></tr>
@@ -94,9 +91,7 @@ $users = mysqli_num_rows(mysqli_query($GLOBALS["link"], "SELECT SQL_CACHE * FROM
 			</tr>
 		</tbody>
 	</table>
-
-	<br />
-
+<br>
 	<table id="profile">
 		<thead>
 		 <tr>
@@ -184,7 +179,7 @@ $users = mysqli_num_rows(mysqli_query($GLOBALS["link"], "SELECT SQL_CACHE * FROM
 					$troop = mysqli_fetch_assoc($t);
 					echo '<td class="on">'.$troop['sumof'].'</td>';
 				}
-			?>
+				?>
 		</tbody>
 	</table>
 <div>
