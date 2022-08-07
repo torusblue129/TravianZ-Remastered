@@ -120,18 +120,18 @@ AccessLogger::logRequest();
 			</p>
 		</div>
 
-		<div class="footer"></div>
-
-		<div id="iframe_layer" class="overlay"></div>
-		<div class="mask closer"></div>
-
-		<div class="overlay_content">
-			<a href="index.php" class="closer"><img class="dynamic_img" alt="Close" src="img/un/x.gif" /></a>
-
-		<div id="frame_box" >
-			</div>
-				<div class="footer"></div>
-			</div>
-		</div>
+		<div id="footer">
+        <div class="container">
+            <a href="#" class="logo"><img src="img/x.gif" alt="Travian Games" class="logo_traviangames" /></a>
+            <ul class="menu">
+                <li><a href="anleitung.php?s=3">FAQ</a>|</li>
+                <li><a href="index.php?screenshots">遊戲畫面</a>|</li>
+                <li><a href="spielregeln.php">玩家守則</a>|</li>
+                <li><a href="agb.php">服務條款</a>|</li>
+                <li><a href="impressum.php">關於我們</a></li>
+                <li class="copyright">&copy; 2010 - <?php echo date('Y') . ' ' . (defined('SERVER_NAME') ? SERVER_NAME : 'TravianZ');?> All rights reserved</li>
+            </ul>
+        </div>
+    </div>
 	</body>
 </html>
