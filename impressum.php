@@ -119,11 +119,6 @@ AccessLogger::logRequest();
 				Travian is a registered trade mark of Travian Games GmbH.
 			</p>
 		</div>
-	</body>
-</html>
-
-		<div class="clear"></div>
-		</div>
 
 		<div class="footer"></div>
 
@@ -138,3 +133,5 @@ AccessLogger::logRequest();
 				<div class="footer"></div>
 			</div>
 		</div>
+	</body>
+</html>
