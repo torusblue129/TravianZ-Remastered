@@ -45,11 +45,11 @@ AccessLogger::logRequest();
 			<a href="index.php" class="home"><img src="img/x.gif" alt="Travian"/></a>
 			<table class="menu">
 				<tr>
-					<td><a href="tutorial.php"><span>Tutorial</span></a></td>
-					<td><a href="anleitung.php"><span>Manual</span></a></td>
-					<td><a href="http://forum.travian.com/" target="_blank"><span>Forum</span></a></td>
-					<td><a href="index.php?signup"><span>Register</span></a></td>
-					<td><a href="index.php?login"><span>Login</span></a></td>
+					<td><a href="tutorial.php"><span>遊戲教學</span></a></td>
+					<td><a href="anleitung.php"><span>玩家指南</span></a></td>
+					<td><a href="https://discord.gg/aADXs3bR" target="_blank"><span>遊戲論壇</span></a></td>
+					<td><a href="index.php?signup"><span>登記帳號</span></a></td>
+					<td><a href="index.php?login"><span>登入遊戲</span></a></td>
 				</tr>
 			</table>
 		</div>
