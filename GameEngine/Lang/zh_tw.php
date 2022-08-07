@@ -1482,7 +1482,7 @@ define("CONF_ADMIN_RAIDATT_TOOLTIP","Enable (True) or disable (False) the abilit
 	   $lang['index'][0][2] = "遊戲教學";
 	   $lang['index'][0][3] = "Play now, for free!";
 	   $lang['index'][0][4] = "什麼是 " . SERVER_NAME . "";
-	   $lang['index'][0][5] = "" . SERVER_NAME . " 是一個 <strong>網頁遊戲</strong>，它虛疑了一個可讓你跟成千上萬的真實玩家鬥智鬥力的世界。</p><p>" . SERVER_NAME . " 是一個<strong>完全免費</strong> 的遊戲，而且<strong>不用下載</strong>任何遊戲程式就可暢玩！";
+	   $lang['index'][0][5] = "" . SERVER_NAME . " 是一個 <strong>網頁遊戲</strong>，它虛疑了一個可讓你跟成千上萬的真實玩家鬥智鬥力的世界。</p><p>" . SERVER_NAME . " 是一個 <strong>完全免費</strong> 的遊戲，而且 <strong>不用下載</strong> 任何遊戲程式就可暢玩！";
 	   $lang['index'][0][6] = "按此加入 " . SERVER_NAME . "";
 	   $lang['index'][0][7] = "總玩家人數:";
 	   $lang['index'][0][8] = "活躍玩家:";
