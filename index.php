@@ -87,11 +87,11 @@ AccessLogger::logRequest();
 			<a href="index.php" class="home"><img src="img/x.gif" alt="Travian" /></a>
 			<table class="menu">
 				<tr>
-					<td><a href="tutorial.php"><span><?php echo 遊戲教學; ?></span></a></td>
-					<td><a href="anleitung.php"><span><?php echo 玩家指南; ?></span></a></td>
-					<td><a href="http://forum.travian.com/" target="_blank"><span><?php echo 遊戲論壇; ?></span></a></td>
-					<td><a href="?signup" class="signup_link mark"><span><?php echo 登記帳號; ?></span></a></td>
-					<td><a href="?login" class="login_link"><span><?php echo 登入遊戲; ?></span></a></td>
+					<td><a href="tutorial.php"><span><?php echo "遊戲教學"; ?></span></a></td>
+					<td><a href="anleitung.php"><span><?php echo "玩家指南"; ?></span></a></td>
+					<td><a href="http://forum.travian.com/" target="_blank"><span><?php echo "遊戲論壇"; ?></span></a></td>
+					<td><a href="?signup" class="signup_link mark"><span><?php echo "登記帳號"; ?></span></a></td>
+					<td><a href="?login" class="login_link"><span><?php echo "登入遊戲"; ?></span></a></td>
 				</tr>
 			</table>
 		</div>
@@ -105,27 +105,22 @@ AccessLogger::logRequest();
 		</div>
 		<?php } ?>
 		<div id="register_now">
-			<a href="?signup" class="signup_link"><?php echo 登記帳號; ?></a>
-			<span><?php echo 立即加入，完全免費！; ?></span>
+			<a href="?signup" class="signup_link"><?php echo "登記帳號"; ?></a>
+			<span><?php echo "立即加入，完全免費！"; ?></span>
 		</div>
 		<div id="content">
 			<div class="grit">
 				<div class="infobox">
 					<div id="what_is_travian">
 						<h2><?php echo "什麼是 Travian?"; ?></h2>
-						<p><?php echo $lang['index'][0][5]; ?></p>
+						<p><?php echo "Travian 是一個 <strong>網頁遊戲</strong>，它虛疑了一個可讓你跟成千上萬的真實玩家鬥智鬥力的世界。</p><p>Travian  是一個<strong>完全免費</strong> 的遊戲，而且<strong>不用下載</strong>任何遊戲程式就可暢玩！"; ?></p>
 						<p class="play_now"><a href="?signup" class="signup_link"><?php echo $lang['index'][0][6]; ?></a></p>
 					</div>
 					<div id="player_counter">
 						<table>
 							<tbody>
 								<tr>
-									<th><?php
-
-										   echo $lang['index'][0][7];
-
-									?>:</th>
-
+									<th><?php echo $lang['index'][0][7]; ?>:</th>
 									<td><?php
 
 											$return = mysqli_query($link, "SELECT Count(*) as Total FROM " . TB_PREFIX . "users WHERE tribe IN(1, 2, 3)");
