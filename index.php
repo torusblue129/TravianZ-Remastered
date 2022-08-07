@@ -191,7 +191,7 @@ AccessLogger::logRequest();
 						</div><a href="#next" class="navi next"><img class="dynamic_btn" src="img/x.gif" alt="next" /></a>
 					</div>
 					<div id="newsbox">
-						<h2><?php echo NEWS; ?></h2>
+						<h2><?php echo $lang['index'][0][14]; ?></h2>
 						<div class="news"><?php include ("Templates/indexnews.tpl"); ?></div>
 					</div>
 				</div>
@@ -202,11 +202,11 @@ AccessLogger::logRequest();
 			<div class="container">
 				<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/3.0/" class="logo"><img alt="Licencia Creative Commons" style="border-width:0; height:31px; width:88px;" src="https://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" class="logo_traviangames" /></a>
 				<ul class="menu">
-					<li><a href="anleitung.php?s=3"><?php echo FAQ; ?></a>|</li>
-					<li><a href="index.php?screenshots"><?php echo SCREENSHOTS; ?></a>|</li>
-					<li><a href="spielregeln.php"><?php echo SPIELREGELN; ?></a>|</li>
-					<li><a href="agb.php"><?php echo AGB; ?></a>|</li>
-					<li><a href="impressum.php"><?php echo IMPRINT; ?></a></li>
+					<li><a href="anleitung.php?s=3"><?php echo $lang['index'][0][15]; ?></a>|</li>
+					<li><a href="index.php?screenshots"><?php echo $lang['index'][0][16]; ?></a>|</li>
+					<li><a href="spielregeln.php"><?php echo $lang['index'][0][17]; ?></a>|</li>
+					<li><a href="agb.php"><?php echo $lang['index'][0][18]; ?></a>|</li>
+					<li><a href="impressum.php"><?php echo $lang['index'][0][19]; ?></a></li>
 					<li class="copyright">&copy; 2011-<?php echo date('Y'); ?> - TravianZ - All rights reserved</li>
 				</ul>
 			</div>

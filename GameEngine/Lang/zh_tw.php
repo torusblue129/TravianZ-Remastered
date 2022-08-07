@@ -1491,9 +1491,12 @@ define("CONF_ADMIN_RAIDATT_TOOLTIP","Enable (True) or disable (False) the abilit
 	   $lang['index'][0][11] = "你先會成為一個小村落的領導人，你的目標是成為稱霸世界的霸者！";
 	   $lang['index'][0][12] = "發展你的村落，擊破來犯的玩家，以及運用你的外交手段去連合你身邊的玩家。";
 	   $lang['index'][0][13] = "跟成千上萬的真實玩家競賽！";
-	   $lang['index'][0][14] = "News";
+	   $lang['index'][0][14] = "最新消息";
 	   $lang['index'][0][15] = "FAQ";
 	   $lang['index'][0][16] = "遊戲畫面";
+     $lang['index'][0][17] = "玩家守則";
+     $lang['index'][0][18] = "服務條款";
+     $lang['index'][0][19] = "關於我們";
 	   $lang['forum'] = "Forum";
 	   $lang['register'] = "Register";
 	   $lang['login'] = "Login";
