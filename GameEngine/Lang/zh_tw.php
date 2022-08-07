@@ -588,7 +588,7 @@ define("WHAT_IS","".SERVER_NAME." is one of the most popular browser games in th
 define("REGISTER_FOR_FREE","Register here for free!");
 define("LATEST_GAME_WORLD","Latest game world");
 define("LATEST_GAME_WORLD2","Register on the latest<br/>game world and enjoy<br/>the advantages of<br/>being one of the<br/>first players.");
-define("PLAY_NOW","立即加入 ".SERVER_NAME." ，完全免費！");
+define("PLAY_NOW","立即加入，完全免費！");
 define("LEARN_MORE","Learn more <br/>about ".SERVER_NAME."!");
 define("LEARN_MORE2","Now with a revolutionised<br>server system, completely new<br>graphics <br>This clone is The Shiz!");
 define("COMUNITY","Community");
