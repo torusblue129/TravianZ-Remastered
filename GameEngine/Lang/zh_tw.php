@@ -1514,6 +1514,6 @@ define("CONF_ADMIN_RAIDATT_TOOLTIP","Enable (True) or disable (False) the abilit
      $lang['screenshots']['title6']="徽章";
      $lang['screenshots']['desc6']="有不同的徽章給你作為努力的目標。每星期的不同範疇的最佳十位玩家都有其獨特的徽章。";
      $lang['screenshots']['title7']="任務";
-     $lang['screenshots']['desc7']="別忘了任務顧問。他會給你不少有用的指示，亦可為新加入Travian的朋友作一個入門指導。;
+     $lang['screenshots']['desc7']="別忘了任務顧問。他會給你不少有用的指示，亦可為新加入Travian的朋友作一個入門指導。";
 
 ?>
