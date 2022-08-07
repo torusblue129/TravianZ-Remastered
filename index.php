@@ -112,17 +112,25 @@ AccessLogger::logRequest();
 			<div class="grit">
 				<div class="infobox">
 					<div id="what_is_travian">
-						<h2>什麼是 Travian?</h2>
-						<p>Travian 是一個 <strong>網頁遊戲</strong>，它虛疑了一個可讓你跟成千上萬的真實玩家鬥智鬥力的世界。</p>
-            <p>Travian  是一個<strong>完全免費</strong> 的遊戲，而且<strong>不用下載</strong>任何遊戲程式就可暢玩！</p>
-						<p class="play_now"><a href="?signup" class="signup_link"><?php echo 按此加入Travian！; ?></a></p>
+						<h2><?php echo $lang['index'][0][4]; ?></h2>
+						<p><?php echo $lang['index'][0][5]; ?></p>
+						<p class="play_now"><a href="?signup" class="signup_link"><?php echo $lang['index'][0][6]; ?></a></p>
 					</div>
 					<div id="player_counter">
 						<table>
 							<tbody>
 								<tr>
-									<th><?php echo 總玩家人數:;?>:</th>
-									<td><?php$return = mysqli_query($link, "SELECT Count(*) as Total FROM " . TB_PREFIX . "users WHERE tribe IN(1, 2, 3)"); echo ($users = !empty($return) ? mysqli_fetch_assoc($return)['Total'] : 0);?></td>
+									<th><?php
+
+										   echo $lang['index'][0][7];
+
+									?>:</th>
+
+									<td><?php
+
+											$return = mysqli_query($link, "SELECT Count(*) as Total FROM " . TB_PREFIX . "users WHERE tribe IN(1, 2, 3)");
+											echo ($users = !empty($return) ? mysqli_fetch_assoc($return)['Total'] : 0);
+									?></td>
 								</tr>
 
 								<tr>
