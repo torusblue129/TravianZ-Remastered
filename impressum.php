@@ -118,8 +118,10 @@ AccessLogger::logRequest();
 				All rights to texts, graphics and source codes are held by Travian Games GmbH.
 				Travian is a registered trade mark of Travian Games GmbH.
 			</p>
-
 		</div>
+	</body>
+</html>
+
 		<div class="clear"></div>
 		</div>
 
@@ -136,5 +138,3 @@ AccessLogger::logRequest();
 				<div class="footer"></div>
 			</div>
 		</div>
-	</body>
-</html>
