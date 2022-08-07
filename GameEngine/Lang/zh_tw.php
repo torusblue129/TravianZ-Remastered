@@ -1502,18 +1502,17 @@ define("CONF_ADMIN_RAIDATT_TOOLTIP","Enable (True) or disable (False) the abilit
 	   $lang['login'] = "Login";
 	   $lang['screenshots']['title1']="Village";
 	   $lang['screenshots']['desc1']="Village building";
-           $lang['screenshots']['title2']="Resource";
-           $lang['screenshots']['desc2']="Village resource is wood, clay, iron and crop";
-           $lang['screenshots']['title3']="Map";
-           $lang['screenshots']['desc3']="Location your village in map";
-           $lang['screenshots']['title4']="Contruct Building";
-           $lang['screenshots']['desc4']="How to contruct building or resource level";
-           $lang['screenshots']['title5']="Report";
-           $lang['screenshots']['desc5']="Your attack report";
-           $lang['screenshots']['title6']="Statistics";
-           $lang['screenshots']['desc6']="View your ranking in statistics";
-           $lang['screenshots']['title7']="Weapons or dough";
-           $lang['screenshots']['desc7']="You can choose to play as military or economy";
-
+     $lang['screenshots']['title2']="Resource";
+     $lang['screenshots']['desc2']="Village resource is wood, clay, iron and crop";
+     $lang['screenshots']['title3']="Map";
+     $lang['screenshots']['desc3']="Location your village in map";
+     $lang['screenshots']['title4']="Contruct Building";
+     $lang['screenshots']['desc4']="How to contruct building or resource level";
+     $lang['screenshots']['title5']="Report";
+     $lang['screenshots']['desc5']="Your attack report";
+     $lang['screenshots']['title6']="Statistics";
+     $lang['screenshots']['desc6']="View your ranking in statistics";
+     $lang['screenshots']['title7']="Weapons or dough";
+     $lang['screenshots']['desc7']="You can choose to play as military or economy";
 
 ?>
