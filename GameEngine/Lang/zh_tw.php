@@ -1497,6 +1497,7 @@ define("CONF_ADMIN_RAIDATT_TOOLTIP","Enable (True) or disable (False) the abilit
      $lang['index'][0][17] = "玩家守則";
      $lang['index'][0][18] = "服務條款";
      $lang['index'][0][19] = "關於我們";
+     $lang['anleitung'] = "玩家指南";
 	   $lang['forum'] = "遊戲論壇";
 	   $lang['register'] = "登記帳號";
 	   $lang['login'] = "登入遊戲";
