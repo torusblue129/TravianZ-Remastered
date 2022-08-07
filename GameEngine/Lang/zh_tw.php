@@ -1501,19 +1501,19 @@ define("CONF_ADMIN_RAIDATT_TOOLTIP","Enable (True) or disable (False) the abilit
 	   $lang['forum'] = "遊戲論壇";
 	   $lang['register'] = "登記帳號";
 	   $lang['login'] = "登入遊戲";
-	   $lang['screenshots']['title1']="Village";
-	   $lang['screenshots']['desc1']="Village building";
-     $lang['screenshots']['title2']="Resource";
-     $lang['screenshots']['desc2']="Village resource is wood, clay, iron and crop";
-     $lang['screenshots']['title3']="Map";
-     $lang['screenshots']['desc3']="Location your village in map";
-     $lang['screenshots']['title4']="Contruct Building";
-     $lang['screenshots']['desc4']="How to contruct building or resource level";
-     $lang['screenshots']['title5']="Report";
-     $lang['screenshots']['desc5']="Your attack report";
-     $lang['screenshots']['title6']="Statistics";
-     $lang['screenshots']['desc6']="View your ranking in statistics";
-     $lang['screenshots']['title7']="Weapons or dough";
-     $lang['screenshots']['desc7']="You can choose to play as military or economy";
+	   $lang['screenshots']['title1']="村莊中心";
+	   $lang['screenshots']['desc1']="在你成為大帝國前，你的小村莊是這樣子的。";
+     $lang['screenshots']['title2']="村莊總覽";
+     $lang['screenshots']['desc2']="木材、鋼鐵、磚塊及糧食都是你的村莊不可或缺的。";
+     $lang['screenshots']['title3']="附近的敵人";
+     $lang['screenshots']['desc3']="在地圖上可以找到新的朋友，亦可預先發現潛在的敵人。試找出村莊附近的綠州並佔領它們，可為你帶來豐富的利益。不過小心住在那裡的野生動物。";
+     $lang['screenshots']['title4']="建築物資訊";
+     $lang['screenshots']['desc4']="可供興建的建築物有很多不同的選擇，小心選擇興建它們的先後次序，或是聽取一下顧問的意見。";
+     $lang['screenshots']['title5']="戰爭報告";
+     $lang['screenshots']['desc5']="不要忽略發展你的軍隊！你須要保護自己及攻擊他人以獲得資源！";
+     $lang['screenshots']['title6']="徽章";
+     $lang['screenshots']['desc6']="有不同的徽章給你作為努力的目標。每星期的不同範疇的最佳十位玩家都有其獨特的徽章。";
+     $lang['screenshots']['title7']="任務";
+     $lang['screenshots']['desc7']="別忘了任務顧問。他會給你不少有用的指示，亦可為新加入Travian的朋友作一個入門指導。;
 
 ?>
