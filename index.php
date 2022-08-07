@@ -114,7 +114,7 @@ AccessLogger::logRequest();
 					<div id="what_is_travian">
 						<h2><?php echo "什麼是 Travian?"; ?></h2>
 						<p><?php echo "Travian 是一個 <strong>網頁遊戲</strong>，它虛疑了一個可讓你跟成千上萬的真實玩家鬥智鬥力的世界。</p><p>Travian  是一個<strong>完全免費</strong> 的遊戲，而且<strong>不用下載</strong>任何遊戲程式就可暢玩！"; ?></p>
-						<p class="play_now"><a href="?signup" class="signup_link"><?php echo "按此加入 (defined('SERVER_NAME') ? SERVER_NAME : 'TravianZ')"; ?></a></p>
+						<p class="play_now"><a href="?signup" class="signup_link"><?php echo "按此加入 TravianZ"; ?></a></p>
 					</div>
 					<div id="player_counter">
 						<table>
