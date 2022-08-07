@@ -120,7 +120,7 @@ AccessLogger::logRequest();
 						<table>
 							<tbody>
 								<tr>
-                  <td><?php
+                  <td><?php echo $lang['index'][0][7]; ?><?php
 											$return = mysqli_query($link, "SELECT Count(*) as Total FROM " . TB_PREFIX . "users WHERE tribe IN(1, 2, 3)");
 											echo ($users = !empty($return) ? mysqli_fetch_assoc($return)['Total'] : 0);
 									?></td>
