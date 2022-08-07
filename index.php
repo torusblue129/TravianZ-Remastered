@@ -112,7 +112,7 @@ AccessLogger::logRequest();
 			<div class="grit">
 				<div class="infobox">
 					<div id="what_is_travian">
-						<h2><?php echo $lang['index'][0][4]; ?></h2>
+						<h2><?php echo "什麼是 Travian?"; ?></h2>
 						<p><?php echo $lang['index'][0][5]; ?></p>
 						<p class="play_now"><a href="?signup" class="signup_link"><?php echo $lang['index'][0][6]; ?></a></p>
 					</div>
