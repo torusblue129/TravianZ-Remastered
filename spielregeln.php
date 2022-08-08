@@ -239,27 +239,9 @@ AccessLogger::logRequest();
 			<li>帳號通過故意違規的方式逃避其他帳號對其進行的攻擊、搶奪或由於其他個人原因故意導致封鎖帳號，MH將直接對其進行相應的違規處罰並在以IGM通知後即時解封，或是對其帳號進行永久凍結，情節嚴重者將即時刪除帳號。</li>
 		</ul>
 	</li>
-	<li><strong style="color: #2A720B">&sect;6 Netiquette</strong><br />
-		Everyone must communicate in a polite, conversational tone. Multihunters may change inappropriate profiles and village names without warning.
-		<ol>
-		<li>Following behavior is punishable and applies to all descriptions, the account name, alliance names, village names and messages: <br />
-		English is the only official language tolerated.
-		<br />
-		Participation in abusive, defamatory, sexist, racist or profane language; disparaging any religion, race, nation, gender, age group, or sexual orientation; threatening persons with actions in real life.
-		<br />
-		Posting or transmission of any material not suitable for underage persons.
-		<br />
-		Blackmailing players in a way that violates any of Travian's rules respective the general terms and conditions.
-		<br />
-		Displaying battle reports or messages in public without consent of both concerned persons.
-		</li>
-		<li>No real world politics are allowed in names, messages and descriptions. </li>
-		<li>Impersonation of officials or official positions is illegal in any way.
-		</li>
-		<li>Advertisement of any kind that has not been permitted by the Travian Team is impermissible. </li>
-		</ol>
-		</li>
-		<li><strong style="color: #2A720B">&sect;7 Punishments</strong><br />
+	<li><strong style="color: #2A720B">§6 現金交易</strong><br>
+		在遊戲伺服內，任何以現金貨幣出售或購買遊戲中各類資源例如帳號，軍事單位，村莊或資源的行為都將受到懲罰。另外，玩家在遊戲中也不能進行任何收費的行為 活動。帳號的銷 售是違規的。有關帳號將永久凍結，如當中有金幣亦會凍結至伺服完結方會退回。</li>
+	<li><strong style="color: #2A720B">&sect;7 Punishments</strong><br>
 		If there is an offence against these game rules, the Multihunters and, if necessary, the Administrators will ban the account(s) in question and decide on a proper punishment. Punishments will always exceed the gain of the violation of the rules.
 		<br />
 		Resources, buildings, villages or troops lost during the time of suspension do not count as punishment and will not be replaced by the Travian Team. No player has the right to claim payment or replacement for Plus/Gold time lost due to suspension.
