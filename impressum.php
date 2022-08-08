@@ -45,11 +45,11 @@ AccessLogger::logRequest();
 			<a href="index.php" class="home"><img src="img/x.gif" alt="Travian"/></a>
 			<table class="menu">
 				<tr>
-					<td><a href="tutorial.php"><span>遊戲教學</span></a></td>
-					<td><a href="anleitung.php"><span>玩家指南</span></a></td>
-					<td><a href="https://discord.gg/aADXs3bR" target="_blank"><span>遊戲論壇</span></a></td>
-					<td><a href="index.php?signup"><span>登記帳號</span></a></td>
-					<td><a href="index.php?login"><span>登入遊戲</span></a></td>
+					<td><a href="tutorial.php"><span><?php echo $lang['index'][0][2]; ?></span></a></td>
+					<td><a href="anleitung.php"><span><?php echo $lang['anleitung']; ?></span></a></td>
+					<td><a href="<?php echo $lang['forumlink']; ?>" target="_blank"><span><?php echo $lang['forum']; ?></span></a></td>
+					<td><a href="?signup" class="signup_link mark"><span><?php echo $lang['register']; ?></span></a></td>
+					<td><a href="?login" class="login_link"><span><?php echo $lang['login']; ?></span></a></td>
 				</tr>
 			</table>
 		</div>
