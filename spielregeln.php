@@ -92,33 +92,43 @@ AccessLogger::logRequest();
 		帳號刪除後，帳號先前剩餘的服務均不予退還。扣除遊戲贈送及補償的金幣後，餘下的金幣可轉移至同地區的各伺服器。<br><br>
 		<span style="text-decoration:underline;">密碼，註冊及帳號擁有權條例補充：</span>
 		<ul><li>玩家在一個伺服器中只允許註冊/使用一個遊戲帳號。同時，每一個帳號只能有一個擁有者，就算是您的親人、朋友、同學，如果他們已持有同一伺服器內的帳號，都是不能直接使用您的帳號。使用超過一個帳號是嚴格禁止的，而且會導致您的帳號被永久封鎖。任何玩家都沒有任何理由去擁有兩個以上的帳號。</li>
-		<li>如果因為您自己的舉動導致紀錄混亂，因而被MH封鎖，您必須為自己的行為負責。</li>
-		<li>在使用新的帳號前，請先將舊的帳號完全「刪除」，或是將原先的帳號轉讓（轉讓條款請參見玩家守則1.3），否則，會以多重帳號處理。</li>
-		<li>所有相近或刻意造成不同之帳號名稱、電郵註冊地址的帳號，並在同一電腦上使用，將視為「多重帳號」處理。</li>
-		<li>如果不同帳號的帳密相同，加上在同一電腦上使用，將視為「多重帳號」處理。任何「不知情」、「公用帳密」均不接納為辯解理由，請使用安全度較高之帳號密碼。此例包括於跟據§1.2「由於密碼過於簡單，使其極易被破解或猜測出來而造成的帳號損失，玩家無權要求任何賠償。」</li>
-		<li>當您有任何行為可能會產生多重帳號的情況下，最好事先通知MH(訊息請注明報備)。</li>
-		<li>玩家須自行保管有關註冊的資訊，無論MH或是官方人員都不會提供任何有關註冊的資料。</li>
+			<li>如果因為您自己的舉動導致紀錄混亂，因而被MH封鎖，您必須為自己的行為負責。</li>
+			<li>在使用新的帳號前，請先將舊的帳號完全「刪除」，或是將原先的帳號轉讓（轉讓條款請參見玩家守則1.3），否則，會以多重帳號處理。</li>
+			<li>所有相近或刻意造成不同之帳號名稱、電郵註冊地址的帳號，並在同一電腦上使用，將視為「多重帳號」處理。</li>
+			<li>如果不同帳號的帳密相同，加上在同一電腦上使用，將視為「多重帳號」處理。任何「不知情」、「公用帳密」均不接納為辯解理由，請使用安全度較高之帳號密碼。此例包括於跟據§1.2「由於密碼過於簡單，使其極易被破解或猜測出來而造成的帳號損失，玩家無權要求任何賠償。」</li>
+			<li>當您有任何行為可能會產生多重帳號的情況下，最好事先通知MH(訊息請注明報備)。</li>
+			<li>玩家須自行保管有關註冊的資訊，無論MH或是官方人員都不會提供任何有關註冊的資料。</li>
 		</ul></li>
-	Afterwards both persons must request the password for their new account via the password retrieval function.
-	</li>
-	</ul>
-	</li>
-	<li><strong style="color: #2A720B">&sect;2 Sitting &amp; same pc usage</strong><br />
-	<ul>
-	<li><strong style="color: #3BAE18">&sect;2.1 Sitting</strong><br />
-	Every player has the right to name two sitters who may play the account during an owner's absence. Sitters must play the account they are sitting to the account�s full benefit. Abuse of this function is punishable.
-	<br />
-	The sitter of an account must sit the account using the account sitting function in game. The sitter of an account may not tend to an account by logging on with the password of the account they are sitting (see &sect;1.2).
-	<br />
-	There is no compensation for damages done by a sitter. Owners of an account are fully responsible for the actions of any sitters for their account. In the event that sitters of an account do not follow these rules and the General Terms and Conditions of Travian, both the account owner and the sitter may be punished.
-	</li>
-	<li><strong style="color: #3BAE18">&sect;2.2 Same pc usage</strong><br />
-	Players using the same computer and wanting to access each other's account must use the sitter function.
-	</li>
-	</ul>
-	</li>
-	<li><strong style="color: #2A720B">&sect;3 Use of externals</strong><br />
-	The game must be played with an unmodified internet browser. The use of scripts or bots which automate is against the rules.
+		<li><strong style="color: #2A720B">§2 代管及公用電腦設置</strong><br>
+			<ul>
+				<li><strong style="color: #3BAE18">§2.1 代管</strong><br>
+					每個玩家有權設定2個臨時代管人--在玩家不在的時候幫助管理自己的帳號。代管人必須保證其代管帳號在代管期間發生的行為都基於此帳號的獨立利益。代管人無法使用金幣功能（電腦商人1對1交易資源及高級建築師功能除外）、無法更改個人資料、不可以選擇攻擊選項中的普通/偵察、不能使用衝撞車、投石車、族長、參議員和司令官來進行攻擊。<br><br>
+					在帳號被代管期間由代管人操作引起的所有損失，都不會得到賠償，每個玩家必須自己為自己的代管者負責。當代管者在代管期間有違反遊戲規則及通常條款的行為 時，違規的帳號將受到相應懲罰，一切後果由帳號持有人承擔。<br><br>
+					對一個帳號進行代管，玩家必須使用遊戲內的代管功能進行帳號的使用（使用被代管帳號的用戶名及代管者自己的帳戶密碼）。直接使用所代管帳號的原始密碼登陸 遊戲是不被允許的，有關帳號將被視為多重帳號。（參見規則§1.2）<br><br>
+					帳號代管期不能超過兩個星期，長期的代管狀態是不被允許的。如帳號擁有者事先能預知帳號的長期閒置而需要他人長期代管，則必須在代管狀態開始前先向 admin@travianca.x10.mx 進行彙報。當 admin@travianca.x10.mx 同意後才能設置長期代管關係；在代管期結束後必須立即解除代管關係。
+				</li>
+				<li><strong style="color: #3BAE18">§2.2 在公用電腦上使用</strong><br>
+					如果兩個或更多個玩家長期在同一台電腦上於同一伺服器中進行遊戲，則必須依資源運輸的限制操作。互相操作對方帳號必須使用代管功能。
+				</li>
+				<span style="text-decoration:underline;">代管及公共電腦設置條例補充</span>
+					<ul><li>代管期不能超過2個星期的說明：
+					<ul><li>代管2星期上限者，定義為14天內只交人代管而沒有獨立上線紀錄、或每天平均上線時間不足五分鐘者，判為長期代管。</li>
+					<li>官方有理由相信其原持有人已沒有再進行遊戲，而令另一帳號持有人同時獨管一個或以上帳號。加上在長期代管期間有大量資源交易者，以多重帳號處理。</li>
+					<li>MH有權先行封鎖長期代管之帳號，如原持有人需要解封，須以登記電郵向 admin@travianca.x10.mx 證實其使用權再於無處分下解封。</li>
+					<li>如原持有人一直有獨立之使用其帳號，一般不須每2星期設定代管關係一次，可長期設定合適之代管人不用更改。</li>
+					<li>請注意：設定代管關係後，請依照守則之限制操作可登入之帳號。</li>
+					</ul></li>
+					<li style="color:#ff0000;font-weight:bold;">為避免有關功能被濫用，同機直接使用帳密登入的帳號有以下的操作限制：
+					<ul><li>注意1：同機帳號間，在同機使用時期起至沒有同機登入後的7天內，不可互相增援</li>
+					<li>注意2：同機帳號間，在同機使用時期起至沒有同機登入後的7天內，不可互相攻擊、搶奪，亦禁止攻擊、搶奪同一玩家目標。(世界奇觀除外)</li>
+					<li>注意3：如帳號並非以帳密直接登入在同機使用（即以代管方式登入），可以互相增援。但代管間不可互相攻擊、搶 奪，亦禁止攻擊、搶奪同一玩家目標。(世界奇觀除外)</li>
+					</ul></li>
+					<li>為免被惡意引用條例，如果玩家發現被不認可的玩家設為代管人，請勿登入有關帳號及立即向MH回報，則回報帳號並不會被代管條例規管。如果被發現有登入有關帳號的紀錄，則視為一般情況處理，一切友好攻擊及資源交易均須依守則限制。</li>
+					<li>官方將詳細查看同機登入帳號的登入情況，例如只是在個別情況有同機現象，而又有在其他地方有長期的穩定獨立使用。類似的情況可視為在公用地方上網或在學校的公用電腦，一般而言，有關情況不會以多重處理或限制送資、攻擊等行為。亦可不受上列情況限制。</li>
+			</ul>
+		</li>
+		<li><strong style="color: #2A720B">&sect;3 Use of externals</strong><br />
+			The game must be played with an unmodified internet browser. The use of scripts or bots which automate is against the rules.
 	</li>
 	<li><strong style="color: #2A720B">&sect;4 Program errors</strong><br />
 	Program errors (also called bugs) may not be used to one's benefit. Abuse can lead to a punishment of the account.
