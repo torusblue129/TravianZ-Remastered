@@ -59,6 +59,15 @@ AccessLogger::logRequest();
 		<div class="grit">
 
     <h1>服務條款</h1>
+
+    <p class="submenu">Terms of Use:<br><br>
+    <ul class="rules">
+      <li><p class="f16">購買Travian <b><font color="#71d000">P</font><font color="#ff6f0f">l</font><font color="#71d000">u</font><font color="#ff6f0f">s</font></b> 金幣須知</p><br>
+      <li>§ 誰在提供Travian <b><font color="#71d000">P</font><font color="#ff6f0f">l</font><font color="#71d000">u</font><font color="#ff6f0f">s</font></b> 金幣（「金幣」）服務？<br>
+      <ul>
+        <li>所有金幣服務都由Travian Games GmbH直接提供。<br></li>
+        <li><strong style="color: #3BAE18">§1.2 密碼</strong><br>
+
     <p>Terms of Use:<br><br>
       <a href="/Travian_EN_Terms.pdf" target="_blank">General Terms and Conditions Travian Games GmbH</a><br><br>
       <a href="/Travian_EN_Privacy.pdf" target="_blank">Privacy Policy</a><a name="buy"></a>
