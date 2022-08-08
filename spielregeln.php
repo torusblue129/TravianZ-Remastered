@@ -293,6 +293,16 @@ AccessLogger::logRequest();
 			<li>擁有「多重帳號」者只能選擇重開其中一個帳號，並處最少25%人口處分。若玩家亦有違反以上玩家守則，亦會依例懲罰。</li>
 		</ol>
 	</li>
+	<li><strong style="color: #2A720B">§9 非法登錄</strong><br />
+		<p> 通過非法的途徑來得到其他帳號是禁止的，違規者將被開除出遊戲。Travian管理團隊成員絕對不會詢問你的密碼。</p>
+	</li>
+		</ul>
+		</div>
+		<li><strong style="color: #2A720B">&sect;9 Correction clause</strong><br />
+		If individual regulations of this set of rules should be ineffective, it does not affect the validity of the remaining regulations of this set of rules. The Administrators commit themselves to replace ineffective regulations with new regulations which replace the ineffective regulations as fast as possible.
+		</li>
+		</ul>
+		</div>
 		<li><strong style="color: #2A720B">&sect;9 Correction clause</strong><br />
 		If individual regulations of this set of rules should be ineffective, it does not affect the validity of the remaining regulations of this set of rules. The Administrators commit themselves to replace ineffective regulations with new regulations which replace the ineffective regulations as fast as possible.
 		</li>
