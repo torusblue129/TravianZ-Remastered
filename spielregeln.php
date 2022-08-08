@@ -330,46 +330,19 @@ AccessLogger::logRequest();
 	<li><strong style="color: #2A720B">§16 規則修正條款</strong><br>
 		如果上述規則中有任何一條不再有效或者將不再有效，其他的規則還是有效的。管理員有權使用合法的適用於遊戲的新規則來取代無效的規則。 新規則一旦設立，即時生效。相同的，這點也適用於在規則中出現的漏洞。管理員有責任在尊重原來規則的基礎上，設法彌補這個漏洞。
 	</li>
+</ul>
 <div class="footer"></div>
 
-</div>
-
-</div>
-
-<div id="iframe_layer" class="overlay">
-
-
-
+<div id="iframe_layer" class="overlay"></div>
 <div class="mask closer"></div>
 
-
-
-
-
-
-
 <div class="overlay_content">
-
-<a href="index.php" class="closer"><img class="dynamic_img" alt="Close" src="img/un/x.gif" /></a>
-
-<h2>Anleitung</h2>
-
-
+	<a href="index.php" class="closer"><img class="dynamic_img" alt="Close" src="img/un/x.gif" /></a>
 
 <div id="frame_box" >
-
+	</div>
+		<div class="footer"></div>
+	</div>
 </div>
-
-<div class="footer"></div>
-
-</div>
-
-
-
-</div>
-
-
-
-
 </body>
 </html>
