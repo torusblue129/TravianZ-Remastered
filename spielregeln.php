@@ -102,7 +102,6 @@ AccessLogger::logRequest();
 				</ul>
 			</li>
 		</ul>
-	</ul>
 		<li><strong style="color: #2A720B">§2 代管及公用電腦設置</strong><br>
 			<ul>
 				<li><strong style="color: #3BAE18">§2.1 代管</strong><br>
