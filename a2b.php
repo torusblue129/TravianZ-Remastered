@@ -2,15 +2,22 @@
 include_once ("GameEngine/Generator.php");
 $start_timer = $generator->pageLoadTimeStart();
 
-// ################################################################################
-// # -= YOU MAY NOT REMOVE OR CHANGE THIS NOTICE =- ##
-// # --------------------------------------------------------------------------- ##
-// # Filename a2b.php ##
-// # Developed by: Dzoki ##
-// # License: TravianX Project ##
-// # Copyright: TravianX (c) 2010-2011. All rights reserved. ##
-// # ##
-// ################################################################################
+#################################################################################
+##                                                                             ##
+##              -= YOU MUST NOT REMOVE OR CHANGE THIS NOTICE =-                ##
+##                                                                             ##
+## --------------------------------------------------------------------------- ##
+##                                                                             ##
+##  Project:       TravianZ-Remastered                                         ##
+##  Version:       v8.3.5                                                      ##
+##  Filename:      a2b.php                                                     ##
+##  Edited by:     Torusblue129                                                ##
+##  License:       Creative Commons BY-NC-SA 3.0                               ##
+##  Copyright:     TravianZ (c) 2011 - All rights reserved                     ##
+##  URLs:          http://travianca.x10.mx/                                    ##
+##  Source code:   https://github.com/torusblue129/TravianZ-Remastered         ##
+##                                                                             ##
+#################################################################################
 
 use App\Utils\AccessLogger;
 
@@ -99,7 +106,7 @@ echo GP_LOCATE;
 ?>lang/en/compact.css?f4b7i"
 	rel="stylesheet" type="text/css" />
 	<?php
-	
+
 	if($session->gpack == null || GP_ENABLE == false){
 		echo "
 	<link href='".GP_LOCATE."travian.css?e21d2' rel='stylesheet' type='text/css' />
@@ -109,7 +116,7 @@ echo GP_LOCATE;
 	<link href='".$session->gpack."travian.css?e21d2' rel='stylesheet' type='text/css' />
 	<link href='".$session->gpack."lang/en/lang.css?e21d2' rel='stylesheet' type='text/css' />";
 	}
-	
+
 	?>
 	<script type="text/javascript">
 		window.addEvent('domready', start);
