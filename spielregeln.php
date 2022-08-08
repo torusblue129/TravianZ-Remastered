@@ -257,21 +257,42 @@ AccessLogger::logRequest();
 			<li>任何形式的未經香港Travian管理團隊允許的廣告都是不允許的。</li>
 		</ul>
 	</li>
-		If there is an offence against these game rules, the Multihunters and, if necessary, the Administrators will ban the account(s) in question and decide on a proper punishment. Punishments will always exceed the gain of the violation of the rules.
-		<br />
-		Resources, buildings, villages or troops lost during the time of suspension do not count as punishment and will not be replaced by the Travian Team. No player has the right to claim payment or replacement for Plus/Gold time lost due to suspension.
-		<br />
-		here is no special treatment for Travian Plus/Gold users regarding the game rules neither in the time needed to deal with the case nor in the punishment.
-		<br /><br />
-		Players may talk to the Multihunter who banned them or an Administrator either via IGM (ingame message) or e-mail. Bans, punishments or deletions are not to be discussed in public (e.g. Chat or Forums). Appeals must be written in English.
-		<br />
-		Additionally, the Travian Team will not provide information to persons other than the account owner.
-		<br /><br />
-		Multi accounts on the speed server and multi accounts with less than 100 population may be deleted on sight with no warning.
-		</li>
-		<li><strong style="color: #2A720B">&sect;8 Changing of rules</strong><br />
-		The Travian Team reserves the right to change the rules at any time.
-		</li>
+	<li><strong style="color: #2A720B">§8 相關處罰</strong><br>
+		玩家在遊戲過程中若有違反遊戲規則的行為，將由Multihunter（MH）和管理員處即時處分或凍結其帳號並根據違規的程度來進行相應的處罰。<br><br>
+		相應的處罰包括但不限於下列條目：
+		<ul>
+			<li>部分或全部刪除玩家人口（即降低建築等級和資源田等級）；</li>
+			<li>刪除村莊；</li>
+			<li>倉庫/糧倉內存儲資源全部清空；</li>
+			<li>刪除玩家全部的部隊；</li>
+			<li>從聯盟中開除或解除其創建的聯盟；</li>
+			<li>刪除帳號或永久凍結其對遊戲的訪問。</li>
+		</ul><br>
+		有關所有違規情況的標準罰則如下，請留意，以下只為基數參考，非每一個案都一定以有關說明處分。<br><br>
+		<ol>
+			<li>超越資源運送上限</li>
+		</ol><br>
+		<dl>
+			<dd>接收的總資源數量　除以　玩家人口，若得到答案（四捨五入）：</dd>
+		</dl>
+		<dl><dd>0 - 150：清倉</dd>
+			<dd>151 - 300：5%+清倉</dd>
+			<dd>301 - 450：10%+清倉</dd>
+			<dd>451 - 600：25%+清倉</dd>
+			<dd>601 - 750：33%+清倉+清兵</dd>
+			<dd>751 - 900：50%+清倉+清兵</dd>
+			<dd>901 或以上：另行定奪（交ADMIN 處理）</dd>
+			<dd>***舉例：玩家人口250，傳送總資源數量160000，160000 / 250 = 640 =&gt; 601 - 750：33%+清倉+清兵</dd>
+			<dd>***一個月內二犯及再犯者清兵</dd>
+			<dd><br></dd>
+		</dl>
+		<ol>
+			<li>違反「同電腦攻擊」、「共用/代管關係者攻擊同一目標」或「共用電腦之帳號相互聯防」，一律處10%+清倉，２犯者以多 重帳號處理</li>
+			<li>違反玩家守則「遊戲輔助工具的使用」或「遊戲中的錯誤及漏洞」，一律最少處50%處分，嚴重者將被永久封鎖帳號。 </li>
+			<li> 違反玩家守則「網路行為準則」一律10%，嚴重者將被永久封鎖帳號。 </li>
+			<li>擁有「多重帳號」者只能選擇重開其中一個帳號，並處最少25%人口處分。若玩家亦有違反以上玩家守則，亦會依例懲罰。</li>
+		</ol>
+	</li>
 		<li><strong style="color: #2A720B">&sect;9 Correction clause</strong><br />
 		If individual regulations of this set of rules should be ineffective, it does not affect the validity of the remaining regulations of this set of rules. The Administrators commit themselves to replace ineffective regulations with new regulations which replace the ineffective regulations as fast as possible.
 		</li>
