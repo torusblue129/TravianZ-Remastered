@@ -58,30 +58,28 @@ AccessLogger::logRequest();
 		<div id="content">
 		<div class="grit">
 
-      <h1>服務條款</h1>
-      <p>
-        <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-        <html>
-          <body>Terms of Use:<br><br>
-            <a href="/Travian_EN_Terms.pdf" target="_blank">General Terms and Conditions Travian Games GmbH</a><br><br>
-            <a href="/Travian_EN_Privacy.pdf" target="_blank">Privacy Policy</a><a name="buy"></a>
-            <p class="f16">購買Travian <b><font color="#71d000">P</font><font color="#ff6f0f">l</font><font color="#71d000">u</font><font color="#ff6f0f">s</font></b> 金幣須知</p>
-            <p>§ 誰在提供Travian <b><font color="#71d000">P</font><font color="#ff6f0f">l</font><font color="#71d000">u</font><font color="#ff6f0f">s</font></b> 金幣（「金幣」）服務？
-              <ul>
-                <li>所有金幣服務都由Travian Games GmbH直接提供。</li>
-              </ul>
-            </p>
-            <p>§ 誰擁有金幣的使用權？</p>
-              <ul>
-                <li>只有帳號擁有人擁有該帳號內的金幣使用權。</li>
-                <li>我們會根據帳號登記電郵地址資料來確認帳號的擁有權。</li>
-              </ul>
-            <p>§ 可以把金幣轉移到其他帳號嗎？</p>
-              <ul>
-                <li>金幣只能被轉移到<b>同一個地區內</b>伺服器的帳號。</li>
-                <li>金幣亦只能被轉移到其他<b>單一帳號</b>內。</li>
-                <li>需要轉移金幣的帳號內，必須<b>最少成功購買一次</b>金幣才能進行金幣轉移，並需要<b>刪除已購買金幣的帳號</b>，詳情請參閱遊戲世界內左邊選單「Travian Plus」＞「常見問題」內「我可以轉移帳號內的金幣到其他帳號嗎？」的內容及轉移程序細則。</li>
-              </ul>
+    <h1>服務條款</h1>
+    <p>
+      <body>Terms of Use:<br><br>
+        <a href="/Travian_EN_Terms.pdf" target="_blank">General Terms and Conditions Travian Games GmbH</a><br><br>
+        <a href="/Travian_EN_Privacy.pdf" target="_blank">Privacy Policy</a><a name="buy"></a>
+        <p class="f16">購買Travian <b><font color="#71d000">P</font><font color="#ff6f0f">l</font><font color="#71d000">u</font><font color="#ff6f0f">s</font></b> 金幣須知</p>
+        <p>§ 誰在提供Travian <b><font color="#71d000">P</font><font color="#ff6f0f">l</font><font color="#71d000">u</font><font color="#ff6f0f">s</font></b> 金幣（「金幣」）服務？
+          <ul>
+            <li>所有金幣服務都由Travian Games GmbH直接提供。</li>
+          </ul>
+        </p>
+        <p>§ 誰擁有金幣的使用權？</p>
+          <ul>
+            <li>只有帳號擁有人擁有該帳號內的金幣使用權。</li>
+            <li>我們會根據帳號登記電郵地址資料來確認帳號的擁有權。</li>
+          </ul>
+        <p>§ 可以把金幣轉移到其他帳號嗎？</p>
+          <ul>
+            <li>金幣只能被轉移到<b>同一個地區內</b>伺服器的帳號。</li>
+            <li>金幣亦只能被轉移到其他<b>單一帳號</b>內。</li>
+            <li>需要轉移金幣的帳號內，必須<b>最少成功購買一次</b>金幣才能進行金幣轉移，並需要<b>刪除已購買金幣的帳號</b>，詳情請參閱遊戲世界內左邊選單「Travian Plus」＞「常見問題」內「我可以轉移帳號內的金幣到其他帳號嗎？」的內容及轉移程序細則。</li>
+          </ul>
             <p>§ 金幣會否過期？</p>
               <ul>
                 <li>若然同區內有其他伺服器，您必須在伺服器完結後<b>六個月內</b>，把金幣<b>轉移</b>到其他同區的伺服器或同一個伺服器重開後的帳號內，否則將會全部作廢。</li>
