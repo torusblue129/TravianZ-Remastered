@@ -82,11 +82,7 @@ AccessLogger::logRequest();
 
 		<div class="overlay_content">
 			<a href="index.php" class="closer"><img class="dynamic_img" alt="Close" src="img/un/x.gif" /></a>
-
-		<div id="frame_box" >
-			</div>
-				<div class="footer"></div>
-			</div>
+			<div id="frame_box" ></div>
 		</div>
 	</body>
 </html>
