@@ -62,7 +62,7 @@ AccessLogger::logRequest();
     <h1>服務條款</h1>
     <ul class="rules">
       <li>購買Travian <b><font color="#71d000">P</font><font color="#ff6f0f">l</font><font color="#71d000">u</font><font color="#ff6f0f">s</b> 金幣須知</font></p>
-      <li>§ 誰在提供Travian <b><font color="#71d000">P</font><font color="#ff6f0f">l</font><font color="#71d000">u</font><font color="#ff6f0f">s</font></b> 金幣（「金幣」）服務？
+      <li>誰在提供Travian <b><font color="#71d000">P</font><font color="#ff6f0f">l</font><font color="#71d000">u</font><font color="#ff6f0f">s</font></b> 金幣（「金幣」）服務？
         <ul>
           <li>所有金幣服務都由Travian Games GmbH直接提供。<br></li>
         </ul>
