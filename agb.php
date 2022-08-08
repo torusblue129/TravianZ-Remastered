@@ -66,11 +66,11 @@ AccessLogger::logRequest();
             <a href="/Travian_EN_Terms.pdf" target="_blank">General Terms and Conditions Travian Games GmbH</a><br><br>
             <a href="/Travian_EN_Privacy.pdf" target="_blank">Privacy Policy</a><a name="buy"></a>
             <p class="f16">購買Travian <b><font color="#71d000">P</font><font color="#ff6f0f">l</font><font color="#71d000">u</font><font color="#ff6f0f">s</font></b> 金幣須知</p>
-            <li><p>§ 誰在提供Travian <b><font color="#71d000">P</font><font color="#ff6f0f">l</font><font color="#71d000">u</font><font color="#ff6f0f">s</font></b> 金幣（「金幣」）服務？
+            <p>§ 誰在提供Travian <b><font color="#71d000">P</font><font color="#ff6f0f">l</font><font color="#71d000">u</font><font color="#ff6f0f">s</font></b> 金幣（「金幣」）服務？
               <ul>
                 <li>所有金幣服務都由Travian Games GmbH直接提供。</li>
               </ul>
-            </p></li>
+            </p>
             <p>§ 誰擁有金幣的使用權？</p>
               <ul>
                 <li>只有帳號擁有人擁有該帳號內的金幣使用權。</li>
