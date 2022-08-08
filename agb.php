@@ -59,8 +59,6 @@ AccessLogger::logRequest();
 		<div class="grit">
 
     <h1>服務條款</h1>
-
-    <p class="submenu">Terms of Use:<br><br>
     <ul class="rules">
       <li>購買Travian <b><font color="#71d000">P</font><font color="#ff6f0f">l</font><font color="#71d000">u</font><font color="#ff6f0f">s</b> 金幣須知</font></p><br>
       <li>§ 誰在提供Travian <b><font color="#71d000">P</font><font color="#ff6f0f">l</font><font color="#71d000">u</font><font color="#ff6f0f">s</font></b> 金幣（「金幣」）服務？<br>
