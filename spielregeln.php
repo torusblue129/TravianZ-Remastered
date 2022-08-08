@@ -231,8 +231,13 @@ AccessLogger::logRequest();
 				</ul>
 			</ul>
 		</ul>
-	<li><strong style="color: #2A720B">&sect;5 Money transactions</strong><br />
-		Any sales or purchases concerning real money regarding accounts, units, villages, resources, services or any other aspect of Travian are impermissible. The sale of Travian accounts as well as any indirect transfer (even as gifts) in connection with auction sites or other money transactions is impermissible.
+	<li><strong style="color: #2A720B">§5 遊戲中的錯誤及漏洞</strong><br>
+		玩家在發現遊戲中的程式錯誤（也被稱為遊戲bug）後，必須立即向遊戲管理員進行彙報，並且不能利用這些錯誤牟取個人利益。濫用遊戲中的程式錯誤將受到嚴 厲懲罰。包括：
+		<ul>
+			<li>惡意利用規則的漏洞或遊戲管理員職權，從而令到自己的帳號有所得益者，包括但不限於以任何理由故意封鎖帳號，都將會受到嚴厲處罰。</li>
+			<li>連續舉報沒有觸犯遊戲規則的玩家訊息而不提合理證明。</li>
+			<li>帳號通過故意違規的方式逃避其他帳號對其進行的攻擊、搶奪或由於其他個人原因故意導致封鎖帳號，MH將直接對其進行相應的違規處罰並在以IGM通知後即時解封，或是對其帳號進行永久凍結，情節嚴重者將即時刪除帳號。</li>
+		</ul>
 	</li>
 	<li><strong style="color: #2A720B">&sect;6 Netiquette</strong><br />
 		Everyone must communicate in a polite, conversational tone. Multihunters may change inappropriate profiles and village names without warning.
