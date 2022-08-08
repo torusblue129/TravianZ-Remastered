@@ -65,33 +65,36 @@ AccessLogger::logRequest();
 	<ul class="rules">
 		<li><strong style="color: #2A720B">§1密碼，註冊及帳號擁有權</strong><br>
 	<ul>
-	<li><strong style="color: #3BAE18">§1.1 註冊</strong><br>
-	玩家在同一個伺服器中只允許註冊一個遊戲帳號。使用者註冊時使用的電子郵寄地址必須只屬於玩家個人使用，註冊時使用的電子郵件的擁有者將無條件被視作遊戲   帳號的擁有者。任何兩個玩家之間私下訂立的協議都不被考慮在內。帳號擁有者將對帳號的所有行為活動負全責。無論任何情況下，玩家不能在同一伺服器註冊多個  帳號進行遊戲，此類情況將視為多帳號行為。
-	</li>
-	<li><strong style="color: #3BAE18">§1.2 密碼</strong><br>
-	密碼標誌著帳號的使用權。玩家帳號使用的密碼不得以任何理由給予同一伺服器中的另外一個玩家。若玩家將密碼透露給第三者，意味著將帳號的使用權也轉讓給了 第三者，由此產生的帳號損失不會得到任何賠償。<br><br>
-	將密碼給予不同伺服器的玩家（或其他未在同一伺服器註冊 <?php echo SERVER_NAME; ?> 遊戲的人）以便多人共同使用同一帳號是可接受的，並不違反遊戲規則。<br><br>
-	任何知道密碼的人對帳號進行操作時遭到的損失都不會得到任何賠償。另外，由於密碼過於簡單，使其極易被破解或猜測出來而造成的帳號損失，玩家無權要求任何 賠償。<br><br>
-	如果因為帳號被盜，由此造成玩家（帳號）的損失，除非因為伺服器被入侵而導致玩家帳號資料被修改，否則玩家都不會得到來自 <?php echo SERVER_NAME; ?> 管理團隊任何形式 的賠償。<br><br>
-	被盜帳號的持有人若有需要通過法律途徑向盜取帳號者索取賠償，我們將會配合有關方面進行調查，提供相關資料，例如登入者的IP記錄等。<br><br>
-	代管必須使用代管的設置程式，不能使用帳號原密碼進行登錄，詳情參見§2。<br><br>
-	多人共用多個帳號，且直接以帳號密碼登入，亦以多重帳號處理。
-	</li>
-	<li><strong style="color: #3BAE18">§1.3 帳號轉讓</strong><br>
-	帳號轉讓必須通過以下程序來完成：
-	</li>
-	<ul><li>或，帳號的原始擁有者使用註冊時所填寫的電子郵箱發送一封申請信至 admin@travian.hk ，郵件中應包含以下內容：<ul>
-		<li>帳號所在的伺服器</li>
-		<li>玩家的用戶名</li>
-		<li>帳號新擁有者的電郵地址</li>
-	</ul>
-	<li>如果要與同一伺服器內的玩家交換帳號，帳號出讓者和帳號獲取者都需要進行以上的郵箱確認程序並且使用取回密碼功能獲取新的密碼。除此之外禁止一切帳號轉讓 和交易。</li>
-	<li><strong style="color: #3BAE18">&sect;1.4 Switching accounts</strong><br />
-	In order to switch an account with a person on the same game world, both persons must send an e-mail message to admin@travian.com from the e-mail address currently registered for the account. The e-mail must contain the following information:
-	<ol>
-	<li>The game world on which the account resides</li>
-	<li>The nickname of the account</li>
-	<li>The e-mail address of the new owner. </li>
+		<li><strong style="color: #3BAE18">§1.1 註冊</strong><br>
+			玩家在同一個伺服器中只允許註冊一個遊戲帳號。使用者註冊時使用的電子郵寄地址必須只屬於玩家個人使用，註冊時使用的電子郵件的擁有者將無條件被視作遊戲   帳號的擁有者。任何兩個玩家之間私下訂立的協議都不被考慮在內。帳號擁有者將對帳號的所有行為活動負全責。無論任何情況下，玩家不能在同一伺服器註冊多個  帳號進行遊戲，此類情況將視為多帳號行為。
+		</li>
+		<li><strong style="color: #3BAE18">§1.2 密碼</strong><br>
+			密碼標誌著帳號的使用權。玩家帳號使用的密碼不得以任何理由給予同一伺服器中的另外一個玩家。若玩家將密碼透露給第三者，意味著將帳號的使用權也轉讓給了 第三者，由此產生的帳號損失不會得到任何賠償。<br><br>
+			將密碼給予不同伺服器的玩家（或其他未在同一伺服器註冊 <?php echo SERVER_NAME; ?> 遊戲的人）以便多人共同使用同一帳號是可接受的，並不違反遊戲規則。<br><br>
+			任何知道密碼的人對帳號進行操作時遭到的損失都不會得到任何賠償。另外，由於密碼過於簡單，使其極易被破解或猜測出來而造成的帳號損失，玩家無權要求任何 賠償。<br><br>
+			如果因為帳號被盜，由此造成玩家（帳號）的損失，除非因為伺服器被入侵而導致玩家帳號資料被修改，否則玩家都不會得到來自 <?php echo SERVER_NAME; ?> 管理團隊任何形式 的賠償。<br><br>
+			被盜帳號的持有人若有需要通過法律途徑向盜取帳號者索取賠償，我們將會配合有關方面進行調查，提供相關資料，例如登入者的IP記錄等。<br><br>
+			代管必須使用代管的設置程式，不能使用帳號原密碼進行登錄，詳情參見§2。<br><br>
+			多人共用多個帳號，且直接以帳號密碼登入，亦以多重帳號處理。
+		</li>
+		<li><strong style="color: #3BAE18">§1.3 帳號轉讓</strong><br>
+			帳號轉讓必須通過以下程序來完成：
+		</li>
+		<ul><li>或，帳號的原始擁有者使用註冊時所填寫的電子郵箱發送一封申請信至 admin@travianca.x10.mx，郵件中應包含以下內容：<ul>
+			<li>帳號所在的伺服器</li>
+			<li>玩家的用戶名</li>
+			<li>帳號新擁有者的電郵地址</li>
+		</ul>
+		如果要與同一伺服器內的玩家交換帳號，帳號出讓者和帳號獲取者都需要進行以上的郵箱確認程序並且使用取回密碼功能獲取新的密碼。除此之外禁止一切帳號轉讓 和交易。</li>
+		<li><strong style="color: #3BAE18">§1.4 帳號刪除</strong><br>
+		準備刪除或正在刪除階段的帳號，也必須遵守所有遊戲規則。<br><br>
+		系統將定期刪除長期封鎖或未上線的帳號。<br><br>
+		帳號刪除後，帳號先前剩餘的服務均不予退還。扣除遊戲贈送及補償的金幣後，餘下的金幣可轉移至同地區的各伺服。<br><br>
+		<span style="text-decoration:underline;">密碼，註冊及帳號擁有權條例補充：</span>
+		<ol>
+		<li>The game world on which the account resides</li>
+		<li>The nickname of the account</li>
+		<li>The e-mail address of the new owner. </li>
 	</ol>
 	Afterwards both persons must request the password for their new account via the password retrieval function.
 	</li>
