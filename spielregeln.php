@@ -184,52 +184,66 @@ AccessLogger::logRequest();
 						</ul>
 				</ul></li>
 		</li>
-	<li><strong style="color: #2A720B">&sect;4 Program errors</strong><br />
-	Program errors (also called bugs) may not be used to one's benefit. Abuse can lead to a punishment of the account.
-	</li>
+		<li><strong style="color: #2A720B">§4 友好攻擊</strong><br>
+			與自身有公共電腦使用或代管關係玩家的攻擊是不允許的，<strong>而且在結束有關關係後7天仍會受有關條件限制</strong>。代管關係帳號、設置公共電腦帳號，禁止攻擊、搶奪同一玩家目標。<br>
+		</li>
+		<ul><li><span class="rulessubtitle">§4.1 征服村莊</span><br>
+			征服的定義，以該次攻擊有可降下村莊忠誠度之兵種參戰為主，是否成功降低忠誠度不在考慮之列。而以下行為都是不被允許的：
+			<ul><li>在取消代管關係後的兩星期內，對你曾經代管過的玩家的村莊進行征服。</li>
+				<li>在取消代管關係後的兩星期內，對曾經作為你的代管玩家的村莊進行征服。</li>
+				<li>在取消公共電腦使用關係後的兩星期內，對曾經共用電腦的玩家的村莊進行征服。</li>
+				<li>當與有關玩家還在同一公會內，或離開所在公會的兩天之內，對其村莊進行征服。</li>
+				<li>在解除聯盟關係後，包括玩家離開或是公會間改變外交關係，於兩天之內對原盟友的村莊進行征服。</li>
+				<li>征服聯盟盟友的村莊。</li>
+			</ul></li>
+			<ul><br/><span style="text-decoration:underline;">友好攻擊條例補充</span> 
+				<ul><li>攻擊的定義，不包括偵察行為，只以攻擊及搶奪為標準。</li>
+				<li>如果出現玩家互相攻擊對方同IP的小玩家，MH可以根據情況裁定為聯合作弊，帳號將馬上被封。</li>
+				<li>友攻條例設有追溯限期，即有關違反友好攻擊條例的舉報，如果超過攻擊出現後7天方提出，MH有權不接受有關投訴。</li>
+		</ul></li>
 	<li><strong style="color: #2A720B">&sect;5 Money transactions</strong><br />
-	Any sales or purchases concerning real money regarding accounts, units, villages, resources, services or any other aspect of Travian are impermissible. The sale of Travian accounts as well as any indirect transfer (even as gifts) in connection with auction sites or other money transactions is impermissible.
+		Any sales or purchases concerning real money regarding accounts, units, villages, resources, services or any other aspect of Travian are impermissible. The sale of Travian accounts as well as any indirect transfer (even as gifts) in connection with auction sites or other money transactions is impermissible.
 	</li>
 	<li><strong style="color: #2A720B">&sect;6 Netiquette</strong><br />
-	Everyone must communicate in a polite, conversational tone. Multihunters may change inappropriate profiles and village names without warning.
-	<ol>
-	<li>Following behavior is punishable and applies to all descriptions, the account name, alliance names, village names and messages: <br />
-	English is the only official language tolerated.
-	<br />
-	Participation in abusive, defamatory, sexist, racist or profane language; disparaging any religion, race, nation, gender, age group, or sexual orientation; threatening persons with actions in real life.
-	<br />
-	Posting or transmission of any material not suitable for underage persons.
-	<br />
-	Blackmailing players in a way that violates any of Travian's rules respective the general terms and conditions.
-	<br />
-	Displaying battle reports or messages in public without consent of both concerned persons.
-	</li>
-	<li>No real world politics are allowed in names, messages and descriptions. </li>
-	<li>Impersonation of officials or official positions is illegal in any way.
-	</li>
-	<li>Advertisement of any kind that has not been permitted by the Travian Team is impermissible. </li>
-	</ol>
-	</li>
-	<li><strong style="color: #2A720B">&sect;7 Punishments</strong><br />
-	If there is an offence against these game rules, the Multihunters and, if necessary, the Administrators will ban the account(s) in question and decide on a proper punishment. Punishments will always exceed the gain of the violation of the rules.
-	<br />
-	Resources, buildings, villages or troops lost during the time of suspension do not count as punishment and will not be replaced by the Travian Team. No player has the right to claim payment or replacement for Plus/Gold time lost due to suspension.
-	<br />
-	here is no special treatment for Travian Plus/Gold users regarding the game rules neither in the time needed to deal with the case nor in the punishment.
-	<br /><br />
-	Players may talk to the Multihunter who banned them or an Administrator either via IGM (ingame message) or e-mail. Bans, punishments or deletions are not to be discussed in public (e.g. Chat or Forums). Appeals must be written in English.
-	<br />
-	Additionally, the Travian Team will not provide information to persons other than the account owner.
-	<br /><br />
-	Multi accounts on the speed server and multi accounts with less than 100 population may be deleted on sight with no warning.
-	</li>
-	<li><strong style="color: #2A720B">&sect;8 Changing of rules</strong><br />
-	The Travian Team reserves the right to change the rules at any time.
-	</li>
-	<li><strong style="color: #2A720B">&sect;9 Correction clause</strong><br />
-	If individual regulations of this set of rules should be ineffective, it does not affect the validity of the remaining regulations of this set of rules. The Administrators commit themselves to replace ineffective regulations with new regulations which replace the ineffective regulations as fast as possible.
-	</li>
-	</ul>
+		Everyone must communicate in a polite, conversational tone. Multihunters may change inappropriate profiles and village names without warning.
+		<ol>
+		<li>Following behavior is punishable and applies to all descriptions, the account name, alliance names, village names and messages: <br />
+		English is the only official language tolerated.
+		<br />
+		Participation in abusive, defamatory, sexist, racist or profane language; disparaging any religion, race, nation, gender, age group, or sexual orientation; threatening persons with actions in real life.
+		<br />
+		Posting or transmission of any material not suitable for underage persons.
+		<br />
+		Blackmailing players in a way that violates any of Travian's rules respective the general terms and conditions.
+		<br />
+		Displaying battle reports or messages in public without consent of both concerned persons.
+		</li>
+		<li>No real world politics are allowed in names, messages and descriptions. </li>
+		<li>Impersonation of officials or official positions is illegal in any way.
+		</li>
+		<li>Advertisement of any kind that has not been permitted by the Travian Team is impermissible. </li>
+		</ol>
+		</li>
+		<li><strong style="color: #2A720B">&sect;7 Punishments</strong><br />
+		If there is an offence against these game rules, the Multihunters and, if necessary, the Administrators will ban the account(s) in question and decide on a proper punishment. Punishments will always exceed the gain of the violation of the rules.
+		<br />
+		Resources, buildings, villages or troops lost during the time of suspension do not count as punishment and will not be replaced by the Travian Team. No player has the right to claim payment or replacement for Plus/Gold time lost due to suspension.
+		<br />
+		here is no special treatment for Travian Plus/Gold users regarding the game rules neither in the time needed to deal with the case nor in the punishment.
+		<br /><br />
+		Players may talk to the Multihunter who banned them or an Administrator either via IGM (ingame message) or e-mail. Bans, punishments or deletions are not to be discussed in public (e.g. Chat or Forums). Appeals must be written in English.
+		<br />
+		Additionally, the Travian Team will not provide information to persons other than the account owner.
+		<br /><br />
+		Multi accounts on the speed server and multi accounts with less than 100 population may be deleted on sight with no warning.
+		</li>
+		<li><strong style="color: #2A720B">&sect;8 Changing of rules</strong><br />
+		The Travian Team reserves the right to change the rules at any time.
+		</li>
+		<li><strong style="color: #2A720B">&sect;9 Correction clause</strong><br />
+		If individual regulations of this set of rules should be ineffective, it does not affect the validity of the remaining regulations of this set of rules. The Administrators commit themselves to replace ineffective regulations with new regulations which replace the ineffective regulations as fast as possible.
+		</li>
+		</ul>
 		</div>
 
 <div class="footer"></div>
