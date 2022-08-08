@@ -332,16 +332,18 @@ AccessLogger::logRequest();
 			</ul>
 
 			<div class="clear"></div>
-			<div class="footer"></div>
-
-			<div id="iframe_layer" class="overlay"></div>
-			<div class="mask closer"></div>
-
-			<div class="overlay_content">
-				<a href="index.php" class="closer"><img class="dynamic_img" alt="Close" src="img/un/x.gif" /></a>
-
-				<div id="frame_box"></div>
+			<div id="footer">
+				<div class="container">
+					<a href="index.php" class="closer"><img class="dynamic_img" alt="Close" src="img/un/x.gif" /></a>
+					<ul class="menu">
+						<li><a href="anleitung.php?s=3"><?php echo $lang['index'][0][15]; ?></a>|</li>
+						<li><a href="index.php?screenshots"><?php echo $lang['index'][0][16]; ?></a>|</li>
+						<li><a href="spielregeln.php"><?php echo $lang['index'][0][17]; ?></a>|</li>
+						<li><a href="agb.php"><?php echo $lang['index'][0][18]; ?></a>|</li>
+						<li><a href="impressum.php"><?php echo $lang['index'][0][19]; ?></a></li>
+						<li class="copyright">&copy; 2011-<?php echo date('Y'); ?> - TravianZ - All rights reserved</li>
+					</ul>
+				</div>
 			</div>
-		</div>
 	</body>
 </html>
