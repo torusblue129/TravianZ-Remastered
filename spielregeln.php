@@ -201,7 +201,7 @@ AccessLogger::logRequest();
 						<li>通過市場交易：如果兩個帳號間的交易差額（不計算搶奪和增援供給）小於20%，並且帳號是 CT1 ，則可以無限制地交易。<br></li>
 					</ol>
 				</li>
-				<li><span class="rulessubtitle">§3.4 新開伺服及新手保護期間之資源交易特殊條例</span><br></li>
+				<li><strong style="color: #2A720B">§3.4 新開伺服及新手保護期間之資源交易特殊條例</strong><br></li>
 					在一般伺服開啟及玩家建立帳號後一百六十八小時（七天）內(三倍服以七十二小時、即三天計算)全面禁止任何形式的資源運送，包括增援兵力的糧食消耗。違規者以超送及超收處理。唯不限制1:1的市場交易，如玩家須交換其他種類的物資，請利用市場功能。如玩家發現有玩家以非1:1設定交易量，請勿接受有關交易要求，以免違反資源交易條例。</li>
 					<ul><br/><span style="text-decoration:underline;">資源運輸條例補充</span><br>
 						<ul><li>就算每一次資源交易是規則內許可的比例，Travian管理團隊仍會以多方面的查證看玩家是否惡意獲得利益，來確定是否違規。</li>
@@ -215,7 +215,7 @@ AccessLogger::logRequest();
 		<li><strong style="color: #2A720B">§4 友好攻擊</strong><br>
 			與自身有公共電腦使用或代管關係玩家的攻擊是不允許的，<strong>而且在結束有關關係後7天仍會受有關條件限制</strong>。代管關係帳號、設置公共電腦帳號，禁止攻擊、搶奪同一玩家目標。<br>
 		</li>
-		<ul><li><span class="rulessubtitle">§4.1 征服村莊</span><br>
+		<ul><li><strong style="color: #2A720B">§4.1 征服村莊</strong><br>
 			征服的定義，以該次攻擊有可降下村莊忠誠度之兵種參戰為主，是否成功降低忠誠度不在考慮之列。而以下行為都是不被允許的：
 			<ul><li>在取消代管關係後的兩星期內，對你曾經代管過的玩家的村莊進行征服。</li>
 				<li>在取消代管關係後的兩星期內，對曾經作為你的代管玩家的村莊進行征服。</li>
@@ -293,21 +293,21 @@ AccessLogger::logRequest();
 			<li>擁有「多重帳號」者只能選擇重開其中一個帳號，並處最少25%人口處分。若玩家亦有違反以上玩家守則，亦會依例懲罰。</li>
 		</ol>
 	</li>
-	<li><strong style="color: #2A720B">§9 非法登錄</strong><br />
+	<li><strong style="color: #2A720B">§9 非法登錄</strong><br>
 		通過非法的途徑來得到其他帳號是禁止的，違規者將被開除出遊戲。Travian管理團隊成員絕對不會詢問你的密碼。
 	</li>
-		</ul>
-		</div>
-		<li><strong style="color: #2A720B">&sect;9 Correction clause</strong><br />
-		If individual regulations of this set of rules should be ineffective, it does not affect the validity of the remaining regulations of this set of rules. The Administrators commit themselves to replace ineffective regulations with new regulations which replace the ineffective regulations as fast as possible.
-		</li>
-		</ul>
-		</div>
-		<li><strong style="color: #2A720B">&sect;9 Correction clause</strong><br />
-		If individual regulations of this set of rules should be ineffective, it does not affect the validity of the remaining regulations of this set of rules. The Administrators commit themselves to replace ineffective regulations with new regulations which replace the ineffective regulations as fast as possible.
-		</li>
-		</ul>
-		</div>
+	<li><strong style="color: #2A720B">§10 利誘</strong><br>
+		誘導其他玩家觸犯遊戲規則也是禁止的，比如，惡意向玩家運送過多資源，或者公開密碼等等。違者將由官方依個別情況處理。
+	</li>
+	<li><strong style="color: #2A720B">§11 遊戲輔助工具的使用</strong><br>
+		非Travian公司授權，而擅自修改遊戲代碼、添加外掛程式、進行遊戲後臺的控制、任務的自動完成（如建造營地或者調運軍隊）、遊戲介面的改變，都是禁止的。此遊戲只允許通過傳統的網路瀏覽器來進行。所有將可能導致伺服器超載的代碼都是不允許的。Travian官方從未發佈過任何腳本與輔助程式，Travian助手、MultiSession、搜田工具等均為非法外掛和腳本，均禁止使用。通過非法的途徑來得到其他帳號是禁止的。本遊戲只須基本瀏覽器即可運行，一切透過虛疑系統(如vmware)、網上作業平台再登入本遊戲都以使用非法遊戲輔助工具處理。注意：如出現上述情況，根據造成後果嚴重性，帳號將被凍結直至刪除。
+	</li>
+	<li><strong style="color: #2A720B">§12 帳號刪除</strong><br>
+		那些準備要刪除帳號或者在刪除帳號階段的玩家，也必須遵守以上所有規則。在此期間尤其要注意，在規則2中所提到的贈送資源的數量上限，或者把村莊留給其他 玩家隨意佔領的行為，都是禁止的。
+	</li>
+	<li><strong style="color: #2A720B">§13 金幣處理</strong></li>
+		<ul>
+			<li>§13.1 盜號  如果因為帳號被盜，由此造成玩家金幣損失，除非因為伺服器被入侵而導致玩家帳號資料被修改，否則玩家都不會得到來自Travian管理團隊任何形式的賠  償。 被盜帳號的持有人若有需要透過法律途徑向盜取帳號者索取賠償，我們將會配合有關方面進行調查，提供相關資料，例如登入者的IP記錄等。    §13.2 違規 如果同一玩家擁有多個帳號，導致違規並封號處理，被封帳號中的金幣將不予退回。 玩家須自行發信向admin@travian.hk  申請轉移，唯只限轉移至同一地區的各伺服。§13.3 不明來源的金幣 接收金幣是須確認的，如果你收到不明來源的轉入金幣通知，請勿接受！並即向  admin@travian.hk回報。否則須自行承擔一切後果，可能之法律責任包括接贓及盜竊之罪行，如有舉報，官方將即時永久封鎖有關帳號及不會重  開。§13.4 世界奇觀  在完成世界奇觀建造後，伺服器將重設所有遊戲資訊，並開始新的遊戲。玩家原有帳號中的金幣可以進行同區跨服轉讓或保留給重啟後新伺服器中的相同帳號。</p>
 
 <div class="footer"></div>
 
