@@ -3,12 +3,19 @@ include_once("GameEngine/Generator.php");
 $start_timer = $generator->pageLoadTimeStart();
 
 #################################################################################
-##              -= YOU MAY NOT REMOVE OR CHANGE THIS NOTICE =-                 ##
+##                                                                             ##
+##              -= YOU MUST NOT REMOVE OR CHANGE THIS NOTICE =-                ##
+##                                                                             ##
 ## --------------------------------------------------------------------------- ##
-##  Filename       a2b2.php                                                    ##
-##  Developed by:  Dzoki                                                       ##
-##  License:       TravianX Project                                            ##
-##  Copyright:     TravianX (c) 2010-2011. All rights reserved.                ##
+##                                                                             ##
+##  Project:       TravianZ-Remastered                                         ##
+##  Version:       v8.3.5                                                      ##
+##  Filename:      a2b2.php                                                    ##
+##  Edited by:     Torusblue129                                                ##
+##  License:       Creative Commons BY-NC-SA 3.0                               ##
+##  Copyright:     TravianZ (c) 2011 - All rights reserved                     ##
+##  URLs:          http://travianca.x10.mx/                                    ##
+##  Source code:   https://github.com/torusblue129/TravianZ-Remastered         ##
 ##                                                                             ##
 #################################################################################
 
@@ -25,7 +32,7 @@ if(isset($_GET['newdid'])) {
 }
 else $building->procBuild($_GET);
 ?>
-    
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html>
 <head>
@@ -73,11 +80,11 @@ if ($amount == 199) {
 // Statement retrieve Gold Package A
 $MyGold = mysqli_query($database->dblink,"SELECT * FROM ".TB_PREFIX."users WHERE `id`='".$session->uid."'") or die(mysqli_error($database->dblink));
 $golds = mysqli_fetch_array($MyGold);
-$goldnow = $golds['6'] + 60; 
+$goldnow = $golds['6'] + 60;
 mysqli_query($database->dblink,"UPDATE ".TB_PREFIX."users set gold = '".$goldnow."' where `id`='".$session->uid."'") or die(mysqli_error($database->dblink));
 $MyGold = mysqli_query($database->dblink,"SELECT * FROM ".TB_PREFIX."users WHERE `id`='".$session->uid."'") or die(mysqli_error($database->dblink));
 $golds1 = mysqli_fetch_array($MyGold);
-?><p>Thank you for your purchase here at <?php echo SERVER_NAME ?></p><p>Below you see the entry record.  Out of it, you can observe your old as well as your new account balance.</p> 
+?><p>Thank you for your purchase here at <?php echo SERVER_NAME ?></p><p>Below you see the entry record.  Out of it, you can observe your old as well as your new account balance.</p>
 <table class="plusFunctions" cellpadding="1" cellspacing="1">
 		<thead>
 			<tr>
@@ -113,7 +120,7 @@ $golds1 = mysqli_fetch_array($MyGold);
              </tbody></table>
             <p>Please verify the information.<br />It will let us know if the data is incorrect.</p>
             <p>Please mail your username, package, order time and email used to <a href="mailto:<?php echo (defined('PAYPAL_EMAIL') ? PAYPAL_EMAIL : 'novgorodschi@icloud.com') ?>">our billing address</a>.</p>
-          
+
 <?php
 
 }
@@ -121,11 +128,11 @@ if ($amount == 499) {
 // Statement retrieve Gold Package B
 $MyGold = mysqli_query($database->dblink,"SELECT * FROM ".TB_PREFIX."users WHERE `id`='".$session->uid."'") or die(mysqli_error($database->dblink));
 $golds = mysqli_fetch_array($MyGold);
-$goldnow = $golds['6'] + 120; 
+$goldnow = $golds['6'] + 120;
 mysqli_query($database->dblink,"UPDATE ".TB_PREFIX."users set gold = '".$goldnow."' where `id`='".$session->uid."'") or die(mysqli_error($database->dblink));
 $MyGold = mysqli_query($database->dblink,"SELECT * FROM ".TB_PREFIX."users WHERE `id`='".$session->uid."'") or die(mysqli_error($database->dblink));
 $golds1 = mysqli_fetch_array($MyGold);
-?><p>Thank you for your purchase here at <?php echo SERVER_NAME ?>.</p><p>Below you see the entry record.  Out of it, you can observe your old as well as your new account balance.</p> 
+?><p>Thank you for your purchase here at <?php echo SERVER_NAME ?>.</p><p>Below you see the entry record.  Out of it, you can observe your old as well as your new account balance.</p>
 <table class="plusFunctions" cellpadding="1" cellspacing="1">
 		<thead>
 			<tr>
@@ -168,7 +175,7 @@ if ($amount == 999) {
 // Statement retrieve Gold Package C
 $MyGold = mysqli_query($database->dblink,"SELECT * FROM ".TB_PREFIX."users WHERE `id`='".$session->uid."'") or die(mysqli_error($database->dblink));
 $golds = mysqli_fetch_array($MyGold);
-$goldnow = $golds['6'] + 360; 
+$goldnow = $golds['6'] + 360;
 mysqli_query($database->dblink,"UPDATE ".TB_PREFIX."users set gold = '".$goldnow."' where `id`='".$session->uid."'") or die(mysqli_error($database->dblink));
 $MyGold = mysqli_query($database->dblink,"SELECT * FROM ".TB_PREFIX."users WHERE `id`='".$session->uid."'") or die(mysqli_error($database->dblink));
 $golds1 = mysqli_fetch_array($MyGold);
@@ -215,7 +222,7 @@ if ($amount == 1999) {
 // Statement retrieve Gold Package D
 $MyGold = mysqli_query($database->dblink,"SELECT * FROM ".TB_PREFIX."users WHERE `id`='".$session->uid."'") or die(mysqli_error($database->dblink));
 $golds = mysqli_fetch_array($MyGold);
-$goldnow = $golds['6'] + 1000; 
+$goldnow = $golds['6'] + 1000;
 mysqli_query($database->dblink,"UPDATE ".TB_PREFIX."users set gold = '".$goldnow."' where `id`='".$session->uid."'") or die(mysqli_error($database->dblink));
 $MyGold = mysqli_query($database->dblink,"SELECT * FROM ".TB_PREFIX."users WHERE `id`='".$session->uid."'") or die(mysqli_error($database->dblink));
 $golds1 = mysqli_fetch_array($MyGold);
@@ -262,7 +269,7 @@ if ($amount == 4999) {
 // Statement retrieve Gold Package E
 $MyGold = mysqli_query($database->dblink,"SELECT * FROM ".TB_PREFIX."users WHERE `id`='".$session->uid."'") or die(mysqli_error($database->dblink));
 $golds = mysqli_fetch_array($MyGold);
-$goldnow = $golds['6'] + 2000; 
+$goldnow = $golds['6'] + 2000;
 mysqli_query($database->dblink,"UPDATE ".TB_PREFIX."users set gold = '".$goldnow."' where `id`='".$session->uid."'") or die(mysqli_error($database->dblink));
 $MyGold = mysqli_query($database->dblink,"SELECT * FROM ".TB_PREFIX."users WHERE `id`='".$session->uid."'") or die(mysqli_error($database->dblink));
 $golds1 = mysqli_fetch_array($MyGold);
@@ -304,13 +311,13 @@ $golds1 = mysqli_fetch_array($MyGold);
             <p>Please mail your username, package, order time and email used to <a href="mailto:<?php echo (defined('PAYPAL_EMAIL') ? PAYPAL_EMAIL : 'novgorodschi@icloud.com') ?>">our billing address</a>.</p>
 <?php
 }
-				if ($amount == 0) 
+				if ($amount == 0)
 				{
 				$MyGold = mysqli_query($database->dblink,"SELECT * FROM ".TB_PREFIX."users WHERE `id`='".$session->uid."'") or die(mysqli_error($database->dblink));
-				$golds = mysqli_fetch_array($MyGold);	
+				$golds = mysqli_fetch_array($MyGold);
 					 ?>
-                
-<p>Here you can see your current account statement.</p> 
+
+<p>Here you can see your current account statement.</p>
 <table class="plusFunctions" cellpadding="1" cellspacing="1">
 		<thead>
 			<tr>
@@ -332,7 +339,7 @@ $golds1 = mysqli_fetch_array($MyGold);
                        <p>Please verify the information.<br />It will let us know if the data is incorrect.</p>
             <p>Please mail your username, package, order time and email used to <a href="mailto:<?php echo (defined('PAYPAL_EMAIL') ? PAYPAL_EMAIL : 'novgorodschi@icloud.com') ?>">our billing address</a>.</p>
 				<?php
-				
+
 				}
 
 ?>
