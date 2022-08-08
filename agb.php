@@ -96,5 +96,23 @@ AccessLogger::logRequest();
         金幣須知」內有關金幣使用權及有效期的內容，內容有可能不時被更新而不另行通知。
         瀏覽本服務條款及購買Travian <b><font color="#71d000">P</font><font color="#ff6f0f">l</font><font color="#71d000">u</font><font color="#ff6f0f">s</font></b> 金幣須知的最新版本。</i>
     </ul>
+
+    </div>
+      <div class="clear"></div>
+    </div>
+
+    <div id="footer">
+      <div class="container">
+        <a href="index.php" class="closer"><img class="dynamic_img" alt="Close" src="img/un/x.gif" /></a>
+        <ul class="menu">
+          <li><a href="anleitung.php?s=3"><?php echo $lang['index'][0][15]; ?></a>|</li>
+          <li><a href="index.php?screenshots"><?php echo $lang['index'][0][16]; ?></a>|</li>
+          <li><a href="spielregeln.php"><?php echo $lang['index'][0][17]; ?></a>|</li>
+          <li><a href="agb.php"><?php echo $lang['index'][0][18]; ?></a>|</li>
+          <li><a href="impressum.php"><?php echo $lang['index'][0][19]; ?></a></li>
+          <li class="copyright">&copy; 2011-<?php echo date('Y'); ?> - TravianZ - All rights reserved</li>
+        </ul>
+      </div>
+    </div>
   </body>
 </html>
