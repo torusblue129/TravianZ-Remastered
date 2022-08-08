@@ -294,7 +294,7 @@ AccessLogger::logRequest();
 		</ol>
 	</li>
 	<li><strong style="color: #2A720B">§9 非法登錄</strong><br />
-		<p> 通過非法的途徑來得到其他帳號是禁止的，違規者將被開除出遊戲。Travian管理團隊成員絕對不會詢問你的密碼。</p>
+		通過非法的途徑來得到其他帳號是禁止的，違規者將被開除出遊戲。Travian管理團隊成員絕對不會詢問你的密碼。
 	</li>
 		</ul>
 		</div>
