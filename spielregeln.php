@@ -254,7 +254,7 @@ AccessLogger::logRequest();
 				</ul>
 			<li>玩家的個人資訊中不得含有破壞 <?php echo SERVER_NAME; ?> 標準介面的內容。</li>
 			<li>所有企圖或意圖令遊戲玩家誤會聯盟或帳號與遊戲管理員有關的名稱或內容描述，都屬違反守則的行為。即遊戲者的名字不可以 衍生於Multihunter、MH、GM、Admin、管理員或者其他團隊成員的名字。如有此類情況，嚴重者將會立即被開除出遊戲。</li>
-			<li>任何形式的未經香港 <?php echo SERVER_NAME; ?> 管理團隊允許的廣告都是不允許的。</li>
+			<li>任何形式的未經 <?php echo SERVER_NAME; ?> 管理團隊允許的廣告都是不允許的。</li>
 		</ul>
 	</li>
 	<li><strong style="color: #2A720B">§8 相關處罰</strong><br>
