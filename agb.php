@@ -5,14 +5,14 @@
 ##                                                                             ##
 ## --------------------------------------------------------------------------- ##
 ##                                                                             ##
-##  Project:       ZravianX                                                    ##
-##  Version:       2011.11.07                                                  ##
+##  Project:       TravianZ-Remastered                                         ##
+##  Version:       v8.3.5                                                      ##
 ##  Filename:      agb.php                                                     ##
-##  Developed by:  ZZJHONS                                                     ##
+##  Edited by:     Torusblue129                                                ##
 ##  License:       Creative Commons BY-NC-SA 3.0                               ##
-##  Copyright:     ZravianX (c) 2011 - All rights reserved                     ##
-##  URLs:          http://zravianx.zzjhons.com                                 ##
-##  Source code:   http://www.github.com/ZZJHONS/ZravianX                      ##
+##  Copyright:     TravianZ (c) 2011 - All rights reserved                     ##
+##  URLs:          http://travianca.x10.mx/                                    ##
+##  Source code:   https://github.com/torusblue129/TravianZ-Remastered         ##
 ##                                                                             ##
 #################################################################################
 use App\Utils\AccessLogger;
