@@ -72,7 +72,7 @@ AccessLogger::logRequest();
 				一般查詢：
 				<script language="JavaScript"><!--
 				var name = "admin";
-				var domain = "travian.com";
+				var domain = "travianca.x10.mx";
 				document.write("<a href=\"mailto:" + name + "@" + domain + "\"><span class=\"t\">");
 				document.write(name + "@" + domain + "</span></a>");
 				// --></script>
@@ -80,7 +80,7 @@ AccessLogger::logRequest();
 				遊戲支援：
 				<script language="JavaScript"><!--
 				var name = "support";
-				var domain = "travian.com";
+				var domain = "travianca.x10.mx";
 				document.write("<a href=\"mailto:" + name + "@" + domain + "\"><span class=\"t\">");
 				document.write(name + "@" + domain + "</span></a>");
 				// --></script>
@@ -88,7 +88,7 @@ AccessLogger::logRequest();
 				Travian PLUS支援：
 				<script language="JavaScript"><!--
 				var name = "plus";
-				var domain = "travian.com";
+				var domain = "travianca.x10.mx";
 				document.write("<a href=\"mailto:" + name + "@" + domain + "\"><span class=\"t\">");
 				document.write(name + "@" + domain + "</span></a>");
 				// --></script>
