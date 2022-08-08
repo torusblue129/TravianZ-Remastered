@@ -66,14 +66,16 @@ AccessLogger::logRequest();
 		<li><strong style="color: #2A720B">§1密碼，註冊及帳號擁有權</strong><br>
 	<ul>
 	<li><strong style="color: #3BAE18">§1.1 註冊</strong><br>
-	The e-mail address used for the registration of an account must be under the personal and exclusive control of the person who registered the account. The person owning the e-mail address used to register an account is considered the owner of the account, regardless of any other personal or alliance agreements. The owner of an account is fully responsible for all actions taken with the account.
+	玩家在同一個伺服器中只允許註冊一個遊戲帳號。使用者註冊時使用的電子郵寄地址必須只屬於玩家個人使用，註冊時使用的電子郵件的擁有者將無條件被視作遊戲   帳號的擁有者。任何兩個玩家之間私下訂立的協議都不被考慮在內。帳號擁有者將對帳號的所有行為活動負全責。無論任何情況下，玩家不能在同一伺服器註冊多個  帳號進行遊戲，此類情況將視為多帳號行為。
 	</li>
-	<li><strong style="color: #3BAE18">&sect;1.2 Password</strong><br />
-	The owner of an account may not transfer the password of an account to any person playing on the same game world (server). Additionally, knowingly choosing the same password on the same game world as another person is illegal; any of these actions is considered multiaccounting, as defined in these rules.
-	<br /><br />
-	However, it is permissible to transfer the password of an account to a person or persons playing on different game world (or not playing at all) in order to play a single account together.
-	<br /><br />
-	There is no compensation for damages done by someone knowing the password for an account. The person receiving the password is subject to the rules of Travian as well as the General Terms and Conditions.
+	<li><strong style="color: #3BAE18">§1.2 密碼</strong><br>
+	密碼標誌著帳號的使用權。玩家帳號使用的密碼不得以任何理由給予同一伺服器中的另外一個玩家。若玩家將密碼透露給第三者，意味著將帳號的使用權也轉讓給了 第三者，由此產生的帳號損失不會得到任何賠償。<br><br>
+	將密碼給予不同伺服器的玩家（或其他未在同一伺服器註冊travian遊戲的人）以便多人共同使用同一帳號是可接受的，並不違反遊戲規則。<br><br>
+	任何知道密碼的人對帳號進行操作時遭到的損失都不會得到任何賠償。另外，由於密碼過於簡單，使其極易被破解或猜測出來而造成的帳號損失，玩家無權要求任何 賠償。<br><br>
+	如果因為帳號被盜，由此造成玩家（帳號）的損失，除非因為伺服器被入侵而導致玩家帳號資料被修改，否則玩家都不會得到來自 <?php echo SERVER_NAME; ?> 管理團隊任何形式 的賠償。<br><br>
+	被盜帳號的持有人若有需要通過法律途徑向盜取帳號者索取賠償，我們將會配合有關方面進行調查，提供相關資料，例如登入者的IP記錄等。<br><br>
+	代管必須使用代管的設置程式，不能使用帳號原密碼進行登錄，詳情參見§2。<br><br>
+	多人共用多個帳號，且直接以帳號密碼登入，亦以多重帳號處理。
 	</li>
 	<li><strong style="color: #3BAE18">&sect;1.3 Email changes / account transfers</strong><br />
 	In order to change the email address of your account or to transfer your account to another player NOT playing on the same server, go into your account profile (/spieler.php?s=3) and fill out the new email information.
