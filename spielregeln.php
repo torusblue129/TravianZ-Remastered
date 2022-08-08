@@ -178,13 +178,14 @@ AccessLogger::logRequest();
 						6. 通過市場交易：如果兩個帳號間的交易差額（不計算搶奪和增援供給）小於20%，並且帳號是 CT1 ，則可以無限制地交易。<br><br></li>
 					<li><span class="rulessubtitle">§3.4 新開伺服及新手保護期間之資源交易特殊條例</span><br>
 						在一般伺服開啟及玩家建立帳號後一百六十八小時（七天）內(三倍服以七十二小時、即三天計算)全面禁止任何形式的資源運送，包括增援兵力的糧食消耗。違規者以超送及超收處理。唯不限制1:1的市場交易，如玩家須交換其他種類的物資，請利用市場功能。如玩家發現有玩家以非1:1設定交易量，請勿接受有關交易要求，以免違反資源交易條例。</li>
-					</ul><br/><span style="text-decoration:underline;">資源運輸條例補充</span><br>
+					<ul><br/><span style="text-decoration:underline;">資源運輸條例補充</span><br>
 						<ul><li>就算每一次資源交易是規則內許可的比例，Travian管理團隊仍會以多方面的查證看玩家是否惡意獲得利益，來確定是否違規。</li>
 							<li>多次和多帳戶違規玩家進行資源交易，MH有權根據實際情況裁定雙方是聯合作弊，雙方ID都將會被封。</li>
 							<li>如果玩家打算退出遊戲並刪除帳號，而讓其他玩家使用軍隊攻擊，獲取資源或村莊，也屬於Pushing的一種。另可能 會再 處友好攻擊處分‧</li>
 							<li>如果玩家打算刪除帳號，卻向其他玩家不間斷的進貢，就算數量在規則允許之內，也可被視為Pushing。<span style="color:#ff0000;">如果情況嚴重，接收者將視為惡意利用遊戲設定漏洞進行操作，有關帳號可能被即時刪除而不另行通知。因此如有不正常資源送達，請即向MH回報處理。</span></li>
 						</ul>
-				</ul></li>
+					</ul></li>
+				</ul>
 		</li>
 		<li><strong style="color: #2A720B">§4 友好攻擊</strong><br>
 			與自身有公共電腦使用或代管關係玩家的攻擊是不允許的，<strong>而且在結束有關關係後7天仍會受有關條件限制</strong>。代管關係帳號、設置公共電腦帳號，禁止攻擊、搶奪同一玩家目標。<br>
@@ -200,9 +201,11 @@ AccessLogger::logRequest();
 			</ul></li>
 			<ul><br/><span style="text-decoration:underline;">友好攻擊條例補充</span>
 				<ul><li>攻擊的定義，不包括偵察行為，只以攻擊及搶奪為標準。</li>
-				<li>如果出現玩家互相攻擊對方同IP的小玩家，MH可以根據情況裁定為聯合作弊，帳號將馬上被封。</li>
-				<li>友攻條例設有追溯限期，即有關違反友好攻擊條例的舉報，如果超過攻擊出現後7天方提出，MH有權不接受有關投訴。</li>
-		</ul></li>
+					<li>如果出現玩家互相攻擊對方同IP的小玩家，MH可以根據情況裁定為聯合作弊，帳號將馬上被封。</li>
+					<li>友攻條例設有追溯限期，即有關違反友好攻擊條例的舉報，如果超過攻擊出現後7天方提出，MH有權不接受有關投訴。</li>
+				</ul>
+			</ul>
+		</ul>
 	<li><strong style="color: #2A720B">&sect;5 Money transactions</strong><br />
 		Any sales or purchases concerning real money regarding accounts, units, villages, resources, services or any other aspect of Travian are impermissible. The sale of Travian accounts as well as any indirect transfer (even as gifts) in connection with auction sites or other money transactions is impermissible.
 	</li>
