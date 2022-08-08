@@ -331,7 +331,10 @@ AccessLogger::logRequest();
 				</li>
 			</ul>
 
-			<div class="clear"></div>
+			</div>
+				<div class="clear"></div>
+			</div>
+			
 			<div id="footer">
 				<div class="container">
 					<a href="index.php" class="closer"><img class="dynamic_img" alt="Close" src="img/un/x.gif" /></a>
