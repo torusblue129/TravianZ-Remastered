@@ -241,7 +241,22 @@ AccessLogger::logRequest();
 	</li>
 	<li><strong style="color: #2A720B">§6 現金交易</strong><br>
 		在遊戲伺服內，任何以現金貨幣出售或購買遊戲中各類資源例如帳號，軍事單位，村莊或資源的行為都將受到懲罰。另外，玩家在遊戲中也不能進行任何收費的行為 活動。帳號的銷 售是違規的。有關帳號將永久凍結，如當中有金幣亦會凍結至伺服完結方會退回。</li>
-	<li><strong style="color: #2A720B">&sect;7 Punishments</strong><br>
+	<li><strong style="color: #2A720B">§7 網路行為準則</strong><br>
+		每個人在遊戲中都應遵守相應的行為準則：
+		<ul>
+			<li>下列行為都將受到處罰，其範圍包括所有玩家撰寫的介紹，帳號名稱，聯盟名稱，村莊名稱及短消息中，而形式不限文字，圖示 及拼組圖形亦在限制之列：
+				<ul>
+					<li>含有政治性、含有不堪入耳的、帶誹謗性質的、含有性別歧視、種族歧視、宣傳邪教的內容；任何輕視他人信仰、種 族、國籍、性別、年齡的語句及淫褻及不雅內容；</li>
+					<li>發佈任何對未成年人有害的，或違反當地及國際法規的內容，包括淫褻及不雅的、非法的圖片或連結；</li>
+					<li>騷擾其他玩家，包括而不限於惡意向其他玩家、MH發出大量信息；</li>
+					<li>違反遊戲服務條款及情況及附加規則對其他玩家進行勒索敲詐；</li>
+					<li>在公開場合未經防守及攻擊兩方玩家允許發佈的戰鬥報告。</li>
+				</ul>
+			<li>玩家的個人資訊中不得含有破壞Travian標準介面的內容。</li>
+			<li>所有企圖或意圖令遊戲玩家誤會聯盟或帳號與遊戲管理員有關的名稱或內容描述，都屬違反守則的行為。即遊戲者的名字不可以 衍生於Multihunter、MH、GM、Admin、管理員或者其他團隊成員的名字。如有此類情況，嚴重者將會立即被開除出遊戲。</li>
+			<li>任何形式的未經香港Travian管理團隊允許的廣告都是不允許的。</li>
+		</ul>
+	</li>
 		If there is an offence against these game rules, the Multihunters and, if necessary, the Administrators will ban the account(s) in question and decide on a proper punishment. Punishments will always exceed the gain of the violation of the rules.
 		<br />
 		Resources, buildings, villages or troops lost during the time of suspension do not count as punishment and will not be replaced by the Travian Team. No player has the right to claim payment or replacement for Plus/Gold time lost due to suspension.
