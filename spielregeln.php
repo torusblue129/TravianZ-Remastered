@@ -331,6 +331,7 @@ AccessLogger::logRequest();
 				</li>
 			</ul>
 
+			<div class="clear"></div>
 			<div class="footer"></div>
 
 			<div id="iframe_layer" class="overlay"></div>
