@@ -1,19 +1,20 @@
 <?php
-
-//////////////////////////////////////////////////////////////////////////////////////////////////////
-//                                             TRAVIANZ                                             //
-//            Only for advanced users, do not edit if you dont know what are you doing!             //
-//                                Made by: Dzoki & Dixie (TravianZ)                                 //
-//                              - TravianZ = Travian Clone Project -                                //
-//                                 DO NOT REMOVE COPYRIGHT NOTICE!                                  //
-//                                Adding tasks, constructions and artefact  by: Armando             //
-//                                Modified , added , fixed , implementd  by: Shadow and ronix       //
-//////////////////////////////////////////////////////////////////////////////////////////////////////
-									//                         //
-									//         ENGLISH         //
-									//      Author: Dzoki      //
-									//     Adding: Armando     //
-									/////////////////////////////
+#################################################################################
+##                                                                             ##
+##              -= YOU MUST NOT REMOVE OR CHANGE THIS NOTICE =-                ##
+##                                                                             ##
+## --------------------------------------------------------------------------- ##
+##                                                                             ##
+##  Project:       TravianZ-Remastered                                         ##
+##  Version:       v8.3.5                                                      ##
+##  Filename:      zh_tw.php                                                   ##
+##  Edited by:     Torusblue129                                                ##
+##  License:       Creative Commons BY-NC-SA 3.0                               ##
+##  Copyright:     TravianZ (c) 2011 - All rights reserved                     ##
+##  URLs:          http://travianca.x10.mx/                                    ##
+##  Source code:   https://github.com/torusblue129/TravianZ-Remastered         ##
+##                                                                             ##
+#################################################################################
 
 //MAIN MENU
 define("TRIBE1","Romans");
