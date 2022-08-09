@@ -31,21 +31,21 @@ $invited=(isset($_GET['uid'])) ? filter_var($_GET['uid'], FILTER_SANITIZE_NUMBER
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html>
 	<head>
-	<title><?php echo SERVER_NAME; ?> - <?php echo $lang['register']; ?></title>
-		<link rel="shortcut icon" href="favicon.ico"/>
-	<meta name="content-language" content="en" />
-	<meta http-equiv="cache-control" content="max-age=0" />
-	<meta http-equiv="imagetoolbar" content="no" />
-	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-	<script src="mt-core.js?0faab" type="text/javascript"></script>
-	<script src="mt-more.js?0faab" type="text/javascript"></script>
-	<script src="unx.js?f4b7h" type="text/javascript"></script>
-	<script src="new.js?0faab" type="text/javascript"></script>
-	<link href="<?php echo GP_LOCATE; ?>lang/en/compact.css?f4b7i" rel="stylesheet" type="text/css" />
-	<link href="<?php echo GP_LOCATE; ?>lang/en/lang.css?f4b7d" rel="stylesheet" type="text/css" />
-	<link href="<?php echo GP_LOCATE ?>travian.css?f4b7d" rel="stylesheet" type="text/css" />
-		<link href="<?php echo GP_LOCATE ?>lang/en/lang.css" rel="stylesheet" type="text/css" />
-	   </head>
+  	<title><?php echo SERVER_NAME; ?> - <?php echo $lang['register']; ?></title>
+  		<link rel="shortcut icon" href="favicon.ico"/>
+    	<meta name="content-language" content="en" />
+    	<meta http-equiv="cache-control" content="max-age=0" />
+    	<meta http-equiv="imagetoolbar" content="no" />
+    	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    	<script src="mt-core.js?0faab" type="text/javascript"></script>
+    	<script src="mt-more.js?0faab" type="text/javascript"></script>
+    	<script src="unx.js?f4b7h" type="text/javascript"></script>
+    	<script src="new.js?0faab" type="text/javascript"></script>
+    	<link href="<?php echo GP_LOCATE; ?>lang/en/compact.css?f4b7i" rel="stylesheet" type="text/css" />
+    	<link href="<?php echo GP_LOCATE; ?>lang/en/lang.css?f4b7d" rel="stylesheet" type="text/css" />
+    	<link href="<?php echo GP_LOCATE ?>travian.css?f4b7d" rel="stylesheet" type="text/css" />
+    	<link href="<?php echo GP_LOCATE ?>lang/en/lang.css" rel="stylesheet" type="text/css" />
+	</head>
 
 <body class="v35 ie ie7" onload="initCounter()">
 
@@ -56,7 +56,7 @@ $invited=(isset($_GET['uid'])) ? filter_var($_GET['uid'], FILTER_SANITIZE_NUMBER
 <div id="mid">
 <?php include("Templates/menu.tpl");
 if(REG_OPEN == true){ ?>
-<div id="content"  class="signup">
+<div id="content" class="signup">
 
 <h1><img src="img/x.gif" class="anmelden" alt="register for the game" /></h1>
 <h5><img src="img/x.gif" class="img_u05" alt="registration"/></h5>
