@@ -171,7 +171,7 @@ if (isset($_GET['send']) && isset($_GET['from']))
 			<table cellspacing="1" cellpadding="2" class="tbg" style="background-color:#C0C0C0; border: 0px solid #C0C0C0; font-size: 10pt;">
 			  <tbody>
 				<tr>
-				<td class="rbg" style="font-size: 10pt; text-align:center;" colspan="2"><?php echo MASS; ?></td>
+				<td class="rbg" style="font-size: 10pt; text-align:center;" colspan="2"><?php echo "公告內容"; ?></td>
 				</tr>
 				<tr>
 					<td style="font-size: 10pt; text-align: left; width: 200px;"><?php echo MASS_SUBJECT; ?></td>
