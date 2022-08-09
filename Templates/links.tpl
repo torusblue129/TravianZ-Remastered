@@ -1,16 +1,23 @@
-<?php 
+<?php
 #################################################################################
-##              -= YOU MAY NOT REMOVE OR CHANGE THIS NOTICE =-                 ##
+##                                                                             ##
+##              -= YOU MUST NOT REMOVE OR CHANGE THIS NOTICE =-                ##
+##                                                                             ##
 ## --------------------------------------------------------------------------- ##
-##  Filename       links.tpl                                                   ##
-##  Developed by:  Slim, Manuel Mannhardt < manuel_mannhardt@web.de >          ##
-##  License:       TravianX Project                                            ##
-##  Copyright:     TravianX (c) 2010-2011. All rights reserved.                ##
+##                                                                             ##
+##  Project:       TravianZ-Remastered                                         ##
+##  Version:       v8.3.5                                                      ##
+##  Filename:      Templates/links.tpl                                         ##
+##  Edited by:     Torusblue129                                                ##
+##  License:       Creative Commons BY-NC-SA 3.0                               ##
+##  Copyright:     TravianZ (c) 2011 - All rights reserved                     ##
+##  URLs:          http://travianca.x10.mx/                                    ##
+##  Source code:   https://github.com/torusblue129/TravianZ-Remastered         ##
 ##                                                                             ##
 #################################################################################
 
 // Fetch all links
-$query = $database->getLinks($session->uid); 
+$query = $database->getLinks($session->uid);
 if (mysqli_num_rows($query) > 0){
 $links = array();
 while($data = mysqli_fetch_assoc($query)) {
@@ -29,7 +36,7 @@ foreach($links as $link) {
        $external = '';
    }
 
-   echo '<tr><td class="dot">●</td><td class="link">'; 
+   echo '<tr><td class="dot">●</td><td class="link">';
  if($session->plus == 0) { echo  "buy Plus"; } else {
    echo '<a href="' . $link['url'] . '"' . $target . '>' . $link['name'] . $external . '</a></td></tr>';
 }
