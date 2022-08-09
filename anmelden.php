@@ -1,12 +1,18 @@
 <?php
-
 #################################################################################
-##              -= YOU MAY NOT REMOVE OR CHANGE THIS NOTICE =-                 ##
+##                                                                             ##
+##              -= YOU MUST NOT REMOVE OR CHANGE THIS NOTICE =-                ##
+##                                                                             ##
 ## --------------------------------------------------------------------------- ##
-##  Filename       anmelden.php                                                 ##
-##  Developed by:  Dzoki                                                       ##
-##  License:       TravianX Project                                            ##
-##  Copyright:     TravianX (c) 2010-2011. All rights reserved.                ##
+##                                                                             ##
+##  Project:       TravianZ-Remastered                                         ##
+##  Version:       v8.3.5                                                      ##
+##  Filename:      anmelden.php                                                ##
+##  Edited by:     Torusblue129                                                ##
+##  License:       Creative Commons BY-NC-SA 3.0                               ##
+##  Copyright:     TravianZ (c) 2011 - All rights reserved                     ##
+##  URLs:          http://travianca.x10.mx/                                    ##
+##  Source code:   https://github.com/torusblue129/TravianZ-Remastered         ##
 ##                                                                             ##
 #################################################################################
 
@@ -25,7 +31,7 @@ $invited=(isset($_GET['uid'])) ? filter_var($_GET['uid'], FILTER_SANITIZE_NUMBER
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html>
 	<head>
-	<title><?php echo SERVER_NAME; ?> - Registration</title>
+	<title><?php echo SERVER_NAME; ?> - <?php echo $lang['login']; ?></title>
 		<link rel="shortcut icon" href="favicon.ico"/>
 	<meta name="content-language" content="en" />
 	<meta http-equiv="cache-control" content="max-age=0" />
@@ -121,7 +127,7 @@ echo $form->getError('agree');
 		<input class="check" type="checkbox" name="agb" value="1" <?php echo $form->getRadio('agb',1); ?>/><?php echo ACCEPT_RULES; ?></p>
 
 <p class="btn">
-	<button value="anmelden" name="s1" id="btn_signup" class="trav_buttons" alt="register button"/> Register </button> 
+	<button value="anmelden" name="s1" id="btn_signup" class="trav_buttons" alt="register button"/> <?php echo $lang['login']; ?></button> 
 </p>
 </form>
 
