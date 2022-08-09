@@ -39,15 +39,15 @@ $top_rank = mysqli_fetch_assoc(mysqli_query($database->dblink,"SELECT username F
 		</tr>
 		<tr>
 			<td><b>伺服器速度</b></td>
-			<td><b>: <font color="Red"><?php echo ''.SPEED.'x';?></font></b></td>
+			<td><b>: <font color="Red"><?php echo ''.SPEED.'倍';?></font></b></td>
 		</tr>
 		<tr>
 			<td><b>軍隊速度</b></td>
-			<td><b>: <font color="Red"><?php echo INCREASE_SPEED;?>x</font></b></td>
+			<td><b>: <font color="Red"><?php echo INCREASE_SPEED;?>倍</font></b></td>
 		</tr>
 		<tr>
 			<td><b>Evasion 速度</b></td>
-			<td><b>: <font color="Red"><?php echo EVASION_SPEED;?></font></b></td>
+			<td><b>: <font color="Red"><?php echo EVASION_SPEED;?>倍</font></b></td>
 		</tr>
 		<tr>
 			<td><b>地圖尺寸</b></td>
