@@ -27,7 +27,11 @@ div.c1 {text-align: center}
 <body>
     <div id="side_navi">
         <a id="logo" href="<?php echo HOMEPAGE; ?>" name="logo"><img src="img/x.gif" alt="Travian"></a>
-        <p><a href="<?php echo HOMEPAGE; ?>" title= "主頁"; ?></a> <a href="login.php"><?php echo LOGIN; ?></a> <a href="anmelden.php"><?php echo REG; ?></a></p>
+        <p>
+          <a href="<?php echo HOMEPAGE; ?>"><?php echo "主頁"; ?></a>
+          <a href="login.php"><?php echo LOGIN; ?></a>
+          <a href="anmelden.php"><?php echo REG; ?></a>
+        </p>
     </div><?php
     }
     else {
