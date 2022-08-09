@@ -34,7 +34,7 @@ $top_rank = mysqli_fetch_assoc(mysqli_query($database->dblink,"SELECT username F
 				} else {
 					echo 0;
 				}
-				?> 玩家</b></font>
+				?> 位</b></font>
 			</td>
 		</tr>
 		<tr>
