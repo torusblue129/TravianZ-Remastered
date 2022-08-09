@@ -43,7 +43,7 @@ div.c1 {text-align: center}
 
         <p>
           <a href="<?php echo HOMEPAGE; ?>"><?php echo "主頁"; ?></a>
-          <a href="#" onclick="return Popup(0,0,1);"><?php echo $lang['index'][0][2]; ?></a>
+          <a href="#" onclick="return Popup(0,0,1);" ><?php echo $lang['index'][0][2]; ?></a>
           <a href="spieler.php?uid=<?php echo $session->uid; ?>"><?php echo 個人檔案; ?></a>
           <?php if($session->access == MULTIHUNTER) {
             echo "<a href=\"Admin/admin.php\"><font color=\"Blue\">Multihunter 介面</font></a>";
