@@ -55,7 +55,7 @@ $top_rank = mysqli_fetch_assoc(mysqli_query($database->dblink,"SELECT username F
 		</tr>
 		<tr>
 			<td><b>Village Exp.</b></td>
-			<td><b>: <font color="Red"><?php if(CP == 0){ echo "Fast"; } else if(CP == 1){ echo "Slow"; } ?></font></b></td>
+			<td><b>: <font color="Red"><?php if(CP == 0){ echo "快"; } else if(CP == 1){ echo "慢"; } ?></font></b></td>
 		</tr>
 		<tr>
 			<td><b>新手保護期</b></td>
