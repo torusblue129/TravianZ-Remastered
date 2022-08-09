@@ -54,9 +54,9 @@ div.c1 {text-align: center}
           <a href="#" onclick="return Popup(0,0,1);" ><?php echo 教學; ?></a>
           <a href="spieler.php?uid=<?php echo $session->uid; ?>"><?php echo 個人資料; ?></a>
           <?php if($session->access == MULTIHUNTER) {
-            echo "<a href=\"Admin/admin.php\"><font color=\"Blue\">Multihunter 介面</font></a>";
+            echo "<a href=\"Admin/admin.php\"><font color=\"Blue\">管理員介面</font></a>";
           } ?> <?php if($session->access == ADMIN) {
-            echo "<a href=\"Admin/admin.php\"><font color=\"Red\">ADMIN 介面</font></a>";
+            echo "<a href=\"Admin/admin.php\"><font color=\"Red\">管理員介面</font></a>";
             echo "<a href=\"massmessage.php\">全體公告</a>";
             echo "<a href=\"sysmsg.php\">系統公告</a>";
           } ?> <a href="logout.php"><?php echo 登出;?></a>
