@@ -59,11 +59,11 @@ $top_rank = mysqli_fetch_assoc(mysqli_query($database->dblink,"SELECT username F
 		</tr>
 		<tr>
 			<td><b>新手保護期</b></td>
-			<td><b>: <font color="Red"><?php echo (PROTECTION/3600);?> hrs</font></b></td>
+			<td><b>: <font color="Red"><?php echo (PROTECTION/3600);?> 小時</font></b></td>
 		</tr>
 		<tr>
 			<td><b>Medal Interval</b></td>
-			<td><b>: <font color="Red"><?php if(MEDALINTERVAL >= 86400){ echo ''.(MEDALINTERVAL/86400).' Days'; } else if(MEDALINTERVAL < 86400){ echo ''.(MEDALINTERVAL/3600).' Hours'; } ?></font></b></td>
+			<td><b>: <font color="Red"><?php if(MEDALINTERVAL >= 86400){ echo ''.(MEDALINTERVAL/86400).' 天'; } else if(MEDALINTERVAL < 86400){ echo ''.(MEDALINTERVAL/3600).' 小時'; } ?></font></b></td>
 		</tr>
 		<tr>
 			<td><b>伺服器開始於</b></td>
