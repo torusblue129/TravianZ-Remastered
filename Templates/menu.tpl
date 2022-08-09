@@ -43,17 +43,17 @@ div.c1 {text-align: center}
 
         <p>
           <a href="<?php echo HOMEPAGE; ?>"><?php echo "主頁"; ?></a>
-          <a href="#" onclick="return Popup(0,0,1);" ><?php echo $lang['index'][0][2]; ?></a>
-          <a href="spieler.php?uid=<?php echo $session->uid; ?>"><?php echo 個人檔案; ?></a>
+          <a href="#" onclick="return Popup(0,0,1);" ><?php echo 教學; ?></a>
+          <a href="spieler.php?uid=<?php echo $session->uid; ?>"><?php echo 個人資料; ?></a>
           <?php if($session->access == MULTIHUNTER) {
             echo "<a href=\"Admin/admin.php\"><font color=\"Blue\">Multihunter 介面</font></a>";
           } ?> <?php if($session->access == ADMIN) {
-            echo "<a href=\"Admin/admin.php\"><font color=\"Red\">".ADMIN_PANEL."</font></a>";
-            echo "<a href=\"massmessage.php\">".MASS_MESSAGE."</a>";
-            echo "<a href=\"sysmsg.php\">".SYSTEM_MESSAGE."</a>";
+            echo "<a href=\"Admin/admin.php\"><font color=\"Red\">ADMIN 介面</font></a>";
+            echo "<a href=\"massmessage.php\">全體公告</a>";
+            echo "<a href=\"sysmsg.php\">系統公告</a>";
           } ?> <a href="logout.php"><?php echo 登出;?></a>
         <p>
-            <a href="allianz.php?s=2"><?php echo $lang['forum'] ;?></a>
+            <a href="allianz.php?s=2"><?php echo 聊天室; ?></a>
         </p>
         <p>
 		    <?php
