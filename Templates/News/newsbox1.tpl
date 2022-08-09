@@ -23,7 +23,7 @@ $top_rank = mysqli_fetch_assoc(mysqli_query($database->dblink,"SELECT username F
 
 ?>
 
-<div class="news" title="伺服器設定">
+<div class="news">
 	<table width="100%">
 		<tr>
 			<td align="left"><b>在線玩家</b></td>
@@ -34,7 +34,7 @@ $top_rank = mysqli_fetch_assoc(mysqli_query($database->dblink,"SELECT username F
 				} else {
 					echo 0;
 				}
-				?> users</b></font>
+				?> 玩家</b></font>
 			</td>
 		</tr>
 		<tr>
