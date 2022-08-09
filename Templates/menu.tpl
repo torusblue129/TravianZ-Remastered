@@ -41,7 +41,7 @@ div.c1 {text-align: center}
     <div id="side_navi">
         <a id="logo" href="<?php echo HOMEPAGE; ?>" name="logo"><img src="img/x.gif" <?php if($session->plus) { echo "class=\"logo_plus\""; } ?> alt="Travian"></a>
 
-
+        <p>
           <a href="<?php echo HOMEPAGE; ?>"><?php echo "主頁"; ?></a>
           <a href="#" onclick="return Popup(0,0,1);"><?php echo $lang['index'][0][2]; ?></a>
           <a href="spieler.php?uid=<?php echo $session->uid; ?>"><?php echo 個人檔案; ?></a>
@@ -52,7 +52,7 @@ div.c1 {text-align: center}
             echo "<a href=\"massmessage.php\">".MASS_MESSAGE."</a>";
             echo "<a href=\"sysmsg.php\">".SYSTEM_MESSAGE."</a>";
           } ?> <a href="logout.php"><?php echo 登出;?></a>
-
+        <p>
             <a href="allianz.php?s=2"><?php echo $lang['forum'] ;?></a>
         </p>
         <p>
