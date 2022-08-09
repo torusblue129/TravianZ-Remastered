@@ -96,7 +96,7 @@ if (isset($_GET['send']) && isset($_GET['from']))
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html>
 <head>
-	<title><?php echo SERVER_NAME ?> - Mass Message</title>
+	<title><?php echo SERVER_NAME ?> - 全體公告</title>
 	<link rel="shortcut icon" href="favicon.ico"/>
 	<meta http-equiv="cache-control" content="max-age=0" />
 	<meta http-equiv="pragma" content="no-cache" />
@@ -171,30 +171,30 @@ if (isset($_GET['send']) && isset($_GET['from']))
 			<table cellspacing="1" cellpadding="2" class="tbg" style="background-color:#C0C0C0; border: 0px solid #C0C0C0; font-size: 10pt;">
 			  <tbody>
 				<tr>
-				<td class="rbg" style="font-size: 10pt; text-align:center;" colspan="2"><?php echo MASS; ?></td>
+				<td class="rbg" style="font-size: 10pt; text-align:center;" colspan="2"><?php echo "MASS"; ?></td>
 				</tr>
 				<tr>
-					<td style="font-size: 10pt; text-align: left; width: 200px;"><?php echo MASS_SUBJECT; ?></td>
+					<td style="font-size: 10pt; text-align: left; width: 200px;"><?php echo "MASS_SUBJECT"; ?></td>
 					<td style="font-size: 10pt; text-align: left;">
 					<input type="text" style="width: 240px;" class="fm" name="subject" value="" size="30" /></td>
 				</tr>
 				<tr>
-				  <td style="font-size: 10pt; text-align: left;"><?php echo MASS_COLOR; ?></td>
+				  <td style="font-size: 10pt; text-align: left;"><?php echo "MASS_COLOR"; ?></td>
 				  <td style="font-size: 10pt; text-align: left;">
 
 
 					<input type="text" style="width: 240px;" class="fm" name="color" size="30" /></td>
 				</tr>
 				<tr>
-				  <td colspan="2" style="font-size: 10pt; text-align:center;"><?php echo MASS; ?>			        <br />
+				  <td colspan="2" style="font-size: 10pt; text-align:center;"><?php echo "MASS"; ?>			        <br />
 			<textarea class="fm" name="message" cols="60" rows="23"></textarea></td>
 				</tr>
 				<tr>
-				  <td colspan="2"  style="text-align:center;"><?php echo MASS_REQUIRED; ?></td>
+				  <td colspan="2"  style="text-align:center;"><?php echo "MASS_REQUIRED"; ?></td>
 				</tr>
 				<tr>
 				  <td colspan="2"  style="text-align:center;">
-					<input type="submit" value="Send" name="submit" />    </td>
+					<input type="submit" value="Send" name="submit" /></td>
 				</tr>
 			  </tbody>
 			</table>
@@ -205,7 +205,7 @@ if (isset($_GET['send']) && isset($_GET['from']))
 			if (0 == -1 && @!$NextStep && @!$NextStep2 && @!$done){
 
 			    echo MASS_UNITS; ?>
-<a href="javascript:toggleDisplay('message_smilies')"><?php echo MASS_SHOWHIDE; ?></a>
+<a href="javascript:toggleDisplay('message_smilies')"><?php echo "MASS_SHOWHIDE"; ?></a>
 
 <div id="message_smilies" style="background:none repeat scroll 0 0 #EFEFEF;border:1px solid #71D000;left:20px;margin-top:5px;max-width:660px;padding:5px;position:relative;display: none;">
 <?php echo MASS_READ; ?>
@@ -243,10 +243,10 @@ if (isset($_GET['send']) && isset($_GET['from']))
 			<table cellspacing="1" cellpadding="2" class="tbg">
 			  <tbody>
 				<tr>
-				  <td class="rbg" colspan="2"><?php echo MASS_CONFIRM; ?></td>
+				  <td class="rbg" colspan="2"><?php echo "MASS_CONFIRM"; ?></td>
 				</tr>
 				<tr>
-				  <td style="text-align: left; width: 200px;"><?php echo MASS_REALLY; ?></td>
+				  <td style="text-align: left; width: 200px;"><?php echo "MASS_REALLY"; ?></td>
 				  <td style="text-align: left;">
 					<input type="submit" style="width: 240px;" class="fm" name="confirm" value="Yes" />
 					<input type="submit" style="width: 240px;" class="fm" name="confirm" value="No" /></td>
