@@ -29,8 +29,8 @@ div.c1 {text-align: center}
         <a id="logo" href="<?php echo HOMEPAGE; ?>" name="logo"><img src="img/x.gif" alt="Travian"></a>
         <p>
           <a href="<?php echo HOMEPAGE; ?>"><?php echo "主頁"; ?></a>
-          <a href="login.php"><?php echo LOGIN; ?></a>
-          <a href="anmelden.php"><?php echo REG; ?></a>
+          <a href="login.php"><?php echo "$lang['login']"; ?></a>
+          <a href="anmelden.php"><?php echo "$lang['register']"; ?></a>
         </p>
     </div><?php
     }
