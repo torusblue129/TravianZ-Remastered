@@ -1,11 +1,18 @@
-﻿<?php 
+﻿<?php
 #################################################################################
-##              -= YOU MAY NOT REMOVE OR CHANGE THIS NOTICE =-                 ##
+##                                                                             ##
+##              -= YOU MUST NOT REMOVE OR CHANGE THIS NOTICE =-                ##
+##                                                                             ##
 ## --------------------------------------------------------------------------- ##
-##  Filename       text_format.tpl                                             ##
-##  Developed by:  Dixie                                                       ##
-##  License:       TravianX Project                                            ##
-##  Copyright:     TravianX (c) 2010-2011. All rights reserved.                ##
+##                                                                             ##
+##  Project:       TravianZ-Remastered                                         ##
+##  Version:       v8.3.5                                                      ##
+##  Filename:      Templates/text.tpl                                          ##
+##  Edited by:     Torusblue129                                                ##
+##  License:       Creative Commons BY-NC-SA 3.0                               ##
+##  Copyright:     TravianZ (c) 2011 - All rights reserved                     ##
+##  URLs:          http://travianca.x10.mx/                                    ##
+##  Source code:   https://github.com/torusblue129/TravianZ-Remastered         ##
 ##                                                                             ##
 #################################################################################
 
