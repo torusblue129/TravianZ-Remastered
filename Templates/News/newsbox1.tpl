@@ -1,4 +1,4 @@
-<h5><img src="img/en/t2/newsbox1.gif" alt="newsbox 1" title="伺服器設定"></h5>
+<h5><img src="img/en/t2/newsbox1.gif" alt="newsbox 1"></h5>
 <?php
 
 #################################################################################
@@ -23,7 +23,7 @@ $top_rank = mysqli_fetch_assoc(mysqli_query($database->dblink,"SELECT username F
 
 ?>
 
-<div class="news">
+<div class="news" title="伺服器設定">
 	<table width="100%">
 		<tr>
 			<td align="left"><b>在線玩家</b></td>
