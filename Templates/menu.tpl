@@ -42,7 +42,7 @@ div.c1 {text-align: center}
         <a id="logo" href="<?php echo HOMEPAGE; ?>" name="logo"><img src="img/x.gif" <?php if($session->plus) { echo "class=\"logo_plus\""; } ?> alt="Travian"></a>
 
         <p>
-          <a href="<?php echo HOMEPAGE; ?>"><span><?php echo "主頁"; ?></span></a>
+          <a href="<?php echo HOMEPAGE; ?>"><?php echo "主頁"; ?></a>
           <a href="#" onclick="return Popup(0,0,1);"><?php echo $lang['index'][0][2]; ?></a>
           <a href="spieler.php?uid=<?php echo $session->uid; ?>"><?php echo 個人檔案; ?></a>
           <?php if($session->access == MULTIHUNTER) {
