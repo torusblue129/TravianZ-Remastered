@@ -38,7 +38,7 @@ div.c1 {text-align: center}
         <a id="logo" href="<?php echo HOMEPAGE; ?>" name="logo"><img src="img/x.gif" <?php if($session->plus) { echo "class=\"logo_plus\""; } ?> alt="Travian"></a>
 
 
-        <p><a href="<?php echo HOMEPAGE; ?>"><?php echo HOME; ?></a> <a href="#" onclick="return Popup(0,0,1);"><?php echo $lang['index'][0][2]; ?></a> <a href="spieler.php?uid=<?php echo $session->uid; ?>"><?php echo PROFILE; ?></a> <?php if($session->access == MULTIHUNTER) {
+        <p><a href="<?php echo HOMEPAGE; ?>"><?php echo "主頁"; ?></a> <a href="#" onclick="return Popup(0,0,1);"><?php echo $lang['index'][0][2]; ?></a> <a href="spieler.php?uid=<?php echo $session->uid; ?>"><?php echo PROFILE; ?></a> <?php if($session->access == MULTIHUNTER) {
 
                     echo "<a href=\"Admin/admin.php\"><font color=\"Blue\">Multihunter Panel</font></a>";
                     } ?> <?php if($session->access == ADMIN) {
@@ -71,13 +71,13 @@ div.c1 {text-align: center}
 		$timestamp = $database->isDeleting($session->uid);
 		if($timestamp){
 		echo "<br /><td colspan=\"2\" class=\"count\">";
-		
+
 		if($timestamp > time() + 172800){
 			echo "<a href=\"spieler.php?s=3&id=" . $session->uid . "&a=1&e=4\"><img
 			class=\"del\" src=\"img/x.gif\" alt=\"Cancel process\"
 			title=\"Cancel process\" /> </a>";
 		}
-		
+
 		$time = $generator->getTimeFormat(($timestamp - time()));
 		echo "<a href=\"spieler.php?s=3\"> The account will be deleted in <span
 		id=\"timer" . ++$session->timer . "\">" . $time . "</span> .</a></td><br />";
@@ -99,7 +99,7 @@ div.c1 {text-align: center}
     </div>
 
     <br /><br /><br /><br /><div id="side_info">
-        <?php 
+        <?php
         include("Templates/multivillage.tpl");
         include("Templates/quest.tpl");
         include("Templates/news.tpl");
