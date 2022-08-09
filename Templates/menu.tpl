@@ -53,7 +53,7 @@ div.c1 {text-align: center}
             echo "<a href=\"sysmsg.php\">".SYSTEM_MESSAGE."</a>";
           } ?> <a href="logout.php"><?php echo 登出;?></a></p>
         <p>
-            <a href="allianz.php?s=2" name="<?php echo $lang['forum']";?></a>
+            <a href="allianz.php?s=2" name=<?php echo $lang['forum'];?></a>
         </p>
         <p>
 		    <?php
